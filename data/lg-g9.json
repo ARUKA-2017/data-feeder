@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506526357522-REVIEW",
+        "user_name": "",
+        "email": "corpeknif@gmail.com",
+        "comment": "Va fos zab telakoh zu tozboze jolizedu co no bouc dasiz kolamluc ves pe.",
+        "rating": 0.6534,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506526357523-MAIN",
+            "base_score": 0.3266,
+            "property": [
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "131.9 x 68.2 x 9.1 mm (5.19 x 2.69 x 0.36 in)"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2150 mAh battery"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "TI OMAP 4430"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 170 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, August"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 830 h (2G) / Up to 798 h (3G)"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX540"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.40 W/kg (head)     0.49 W/kg (body)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~234 ppi pixel density)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Weight",
+                    "value": "125 g (4.41 oz)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "_id",
+                    "value": "59cbc4928008b516fecf7f1a"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~67.7% screen-to-body ratio)"
+                }
+            ],
+            "name": "LG Optimus L9 P760"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506526357522-REVIEW",
+            "range": "1506526357523-MAIN"
+        }
+    ]
+}

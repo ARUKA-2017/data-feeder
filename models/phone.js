@@ -1,0 +1,61 @@
+
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
+
+var Phone = mongoose.model('phones',  new Schema({
+    "GPRS": String,
+    "Loudspeaker": String,
+    "WLAN": String,
+    "Dimensions": String,
+    "Battery life": String,
+    "Multitouch": String,
+    "Internal": String,
+    "Audio quality": String,
+    "Stand-by": String,
+    "Chipset": String,
+    "Performance": String,
+    "Java": String,
+    "Type": String,
+    "CPU": String,
+    "SIM": String,
+    "USB": String,
+    "3.5mm jack": String,
+    "Camera": String,
+    "Price": String,
+    "Speed": String,
+    "3G band": String,
+    "Browser": String,
+    "Protection": String,
+    "Announced": String,
+    "Radio": String,
+    "Sensors": String,
+    "4G bands": String,
+    "Secondary": String,
+    "NFC": String,
+    "EDGE": String,
+    "Talk time": String,
+    "GPU": String,
+    "Messaging": String,
+    "Model": String,
+    "Resolution": String,
+    "Display": String,
+    "SAR EU": String,
+    "GPS": String,
+    "2G bands": String,
+    "Alert types": String,
+    "Features": String,
+    "Weight": String,
+    "Technology": String,
+    "Primary": String,
+    "Bluetooth": String,
+    "Colors": String,
+    "Card": String,
+    "Video": String,
+    "Music play": String,
+    "OS": String,
+    "Size": String    
+  }));
+  
+  // make this available to our users in our Node applications
+  module.exports = Phone;
+ 
