@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774491-REVIEW",
+        "user_name": "",
+        "email": "bahbimkit@gmail.com",
+        "comment": "Ul sugtasufi vi divleceb hecup afudafe lervak cakeof zeleve jezacdi senme jaoc rainma.",
+        "rating": 0.6328,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774491-MAIN",
+            "base_score": 0.2872,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "129.7 g (4.55 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h (2G) / Up to 400 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1700 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, May"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~60.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.7 (Gingerbread)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7227A-AA Snapdragon S1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, June"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A5"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "119.8 x 60.5 x 9.9 mm (4.72 x 2.38 x 0.39 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Motorola ATRIX TV XT682"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774491-REVIEW",
+            "range": "1506574774491-MAIN"
+        }
+    ]
+}

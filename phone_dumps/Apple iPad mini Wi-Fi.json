@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774440-REVIEW",
+        "user_name": "",
+        "email": "er@gmail.com",
+        "comment": "Ictotsep vo mara tubdoktaf bu oguvak gaodecoz dokeh ekoodozob vole wa sutogamoz je kuwo pu ko.",
+        "rating": -0.6968,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774440-MAIN",
+            "base_score": 0.1873,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, "
+                },
+                {
+                    "key": "Weight",
+                    "value": "308 g (10.86 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po 4490 mAh battery (16.7 Wh)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October. Released 2012, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, reversible connector"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Size",
+                    "value": "7.9 inches (~71.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 6, upgradable to iOS 9.3.5"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Slate, White/Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~162 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A5"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX543MP2"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "200 x 134.7 x 7.2 mm (7.87 x 5.30 x 0.28 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Apple iPad mini Wi-Fi"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774440-REVIEW",
+            "range": "1506574774440-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774401-REVIEW",
+        "user_name": "",
+        "email": "megvescu@gmail.com",
+        "comment": "Cu uwa epeigeho do kaju vajari seg os rac zasdapo upa oba pok vikasu keb ki.",
+        "rating": 0.4376,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774401-MAIN",
+            "base_score": 0.6582,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~56.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, April"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM/Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "Capacitive touchscreen"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 302"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 200"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "125.3 x 64 x 9.6 mm (4.93 x 2.52 x 0.38 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1700(AWS) "
+                }
+            ],
+            "name": "Acer Liquid Z220"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774401-REVIEW",
+            "range": "1506574774401-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774414-REVIEW",
+        "user_name": "",
+        "email": "kopueda@gmail.com",
+        "comment": "Rih reh wa fet ovzorso puzehteb pucmu zalafu gukid imojonfen iwjudap nive kahho huc refiusa.",
+        "rating": 0.0481,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774414-MAIN",
+            "base_score": 0.5939,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "114 g (4.02 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h (2G) / Up to 350 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1400 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~58.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Midnight Blue, Dark Chocolate, Dark Aubergine, White, Red, Yellow, Orange, Green, Purple"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 9 h (2G) / Up to 6 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.3 GHz"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "121.6 x 64.4 x 12.1 mm (4.79 x 2.54 x 0.48 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel Pop D3"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774414-REVIEW",
+            "range": "1506574774414-MAIN"
+        }
+    ]
+}

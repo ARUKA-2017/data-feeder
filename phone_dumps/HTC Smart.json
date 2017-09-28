@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774554-REVIEW",
+        "user_name": "",
+        "email": "diwufib@gmail.com",
+        "comment": "Furcanop suosi kon riceov oz ho neon agivizoc gijep tivsoj tutes juiza.",
+        "rating": -0.9515,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774554-MAIN",
+            "base_score": 0.4398,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~42.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1100 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, January. Released 2010, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, LED flash, "
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "108 g (3.81 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "300 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h (2G) / Up to 600 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "104 x 55 x 12.8 mm (4.09 x 2.17 x 0.50 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC Smart"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774554-REVIEW",
+            "range": "1506574774554-MAIN"
+        }
+    ]
+}

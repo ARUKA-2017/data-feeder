@@ -1,0 +1,146 @@
+{
+    "review_info": {
+        "id": "1506574774467-REVIEW",
+        "user_name": "",
+        "email": "bema@gmail.com",
+        "comment": "Bewu perevwer jahep ra kuwjalpez pugudviz jihurede laicsu bo jusravbob leishas hidow rif zu zecworur arvatfip korezihe fic.",
+        "rating": -0.2433,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774467-MAIN",
+            "base_score": 0.3194,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.8 inches (~26.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 700 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~114 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "80 g (2.82 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007"
+                },
+                {
+                    "key": "Type",
+                    "value": "CSTN, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 120 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "87.8 x 43.8 x 21.9 mm (3.46 x 1.72 x 0.86 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Bird V5518+"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774467-REVIEW",
+            "range": "1506574774467-MAIN"
+        }
+    ]
+}

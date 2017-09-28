@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774503-REVIEW",
+        "user_name": "",
+        "email": "rakohro@gmail.com",
+        "comment": "Aku oco imuzuv cofemeape jimana ece issa mamimil upifewa pira fu pi wuwud ruheni mujar jov.",
+        "rating": -0.5926,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774503-MAIN",
+            "base_score": 0.9943,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~65.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.4 (KitKat), upgradable to 6.0.1 (Marshmallow)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP, 1080p@30fps"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Charcoal Black, Shimmery White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "118 g (4.16 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.69 W/kg (head)     0.54 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~326 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 2100 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 16 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.07 W/kg (head)     0.95 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 250 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.4 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1.5 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "131.1 x 64.8 x 9.1 mm (5.16 x 2.55 x 0.36 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy S5 mini Duos"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774503-REVIEW",
+            "range": "1506574774503-MAIN"
+        }
+    ]
+}

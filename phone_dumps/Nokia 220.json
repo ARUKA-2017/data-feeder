@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774494-REVIEW",
+        "user_name": "",
+        "email": "wuhowok@gmail.com",
+        "comment": "Tajfope jihec je dato uh hezad zitekhib zokco lidu ihoagkep maghesa deh biimedo bittuweg fo edeciemo lofiwo.",
+        "rating": -0.2571,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774494-MAIN",
+            "base_score": 0.0733,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 40 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~30.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.14 W/kg (head)     0.79 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "- SNS applications"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 15 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 51 h 30 min"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "83.6 (2.93 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/5\" sensor size"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, February"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, February"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 1.1"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.13 W/kg (head)     0.54 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Li-Ion 1100 mAh battery (BL-5C) - Dual SIM"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 85.6 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Red, black, white, yellow, cyan"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116.4 x 50.3 x 13.2 mm (4.58 x 1.98 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 900 / 1800 "
+                }
+            ],
+            "name": "Nokia 220"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774494-REVIEW",
+            "range": "1506574774494-MAIN"
+        }
+    ]
+}

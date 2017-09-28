@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774537-REVIEW",
+        "user_name": "",
+        "email": "gutogrov@gmail.com",
+        "comment": "Cunewez zijko on hu oma ehe pufvotzes astak zi begikem amevawaz sugkod momlosaha.",
+        "rating": -0.6016,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774537-MAIN",
+            "base_score": 0.7306,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.4 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, stereo sound rec., "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, dual-LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "151 g (5.33 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.36 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~256 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 220"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 310 h (2G) / Up to 540 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 80 kbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, September"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 1700 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "S-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8260 Snapdragon S3"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1730 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB (1 GB user available), 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126.1 x 65.4 x 11.3 mm (4.96 x 2.57 x 0.44 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                }
+            ],
+            "name": "HTC Sensation XE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774537-REVIEW",
+            "range": "1506574774537-MAIN"
+        }
+    ]
+}

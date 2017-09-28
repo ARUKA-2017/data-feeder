@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774727-REVIEW",
+        "user_name": "",
+        "email": "cijif@gmail.com",
+        "comment": "Nuw siji orezokep fejvu baf ma ekwikus sikemi wojel nak fomlumas imeko kas siovu jew ha noknacoj cun.",
+        "rating": 0.9671,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774727-MAIN",
+            "base_score": 0.8432,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~44.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "110 g (3.88 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Np"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, May"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "85 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "105 x 55 x 15 mm (4.13 x 2.17 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG KS660"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774727-REVIEW",
+            "range": "1506574774727-MAIN"
+        }
+    ]
+}

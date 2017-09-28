@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774459-REVIEW",
+        "user_name": "",
+        "email": "dilfon@gmail.com",
+        "comment": "Awagori rob nojmes vouru do jijdo kujpoigi na lezcealo muj zeno vubemin zijak ew.",
+        "rating": 0.2407,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774459-MAIN",
+            "base_score": 0.369,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~21.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1350 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "128 g (4.52 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Cancelled"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Games",
+                    "value": "5 - Diamond, Bubble, Tic Tac, Poker, Pushbox"
+                },
+                {
+                    "key": "Internal",
+                    "value": "10 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 210 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116 x 51 x 24 mm (4.57 x 2.01 x 0.94 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1800 / 1900 - US version"
+                }
+            ],
+            "name": "Benefon TWIG Discovery Pro"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774459-REVIEW",
+            "range": "1506574774459-MAIN"
+        }
+    ]
+}

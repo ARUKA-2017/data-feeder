@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774434-REVIEW",
+        "user_name": "",
+        "email": "ruvsugif@gmail.com",
+        "comment": "Hiri tij ta mi jat hiujuca zam nuin uze zumotta gaskagam gez po.",
+        "rating": -0.7446,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774434-MAIN",
+            "base_score": 0.3327,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~25.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 720 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "97 g (3.42 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, 2Q"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 150 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver, Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 47 x 18 mm (4.21 x 1.85 x 0.71 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Amoi M636"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774434-REVIEW",
+            "range": "1506574774434-MAIN"
+        }
+    ]
+}

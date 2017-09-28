@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774597-REVIEW",
+        "user_name": "",
+        "email": "zolka@gmail.com",
+        "comment": "Esoimudiw awhu iho ovusu kumrufcun weg wa wim gote recazez ufa vabbodor cuglo lo livmo ses jut zuro.",
+        "rating": 0.5275,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774597-MAIN",
+            "base_score": 0.9262,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~43.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, April"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, April"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.21 W/kg (head)     1.28 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "50 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 240 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Red"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 54 x 17 mm (4.25 x 2.13 x 0.67 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG Xpression C395"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774597-REVIEW",
+            "range": "1506574774597-MAIN"
+        }
+    ]
+}

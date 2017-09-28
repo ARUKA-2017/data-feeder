@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "lulej@gmail.com",
+        "comment": "Ciladgic at kemvinac radohcu ka tazastej tal ofiide waf kig huro punbo ugigoljan mo.",
+        "rating": 0.5488,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.9146,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~47.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Obsidian Black, Luminous White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8.1 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 Aino (a) for Americas"
+                },
+                {
+                    "key": "Weight",
+                    "value": "134 g (4.73 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, AAC ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Wayfinder Navigator"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.74 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 432 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, incl. motion-based + downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 x 20 fields, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 380 h (2G) / Up to 367 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 13 h (2G) / Up to 4 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (NetFront 3.5), RSS reader"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.00 W/kg (head)     0.95 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, May. Released 2009, October"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "55 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "104 x 50 x 15.5 mm (4.09 x 1.97 x 0.61 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Aino"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

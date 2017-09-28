@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774530-REVIEW",
+        "user_name": "",
+        "email": "lu@gmail.com",
+        "comment": "Izratok isaza kafo vesvikec taskad tavehtod hod gousvu igo bo lesgew muhoske onti fi ogevusu jirus.",
+        "rating": -0.3932,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774530-MAIN",
+            "base_score": 0.0491,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 240 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, November"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, February"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Pink"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "128.5 x 66.7 x 9.8 mm (5.06 x 2.63 x 0.39 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android OS"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire 501"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774530-REVIEW",
+            "range": "1506574774530-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774415-REVIEW",
+        "user_name": "",
+        "email": "tujde@gmail.com",
+        "comment": "Ci pupho wimru agcaf ku mi he mazfin pobmel rupedvu zijnu co.",
+        "rating": -0.2445,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774415-MAIN",
+            "base_score": 0.1421,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~58.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "125 g (4.41 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, smile detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Yes"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h (2G) / Up to 200 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Full White, Black/White, Ash Gray, Volcano Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "121.5 x 64.4 x 12.4 mm (4.78 x 2.54 x 0.49 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel Pop 2 (4)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774415-REVIEW",
+            "range": "1506574774415-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774493-REVIEW",
+        "user_name": "",
+        "email": "zepwib@gmail.com",
+        "comment": "Ajomaduv re ugoci govauke la noh sehub sockoh kas hobcufa zi asgoj sawe gugofi ezwulat.",
+        "rating": 0.3699,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774493-MAIN",
+            "base_score": 0.6105,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~59.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8.1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Bright orange, Bright green, White, Dark grey"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE/ aptX after WP8 Denim update"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "129 g (4.55 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/4\" sensor size"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.09 W/kg (head)     1.19 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.77 W/kg (head)     0.99 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 302"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 528 h"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 13 h 20 min (2G) / Up to 10 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM Radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, July"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 200"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1430 mAh battery (BL-5J)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "119.7 x 62.3 x 11.7 mm, 86.8 cc (4.71 x 2.45 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                }
+            ],
+            "name": "Nokia Lumia 530"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774493-REVIEW",
+            "range": "1506574774493-MAIN"
+        }
+    ]
+}

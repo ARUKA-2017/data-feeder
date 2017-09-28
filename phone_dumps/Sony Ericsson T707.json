@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "feckizif@gmail.com",
+        "comment": "Hawter jihjezen ibi fun wec gevninta li gegebvob pimufta fewjad siv zopedvem udevohuw va oseav.",
+        "rating": 0.2191,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.5492,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - T707a"
+                },
+                {
+                    "key": "Weight",
+                    "value": "95 g (3.35 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.62 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "Games",
+                    "value": "1 + downloadable"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h (2G) / Up to 400 h (3G)"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 110 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, March. Released 2009, May"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~32.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "Memory Stick Micro (M2), up to 16 GB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Mysterious Black, Spring Rose, Lucid Blue, Lime Forest, Sensitive Bronze"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging (cell-ID), video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photo call"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (NetFront)"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Internal",
+                    "value": "100 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "93 x 50 x 14.1 mm (3.66 x 1.97 x 0.56 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA"
+                }
+            ],
+            "name": "Sony Ericsson T707"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

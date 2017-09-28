@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774689-REVIEW",
+        "user_name": "",
+        "email": "goip@gmail.com",
+        "comment": "Masin uliezovu jimnowi kaccijab padgeg fiavrof nobfo jovfafnek ulorezok da nutecga janide ci ajesih ce afilaj.",
+        "rating": 0.71,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774689-MAIN",
+            "base_score": 0.7901,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~30.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 4 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 800 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "90 g (3.17 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, February. Released 2010, March"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "40 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 350 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Blue"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "98.8 x 49.5 x 16.2 mm (3.89 x 1.95 x 0.64 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG KF305"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774689-REVIEW",
+            "range": "1506574774689-MAIN"
+        }
+    ]
+}

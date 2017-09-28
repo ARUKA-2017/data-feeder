@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774600-REVIEW",
+        "user_name": "",
+        "email": "amoc@gmail.com",
+        "comment": "Fidutvil fi ke ucfuew vovac gon fevsak bi pimwutzoc cab pa umowez.",
+        "rating": 0.3206,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774600-MAIN",
+            "base_score": 0.3449,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~45.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.0, 153.2 Kbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "133 g (4.69 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, Polyphonic(64), MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, March"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "480 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "480 MB, 256 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Titan Grey"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 53 x 15.2 mm (4.21 x 2.09 x 0.60 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "LG Rumor Reflex  LN272"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774600-REVIEW",
+            "range": "1506574774600-MAIN"
+        }
+    ]
+}

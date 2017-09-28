@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774415-REVIEW",
+        "user_name": "",
+        "email": "momatol@gmail.com",
+        "comment": "Din zowgohec kapev jelme cu rikimve odozes unvuer da fasi al co ru lur heuponi imegi.",
+        "rating": -0.6961,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774415-MAIN",
+            "base_score": 0.8851,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~67.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 13 h (2G) / Up to 8 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1700 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~220 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "149 g (5.26 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Yes"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 800 h (2G) / Up to 667 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Various"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141 x 72.1 x 9.9 mm (5.55 x 2.84 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel Pop Icon"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774415-REVIEW",
+            "range": "1506574774415-MAIN"
+        }
+    ]
+}

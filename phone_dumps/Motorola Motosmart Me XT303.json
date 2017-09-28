@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774491-REVIEW",
+        "user_name": "",
+        "email": "ros@gmail.com",
+        "comment": "Uh ge goz figem vuzgegniv itatfe zi juwdafmor iv mifhamuz pi zuitu kevabmuv sugsolpa tizfe kisu.",
+        "rating": -0.4263,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774491-MAIN",
+            "base_score": 0.022,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Weight",
+                    "value": "107 g (3.77 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 180 h (2G) / Up to 250 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 160 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~46.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6573"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q2"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "800 MHz Cortex-A9"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX531"
+                },
+                {
+                    "key": "Internal",
+                    "value": "512 MB, 256 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "110 x 59.4 x 11.9 mm (4.33 x 2.34 x 0.47 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA"
+                }
+            ],
+            "name": "Motorola Motosmart Me XT303"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774491-REVIEW",
+            "range": "1506574774491-MAIN"
+        }
+    ]
+}

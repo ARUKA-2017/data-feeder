@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774524-REVIEW",
+        "user_name": "",
+        "email": "ragug@gmail.com",
+        "comment": "Finwane kol tet lomuzsi jac sula ron galcu ojegielo cuwu bigonaj rub edva mirpenup cufru gosfu.",
+        "rating": -0.1249,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774524-MAIN",
+            "base_score": 0.344,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~59.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0.3 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, stereo sound rec."
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "132 g (4.66 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~275 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 225"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP, 720p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 1900 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, May"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 13(700) - Verizon"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 270 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, July "
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "S-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8960 Snapdragon S4 Plus"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "121.9 x 61 x 11.7 mm (4.80 x 2.40 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA, LTE, EV-DO Rev. A 3.1 Mbps"
+                }
+            ],
+            "name": "HTC DROID Incredible 4G LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774524-REVIEW",
+            "range": "1506574774524-MAIN"
+        }
+    ]
+}

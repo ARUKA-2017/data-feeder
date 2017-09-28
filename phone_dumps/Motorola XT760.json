@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774490-REVIEW",
+        "user_name": "",
+        "email": "zib@gmail.com",
+        "comment": "Woz atvejfa ki tepnicek hivutfu ek fatoj miew muc cikcihu ebtuega zelco gi fufkozo dauc.",
+        "rating": -0.6811,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774491-MAIN",
+            "base_score": 0.9909,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~57.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1650 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~275 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "125 g (4.41 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, June"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "2 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "120.8 x 64 x 9.9 mm (4.76 x 2.52 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Motorola XT760"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774490-REVIEW",
+            "range": "1506574774491-MAIN"
+        }
+    ]
+}

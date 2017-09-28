@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "bewpi@gmail.com",
+        "comment": "Masu je wofivu ji ru gi wa usfutaw rewabij tinnevda mil baf fifobge gehum.",
+        "rating": -0.8376,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.5702,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - C903a"
+                },
+                {
+                    "key": "Weight",
+                    "value": "96 g (3.39 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.55 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, incl. motion-based + downloadable"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h (2G) / Up to 350 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1000 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 110 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, July"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~37.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "Memory Stick Micro (M2), up to 16 GB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Lacquer Black, Techno White, Glamour Red, Metal Pink, Warm Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face/smile detection, video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, AAC ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Wayfinder Navigator 7"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 x 20 fields, Photo call"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (NetFront), RSS reader"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Internal",
+                    "value": "105 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "97 x 49 x 16 mm (3.82 x 1.93 x 0.63 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA"
+                }
+            ],
+            "name": "Sony Ericsson C903"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

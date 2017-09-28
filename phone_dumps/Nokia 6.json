@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774517-REVIEW",
+        "user_name": "",
+        "email": "hoelupi@gmail.com",
+        "comment": "Micu kudobon du bahdosuk kemoz ujiluc zev aju cajwi bas veofuute vosudo.",
+        "rating": -0.8648,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774517-MAIN",
+            "base_score": 0.1473,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~70.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 7.1.1 (Nougat)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 18 h (3G)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Arte Black, Matte Black, Tempered Blue, Silver, Copper"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "16 MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "169 g (5.96 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1.0 µm pixel size, geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~403 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 505"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 768 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP, f/2.0, autofocus, 1.12 µm pixel size, 1080p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2017, January"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2017, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB On-The-Go"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 1.4 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8937 Snapdragon 430"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 3000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM - Matte Black, Tempered Blue, Silver, Copper"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "154 x 75.8 x 7.9 mm (6.06 x 2.98 x 0.31 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Nokia 6"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774517-REVIEW",
+            "range": "1506574774517-MAIN"
+        }
+    ]
+}

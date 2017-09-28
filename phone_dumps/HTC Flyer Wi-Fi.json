@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774543-REVIEW",
+        "user_name": "",
+        "email": "nacauc@gmail.com",
+        "comment": "Dud pij sutorjes aduunlis cuc tohlof fomad cucajzad vezi vujepwak ca jaciv um jophipig giv sidekaaf obduc.",
+        "rating": -0.8464,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774543-MAIN",
+            "base_score": 0.3524,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~57.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.3 (Gingerbread), upgradable to 3.2 (Honeycomb)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 4000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 110 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "600 x 1024 pixels (~170 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "420.8 g (14.82 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, May"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, February"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.5 GHz Scropion"
+                },
+                {
+                    "key": "Type",
+                    "value": "LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255T Snapdragon S2"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "195.4 x 122 x 13.2 mm (7.69 x 4.80 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "HTC Flyer Wi-Fi"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774543-REVIEW",
+            "range": "1506574774543-MAIN"
+        }
+    ]
+}

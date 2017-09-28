@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774756-REVIEW",
+        "user_name": "",
+        "email": "howpikon@gmail.com",
+        "comment": "Ehisi elasu no vir uzone ikzocus wefoh vi wagzuwil wovo vafhiz lu lovfoha mi jaj.",
+        "rating": 0.6991,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774756-MAIN",
+            "base_score": 0.0967,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "Videocall camera"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~43.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, September. Released 2008, December"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "109 g (3.84 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.86 W/kg (head)     0.52 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "100 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 54 x 13 mm (4.25 x 2.13 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG KB770"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774756-REVIEW",
+            "range": "1506574774756-MAIN"
+        }
+    ]
+}

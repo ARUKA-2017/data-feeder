@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774616-REVIEW",
+        "user_name": "",
+        "email": "ecbolla@gmail.com",
+        "comment": "Wuz edege tem tahput mezoglut hez me amsu jupzovkik jotfo vaz owupobun.",
+        "rating": 0.7302,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774616-MAIN",
+            "base_score": 0.3911,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~58.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.27 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, July"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 237 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "109 g (3.84 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, July"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A8"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX530"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "TI OMAP 3630"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "2 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "122 x 64 x 9.2 mm (4.80 x 2.52 x 0.36 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.2 (Froyo), 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 48 kbps"
+                }
+            ],
+            "name": "LG Optimus Black (White version)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774616-REVIEW",
+            "range": "1506574774616-MAIN"
+        }
+    ]
+}

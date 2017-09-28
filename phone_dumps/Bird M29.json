@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774467-REVIEW",
+        "user_name": "",
+        "email": "rasoca@gmail.com",
+        "comment": "Bervam kuhufimi vez gebir ducwa kiw rizo sidono repa mawcu wo geluj fasde hor.",
+        "rating": -0.6697,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774467-MAIN",
+            "base_score": 0.5534,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.6 inches (~17.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 700 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~128 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "90 g (3.17 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "37 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 150 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 44 x 15.2 mm (4.21 x 1.73 x 0.60 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Bird M29"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774467-REVIEW",
+            "range": "1506574774467-MAIN"
+        }
+    ]
+}

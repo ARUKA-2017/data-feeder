@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774641-REVIEW",
+        "user_name": "",
+        "email": "af@gmail.com",
+        "comment": "Wehec odewogzuh aseca lofo nobwidute bo lob zepnek riv hec boridje uzale ti inofofe pizsa ofvaca zenha.",
+        "rating": -0.1899,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774641-MAIN",
+            "base_score": 0.4916,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~44.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " CDMA PCS"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~292 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "158 g (5.57 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, January"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7627"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Internal",
+                    "value": "512 MB, 256 MB RAM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115.8 x 56.4 x 15.8 mm (4.56 x 2.22 x 0.62 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.1 (Eclair)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "EV-DO Rev.A 3.1 Mbps"
+                }
+            ],
+            "name": "LG Axis"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774641-REVIEW",
+            "range": "1506574774641-MAIN"
+        }
+    ]
+}

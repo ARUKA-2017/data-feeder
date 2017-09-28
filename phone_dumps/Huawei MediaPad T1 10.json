@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774474-REVIEW",
+        "user_name": "",
+        "email": "wumi@gmail.com",
+        "comment": "Un hinvi heg uwo umegij korwud dovtikib okifezu sinafmev ki luzhi umuca em dale lufta.",
+        "rating": 0.4067,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774474-MAIN",
+            "base_score": 0.3618,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.6 inches (~71.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.4 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Silver, White/Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "433 g (15.27 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS/ BDS (market dependant)"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~157 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 570 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 38(2600), 40(2300)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 4800 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "248.5 x 150 x 8.3 mm (9.78 x 5.91 x 0.33 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Huawei MediaPad T1 10"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774474-REVIEW",
+            "range": "1506574774474-MAIN"
+        }
+    ]
+}

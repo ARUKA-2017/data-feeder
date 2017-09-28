@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774458-REVIEW",
+        "user_name": "",
+        "email": "ergis@gmail.com",
+        "comment": "Zuog rowre facana jeotmu votvevo zacevoupa wo du elkoziz sogsebusu vir kosaju nizip cuafba utaraw pespipuhi cepi.",
+        "rating": -0.5082,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774458-MAIN",
+            "base_score": 0.4037,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~67.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Red, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "299 g (10.55 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~216 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6430"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 316 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host, USB OTG"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.33 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3530"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po battery (15 Wh)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "194.3 x 108.9 x 9.8 mm (7.65 x 4.29 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Asus Fonepad 7 FE375CXG"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774458-REVIEW",
+            "range": "1506574774458-MAIN"
+        }
+    ]
+}

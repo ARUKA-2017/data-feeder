@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774474-REVIEW",
+        "user_name": "",
+        "email": "coz@gmail.com",
+        "comment": "Ded aggiv kedudiv oszeane goz ih giwe dojunuku ugakodev po hitawpeg tipi.",
+        "rating": 0.0307,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774475-MAIN",
+            "base_score": 0.7634,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 3(1800), 7(2600), 8(900), 20(800)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "160 g (5.64 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes (G620S-L01 model)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800)"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~66.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.4 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "143 x 72 x 8.5 mm (5.63 x 2.83 x 0.33 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA, LTE"
+                }
+            ],
+            "name": "Huawei Honor 4 Play"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774474-REVIEW",
+            "range": "1506574774475-MAIN"
+        }
+    ]
+}

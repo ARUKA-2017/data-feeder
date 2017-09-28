@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774450-REVIEW",
+        "user_name": "",
+        "email": "aru@gmail.com",
+        "comment": "Ka uc dudsiswol wuazigu luto jinulu dohmice rah lamu umamu cif ozeoc.",
+        "rating": -0.7257,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774450-MAIN",
+            "base_score": 0.7068,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~59.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, February"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "115 g (4.06 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, April"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.00 W/kg (head)     0.87 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "125 x 61 x 8.5 mm (4.92 x 2.40 x 0.33 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes, hotspot, Wi-Fi Direct, DLNA"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Archos 40b Titanium"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774450-REVIEW",
+            "range": "1506574774450-MAIN"
+        }
+    ]
+}

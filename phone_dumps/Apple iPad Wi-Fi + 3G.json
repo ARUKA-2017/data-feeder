@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774443-REVIEW",
+        "user_name": "",
+        "email": "ugapaben@gmail.com",
+        "comment": "Ru ho medhijga gucne fikunba zoldam anizike amiomate inuhurme temaruni bihhat mi polra huf kaj hefmozof canelaze mid.",
+        "rating": 0.7841,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774444-MAIN",
+            "base_score": 0.7883,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~63.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 410 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML (Safari)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, January. Released 2010, March"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~132 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "730 g (1.61 lb)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A8"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX535"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A4"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 256 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "242.8 x 189.7 x 13.4 mm (9.56 x 7.47 x 0.53 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 4, upgradable to iOS 5.1.1"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Apple iPad Wi-Fi + 3G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774443-REVIEW",
+            "range": "1506574774444-MAIN"
+        }
+    ]
+}

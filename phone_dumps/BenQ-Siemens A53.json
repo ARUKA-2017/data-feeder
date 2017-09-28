@@ -1,0 +1,158 @@
+{
+    "review_info": {
+        "id": "1506574774463-REVIEW",
+        "user_name": "",
+        "email": "gu@gmail.com",
+        "comment": "Gewpodoc jiffuab cet id refme otutif celpih zi wisjufev tom cedtiz or va liotuow lagur miep fik.",
+        "rating": -0.1537,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774463-MAIN",
+            "base_score": 0.549,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "176 x 220 pixels"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 600 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "- Second external 65K colors CSTN display, 120 x 160 pixels"
+                },
+                {
+                    "key": "Weight",
+                    "value": "68 g (2.40 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, April"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "1.1"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 200 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Blue, Pink"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "80 x 42 x 14.8 mm (3.15 x 1.65 x 0.58 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "BenQ-Siemens A53"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774463-REVIEW",
+            "range": "1506574774463-MAIN"
+        }
+    ]
+}

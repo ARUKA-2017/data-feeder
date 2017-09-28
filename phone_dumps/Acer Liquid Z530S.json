@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774400-REVIEW",
+        "user_name": "",
+        "email": "lope@gmail.com",
+        "comment": "Zukwuz weh vomo wacme he anana kalgep ufa famugari cig noujwe ni osa ewa.",
+        "rating": 0.8954,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774400-MAIN",
+            "base_score": 0.1743,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~68.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "145 g (5.11 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, November"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 1.3 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T720MP3"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6753"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "144 x 70.3 x 8.9 mm (5.67 x 2.77 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1 (Lollipop)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Acer Liquid Z530S"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774400-REVIEW",
+            "range": "1506574774400-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "review_info": {
+        "id": "1506574774428-REVIEW",
+        "user_name": "",
+        "email": "fukge@gmail.com",
+        "comment": "Dottid ga do erohiji wovo zuzlesis faaho pof ewupouhi ceogu vehcesor fuf hamvo jam vuih ubkaek bucuwte.",
+        "rating": -0.1485,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774428-MAIN",
+            "base_score": 0.4185,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~60.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (customized)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML (Amazon Silk)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "600 x 1024 pixels (~170 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "413 g (14.57 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, November"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX540"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "TI OMAP 4430"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "190 x 120 x 11.4 mm (7.48 x 4.72 x 0.45 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Amazon Kindle Fire"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774428-REVIEW",
+            "range": "1506574774428-MAIN"
+        }
+    ]
+}

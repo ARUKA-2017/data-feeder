@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774478-REVIEW",
+        "user_name": "",
+        "email": "dokbi@gmail.com",
+        "comment": "Zegsip azbewuro levul ha kil li zavuz bibwog ma dec ka atkib kicu vipisa siw.",
+        "rating": 0.6688,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774478-MAIN",
+            "base_score": 0.9027,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~66.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Gold, Red, Green"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "145 g (5.11 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~207 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 302"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 345 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 110 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8212 Snapdragon 200"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1900 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "127.5 x 67.9 x 11.9 mm (5.02 x 2.67 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG L Fino"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774478-REVIEW",
+            "range": "1506574774478-MAIN"
+        }
+    ]
+}

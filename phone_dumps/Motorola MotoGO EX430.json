@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774492-REVIEW",
+        "user_name": "",
+        "email": "safa@gmail.com",
+        "comment": "Huuv ge ruge fok ku woigu pojab oju mucoroj kebipuw cu egra vupuc ev kehfiesi.",
+        "rating": 0.2692,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774492-MAIN",
+            "base_score": 0.394,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~22.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, May"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Java",
+                    "value": "- SNS integration"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 910 mAh battery"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "100 g (3.53 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q4"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "MTK 6276W"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "50 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 350 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "104 x 63.9 x 13 mm (4.09 x 2.52 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Motorola MotoGO EX430"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774492-REVIEW",
+            "range": "1506574774492-MAIN"
+        }
+    ]
+}

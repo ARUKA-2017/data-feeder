@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774668-REVIEW",
+        "user_name": "",
+        "email": "cogcoudu@gmail.com",
+        "comment": "Weg zed huecaote no itges ablidiga bij urcozat id ged wuujkot joh.",
+        "rating": 0.6479,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774668-MAIN",
+            "base_score": 0.1121,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~45.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 40 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, May. Released 2010, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~292 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "152 g (5.36 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.77 W/kg (head)     1.15 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm QSD8250 Snapdragon S1"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 475 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115 x 56 x 17 mm (4.53 x 2.20 x 0.67 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "CDMA2000 1xEV-DO "
+                }
+            ],
+            "name": "LG Fathom VS750"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774668-REVIEW",
+            "range": "1506574774668-MAIN"
+        }
+    ]
+}

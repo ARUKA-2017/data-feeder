@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774426-REVIEW",
+        "user_name": "",
+        "email": "tura@gmail.com",
+        "comment": "Iweusa he od wim feuma wasoh ej apbag fudid hivlutsed junifmu sasta ludajowe.",
+        "rating": -0.403,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774426-MAIN",
+            "base_score": 0.0812,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~62.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Customized Android 5.1 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 50 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "600 x 1024 pixels (~170 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "313 g (11.04 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, November"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.3 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-450MP4"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT8127"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 2980 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "191 x 115 x 10.6 mm (7.52 x 4.53 x 0.42 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Amazon Fire 7"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774426-REVIEW",
+            "range": "1506574774426-MAIN"
+        }
+    ]
+}

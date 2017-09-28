@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774655-REVIEW",
+        "user_name": "",
+        "email": "ehiwu@gmail.com",
+        "comment": "Ti lotan kepehu rejwu tegaska namne nu if hudivu wor wu kuk narijat hovut tulvuvjej.",
+        "rating": -0.0145,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774655-MAIN",
+            "base_score": 0.3475,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/2 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "132 g (4.66 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.52 W/kg (head)     1.49 W/kg (body)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h (2G) / Up to 450 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1250 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, July. Released 2010, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~46.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.2 (Froyo)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.13 W/kg (head)     0.92 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Internal",
+                    "value": "150 MB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.5 x 57.9 x 12.9 mm (4.43 x 2.28 x 0.51 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG Optimus Chic E720"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774655-REVIEW",
+            "range": "1506574774655-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774582-REVIEW",
+        "user_name": "",
+        "email": "wasopag@gmail.com",
+        "comment": "Owhupaw cemub tiiwiad bej otemi hamfev re mebikid pungib ubewu mopje zere tatgi cute bacugbu kifep sojhu love.",
+        "rating": 0.5722,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774582-MAIN",
+            "base_score": 0.1209,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~46.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, recording"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.74 W/kg (head)     0.45 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, February"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~133 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "104.6 g (3.67 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, February"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Triple SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A5"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7225A-AB Snapdragon S1"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Pink"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102.6 x 58.9 x 13.3 mm (4.04 x 2.32 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG Optimus L1 II Tri E475"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774582-REVIEW",
+            "range": "1506574774582-MAIN"
+        }
+    ]
+}

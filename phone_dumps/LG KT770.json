@@ -1,0 +1,158 @@
+{
+    "review_info": {
+        "id": "1506574774738-REVIEW",
+        "user_name": "",
+        "email": "ru@gmail.com",
+        "comment": "Fivuru mizujgo hanoj doc maib ta waknubuj rev ud mup reele nodu cawezfi hetupuk jizopten daija.",
+        "rating": -0.5466,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774738-MAIN",
+            "base_score": 0.425,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~39.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML MP 1.1, HTML 4.01"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face, smile and blink detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, Q2"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.36 W/kg (head)     0.75 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "120 MB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "111 x 51.5 x 15.8 mm (4.37 x 2.03 x 0.62 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes, Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian OS 9.3 Series60 rel. 3.2.3"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                }
+            ],
+            "name": "LG KT770"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774738-REVIEW",
+            "range": "1506574774738-MAIN"
+        }
+    ]
+}

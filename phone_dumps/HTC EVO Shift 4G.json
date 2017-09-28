@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774547-REVIEW",
+        "user_name": "",
+        "email": "nojenris@gmail.com",
+        "comment": "Gagoli wadudim zom pewbuab geodazaf raloz raguh je ute zicnavji ma ji vido.",
+        "rating": 0.0351,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774547-MAIN",
+            "base_score": 0.9683,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.6 inches (~52.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread)"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~259 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.72 W/kg (head)     1.14 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 146 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, January"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "800 MHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7630 Snapdragon S2"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Internal",
+                    "value": "2 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "117 x 60 x 16 mm (4.61 x 2.36 x 0.63 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, WiMAX 802.16 e, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "HTC EVO Shift 4G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774547-REVIEW",
+            "range": "1506574774547-MAIN"
+        }
+    ]
+}

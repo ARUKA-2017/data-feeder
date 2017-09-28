@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774612-REVIEW",
+        "user_name": "",
+        "email": "turvuj@gmail.com",
+        "comment": "Hiuwsip pupennan capop bagoz ni li jaabu cu guobeuh lu vubumtu haror use etpe punhaaji jepcif.",
+        "rating": 0.6469,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774612-MAIN",
+            "base_score": 0.4532,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~57.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.4 (Gingerbread)"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "147 g (5.19 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "ULP GeForce"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 200 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, September"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Nvidia Tegra 2 AP20H"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "123 x 65 x 12.3 mm (4.84 x 2.56 x 0.48 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "LG Optimus Q2 LU6500"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774612-REVIEW",
+            "range": "1506574774612-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774586-REVIEW",
+        "user_name": "",
+        "email": "mop@gmail.com",
+        "comment": "Zocewbon ekovan kufli bukwo leozzu zeava zamaf bil kejlerta gonu diftatwo kor ewamal pecnagke dopik.",
+        "rating": -0.0814,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774586-MAIN",
+            "base_score": 0.4532,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~63.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Purple, Titanium, Black (T-Mobile)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "113.4 g (3.99 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 - LS720"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 456 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 4(1700/2100), 17(700) - T-Mobile, MetroPCS"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO - LS720"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, June"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 2"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - for T-Mobile"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1700 / 1900 / 2100 - for T-Mobile"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, June"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8930 Snapdragon 400"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2460 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116.1 x 62 x 10.1 mm (4.57 x 2.44 x 0.40 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 25(1900) - LS720"
+                }
+            ],
+            "name": "LG Optimus F3"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774586-REVIEW",
+            "range": "1506574774586-MAIN"
+        }
+    ]
+}

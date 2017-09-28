@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774474-REVIEW",
+        "user_name": "",
+        "email": "fag@gmail.com",
+        "comment": "Nepizin osocohof dajezij ahmom dian ici dihebupis ap zul kijowu lib fire dozfuf nizotev.",
+        "rating": -0.4583,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774474-MAIN",
+            "base_score": 0.3569,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6.0 inches (~78.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@60fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Obsidian black, Moonlight silver, Amber gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "185 g (6.53 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~367 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T628 MP4"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, 720p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, December"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Sapphire crystal glass, oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 500 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual active)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.8 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7)"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "HiSilicon Kirin 925"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "157 x 81 x 7.9 mm (6.18 x 3.19 x 0.31 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Huawei Ascend Mate7 Monarch"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774474-REVIEW",
+            "range": "1506574774474-MAIN"
+        }
+    ]
+}

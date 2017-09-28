@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774442-REVIEW",
+        "user_name": "",
+        "email": "admip@gmail.com",
+        "comment": "Beg efzis dediv banahlan ati jon jurugiva cig luvgef kiana nakaur riodwu ladve job.",
+        "rating": -0.9918,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774442-MAIN",
+            "base_score": 0.0052,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~65.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 5.1, upgradable to iOS 9.3.5"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "662 g (1.46 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~264 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX543MP4 (quad-core graphics)"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 720 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 13(700) - for Verizon"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA, 480p@30fps, videocalling over Wi-Fi only"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, March"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 - for Verizon"
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO - for Verizon"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 400 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, March 16th"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A5X"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 4(1700/2100), 17(700) - AT&T"
+                }
+            ],
+            "name": "Apple iPad 3 Wi-Fi + Cellular"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774442-REVIEW",
+            "range": "1506574774442-MAIN"
+        }
+    ]
+}

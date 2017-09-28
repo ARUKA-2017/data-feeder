@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774569-REVIEW",
+        "user_name": "",
+        "email": "oma@gmail.com",
+        "comment": "Diwcu gabegi jo recatov gepolva was mir aghoak aro hitipba giwe nejjuj lon.",
+        "rating": -0.5928,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774569-MAIN",
+            "base_score": 0.3955,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~52.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "About 210 EUR"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, March. Released 2008, February"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " No voice calls, data transfer only"
+                },
+                {
+                    "key": "Primary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 480 pixels (Wide-VGA) (~133 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "800 g (1.76 lb)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Intel Stealey 800MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "40/80 GB (microdrive), 1 GB RAM, 128 MB ROM"
+                },
+                {
+                    "key": "Colors",
+                    "value": "1.91 W/kg (head)     "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "SDIO"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "- Dual speakers "
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "207 x 129 x 25 mm (8.15 x 5.08 x 0.98 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Vista Business and SnapVUE OS"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                }
+            ],
+            "name": "HTC Shift"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774569-REVIEW",
+            "range": "1506574774569-MAIN"
+        }
+    ]
+}

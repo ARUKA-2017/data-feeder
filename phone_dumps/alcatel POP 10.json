@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774413-REVIEW",
+        "user_name": "",
+        "email": "aku@gmail.com",
+        "comment": "Ucuopohiv usu gela joj hi vevuphe et tumehuw tiwpopva tumsedwip dina cid otigehof ojtejo heslolub.",
+        "rating": 0.0598,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774413-MAIN",
+            "base_score": 0.609,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700) - US"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EMEA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "380 g (13.40 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 250 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - LATAM, US"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "9.6 inches (~74.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Dark grey"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~157 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, April"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Yes"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "245.2 x 146.4 x 7.9 mm (9.65 x 5.76 x 0.31 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 28(700) - LATAM"
+                }
+            ],
+            "name": "alcatel POP 10"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774413-REVIEW",
+            "range": "1506574774413-MAIN"
+        }
+    ]
+}

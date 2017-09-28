@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774550-REVIEW",
+        "user_name": "",
+        "email": "kifer@gmail.com",
+        "comment": "Ivifok fil regla cap abida impiuwo ifusirit dute fohdi pered nomov epfusbo no updium abupukpot eh ru.",
+        "rating": -0.981,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774550-MAIN",
+            "base_score": 0.7002,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~62.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.2 (Froyo), 2.3 (Gingerbread), not upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Brown"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, dual-LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "164 g (5.78 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.47 W/kg (head)     0.84 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 490 h (2G) / Up to 420 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, September. Released 2010, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - North America"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1230 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1.5 GB; 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "123 x 68 x 11.8 mm (4.84 x 2.68 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 14.4/5.76 Mbps or HSPA 7.2/2 Mbps (carrier dependent)"
+                }
+            ],
+            "name": "HTC Desire HD"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774550-REVIEW",
+            "range": "1506574774550-MAIN"
+        }
+    ]
+}

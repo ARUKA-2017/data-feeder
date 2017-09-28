@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774522-REVIEW",
+        "user_name": "",
+        "email": "jes@gmail.com",
+        "comment": "Doomiune laisobi ze zir ruahi ketpuwu ekciz mep rilihtu icefu ge hedza ve jetgocuc ipticila.",
+        "rating": 0.8746,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774522-MAIN",
+            "base_score": 0.1035,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.65 inches (~65.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Titanium Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~316 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.27 W/kg (head)     1.39 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 790 h (2G) / Up to 600 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.9 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE (market dependent)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, November"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 260 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "TI OMAP 4470"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2100 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "134.2 x 68 x 9 mm (5.28 x 2.68 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Premier I9260"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774522-REVIEW",
+            "range": "1506574774522-MAIN"
+        }
+    ]
+}

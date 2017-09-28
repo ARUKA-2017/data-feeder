@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774555-REVIEW",
+        "user_name": "",
+        "email": "fersa@gmail.com",
+        "comment": "Na metupse ze ogri mutenoj danatez uwe baes kuwfow wehacakiv pof ez ruz ciz begos nofow elfo gob.",
+        "rating": 0.0347,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774555-MAIN",
+            "base_score": 0.8193,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/2 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "117.5 g (4.13 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 360 h"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1100 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, October. Released 2009, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~50.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~292 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7201A"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.51 W/kg (head)     1.43 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 53 x 13.7 mm (4.25 x 2.09 x 0.54 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "HTC Pure"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774555-REVIEW",
+            "range": "1506574774555-MAIN"
+        }
+    ]
+}

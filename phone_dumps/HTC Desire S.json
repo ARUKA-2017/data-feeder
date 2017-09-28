@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774541-REVIEW",
+        "user_name": "",
+        "email": "lehbaka@gmail.com",
+        "comment": "Igfiwhu sieci sebe ruif suv uhavo wuj erdecit mooj met fopuciaca gi duvbinal ov guuj.",
+        "rating": 0.9423,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774541-MAIN",
+            "base_score": 0.4758,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.7 inches (~56.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~252 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.33 W/kg (head)     1.06 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 430 h (2G) / Up to 455 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 560 kbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, February"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "S-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1450 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1.1 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115 x 59.8 x 11.6 mm (4.53 x 2.35 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 114 kbps"
+                }
+            ],
+            "name": "HTC Desire S"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774541-REVIEW",
+            "range": "1506574774541-MAIN"
+        }
+    ]
+}

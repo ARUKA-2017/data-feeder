@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774454-REVIEW",
+        "user_name": "",
+        "email": "sabuugu@gmail.com",
+        "comment": "Ajabad al te mam weej je veh wivi efu ole kiawewol wojzic etlor.",
+        "rating": -0.5378,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774454-MAIN",
+            "base_score": 0.4867,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.0, autofocus, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "156 g (5.50 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, July"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~72.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Rose Gold, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~401 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8939 Snapdragon 615"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP, f/2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, December"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "151.8 x 75.5 x 8.1 mm (5.98 x 2.97 x 0.32 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Asus Pegasus 2 Plus"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774454-REVIEW",
+            "range": "1506574774454-MAIN"
+        }
+    ]
+}

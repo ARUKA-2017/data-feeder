@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774531-REVIEW",
+        "user_name": "",
+        "email": "pokfad@gmail.com",
+        "comment": "Tiw togpupta bewmi ija hem mo reeze ataevwos cazede zoh oloosno fapuwil neuzsu ni.",
+        "rating": -0.9396,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774531-MAIN",
+            "base_score": 0.7717,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~59.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1620 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, April"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "136 g (4.80 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, April"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 665 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Red"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "129.7 x 67.9 x 10.7 mm (5.11 x 2.67 x 0.42 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1 (Jelly Bean)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire P"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774531-REVIEW",
+            "range": "1506574774531-MAIN"
+        }
+    ]
+}

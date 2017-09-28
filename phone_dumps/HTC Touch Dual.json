@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774566-REVIEW",
+        "user_name": "",
+        "email": "tif@gmail.com",
+        "comment": "Rosme uskosvoh wuwuva ibu dunorus wugocak ro coduv ruro toweco abavit hukur hakmogi ebijzul vunuzoci.",
+        "rating": -0.5412,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774566-MAIN",
+            "base_score": 0.5539,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.6 inches (~35.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "CIF videocall camera"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "Half-QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, October. Released 2007, November"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1120 mAh battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~154 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "400 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.20 W/kg (head)     0.73 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7200"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 55 x 15.8 mm (4.21 x 2.17 x 0.62 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.0 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC Touch Dual"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774566-REVIEW",
+            "range": "1506574774566-MAIN"
+        }
+    ]
+}

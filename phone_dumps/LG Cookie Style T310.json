@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774664-REVIEW",
+        "user_name": "",
+        "email": "nupuk@gmail.com",
+        "comment": "Sob wep zen be zawueke wujhogfu guam fersunsu bomu osuzi julejroj ar.",
+        "rating": 0.5112,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774665-MAIN",
+            "base_score": 0.5477,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~41.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS; built-in antenna"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.96 W/kg (head)     0.97 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 4 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 900 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "100 received, 100 dialed, 100 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "86.5 g (3.03 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, August. Released 2010, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.08 W/kg (head)     0.56 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "20 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black&Red, White&Organge, Black&Titan Silver, Pink&White"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102.9 x 56.9 x 11.9 mm (4.05 x 2.24 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG Cookie Style T310"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774664-REVIEW",
+            "range": "1506574774665-MAIN"
+        }
+    ]
+}

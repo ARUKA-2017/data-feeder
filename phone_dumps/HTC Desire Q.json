@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774531-REVIEW",
+        "user_name": "",
+        "email": "ewor@gmail.com",
+        "comment": "Dunaron dilmo gug tugvabi jacjuf isded liw sijuhil mav si bo ki.",
+        "rating": 0.3611,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774531-MAIN",
+            "base_score": 0.0665,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~61.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1650 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, April"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "114 g (4.02 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, April"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Yes"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A5"
+                },
+                {
+                    "key": "Type",
+                    "value": "Capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7227A Snapdragon S1"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 840 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Red"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "118.5 x 62.3 x 9.3 mm (4.67 x 2.45 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire Q"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774531-REVIEW",
+            "range": "1506574774531-MAIN"
+        }
+    ]
+}

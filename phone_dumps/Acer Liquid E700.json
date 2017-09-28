@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774402-REVIEW",
+        "user_name": "",
+        "email": "ese@gmail.com",
+        "comment": "Hag epi hob bof tatiruko wegah hon elahew iwnihik nihmesvel damoima gazownul zi kerog vodhi bumgugpih vu.",
+        "rating": -0.4089,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774402-MAIN",
+            "base_score": 0.988,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~64.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, LED flash"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Titan Black, Burgundy Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "155 g (5.47 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400MP2"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 1440 h"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 24 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, June"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Triple SIM (Micro-SIM)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6582"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 3500 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM or 4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "147.3 x 73 x 9.9 mm (5.80 x 2.87 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Acer Liquid E700"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774402-REVIEW",
+            "range": "1506574774402-MAIN"
+        }
+    ]
+}

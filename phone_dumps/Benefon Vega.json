@@ -1,0 +1,146 @@
+{
+    "review_info": {
+        "id": "1506574774459-REVIEW",
+        "user_name": "",
+        "email": "caflozik@gmail.com",
+        "comment": "Sazoz giwigu agoudo agodarpim rebpeifa celodpiv nasu tawu to vi imuco biwuwoapo lej nezcaf hoko wilri ci.",
+        "rating": 0.6934,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774459-MAIN",
+            "base_score": 0.8709,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6 lines"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion battery"
+                },
+                {
+                    "key": "Clock",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Call records",
+                    "value": "15 dialed, 12 received, 12 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "- Cyrillic characters"
+                },
+                {
+                    "key": "Weight",
+                    "value": "190 g (6.70 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Monophonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "1999"
+                },
+                {
+                    "key": "Type",
+                    "value": "Monochrome graphic"
+                },
+                {
+                    "key": "Java",
+                    "value": "- Organizer"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "SIM only"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "3 - 6 days"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Alarm",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "145 x 56 x 23 mm (5.71 x 2.20 x 0.91 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Benefon Vega"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774459-REVIEW",
+            "range": "1506574774459-MAIN"
+        }
+    ]
+}

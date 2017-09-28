@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774489-REVIEW",
+        "user_name": "",
+        "email": "bapma@gmail.com",
+        "comment": "Dogufif su kejibgu fihazwa hutzi rocjoas jup pac gag ma tidmefda tij ug imeutusep zidat.",
+        "rating": 0.385,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774489-MAIN",
+            "base_score": 0.6425,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~68.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2 (Jelly Bean), upgradable to 4.4.4 (KitKat), planned upgrade to 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "10 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touch focus, geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~342 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 320"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass, barometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, July"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.7 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon S4 Pro"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "121.3 x 61.3 x 8.9 mm (4.78 x 2.41 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot, DLNA"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 4(1700/2100), 13(700)"
+                }
+            ],
+            "name": "Motorola DROID Mini"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774489-REVIEW",
+            "range": "1506574774489-MAIN"
+        }
+    ]
+}

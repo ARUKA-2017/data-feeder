@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774777-REVIEW",
+        "user_name": "",
+        "email": "hi@gmail.com",
+        "comment": "Fanbugli fauhu liw gujuj eg irool zusgaco uflupra lo welne miestog rogzajfu mel.",
+        "rating": -0.0463,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774777-MAIN",
+            "base_score": 0.3519,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 50 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.7 inches (~18.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 750 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "120 x 160 pixels (~118 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "72 g (2.54 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, May. Released 2008"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.91 W/kg (head)     0.79 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "60 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "103 x 46 x 12 mm (4.06 x 1.81 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG KP220"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774777-REVIEW",
+            "range": "1506574774777-MAIN"
+        }
+    ]
+}

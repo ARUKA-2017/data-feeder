@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774488-REVIEW",
+        "user_name": "",
+        "email": "tevhuogu@gmail.com",
+        "comment": "Ko pevubofi tu on vugocdi magnum saku somseg keskebmo su jo favijhi timik vihaluwe.",
+        "rating": -0.4769,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774488-MAIN",
+            "base_score": 0.1622,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~68.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, f/2.2"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, stereo sound rec., HDR"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1700 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, f/2.0, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "149 g (5.26 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM, (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8226 Snapdragon 400"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141.5 x 70.7 x 11 mm (5.57 x 2.78 x 0.43 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.4 (KitKat), upgradable to Android L"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Motorola Moto G Dual SIM (2nd gen)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774488-REVIEW",
+            "range": "1506574774488-MAIN"
+        }
+    ]
+}

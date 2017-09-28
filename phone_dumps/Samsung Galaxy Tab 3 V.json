@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774500-REVIEW",
+        "user_name": "",
+        "email": "betcasi@gmail.com",
+        "comment": "Mezeru oputeg te zehsu co erfespoc dilwi ebize curgo fer vah mo.",
+        "rating": -0.5765,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774500-MAIN",
+            "base_score": 0.3271,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "322 g (11.36 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.66 W/kg (head)     0.66 W/kg (body)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 3600 mAh battery"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~61.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@24fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "600 x 1024 pixels (~170 ppi pixel density)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 8 h (multimedia) (2G) / Up to 18 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.45 W/kg (head)     1.58 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, April"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.3 GHz"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "193.4 x 116.4 x 9.7 mm (7.61 x 4.58 x 0.38 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Tab 3 V"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774500-REVIEW",
+            "range": "1506574774500-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "review_info": {
+        "id": "1506574774398-REVIEW",
+        "user_name": "",
+        "email": "tabwiter@gmail.com",
+        "comment": "Vutho wofaca roumati lopiku tav nutazu cufi lucfod bajuwrar ne ra vosbif aza te funirju dud maak.",
+        "rating": -0.7064,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774398-MAIN",
+            "base_score": 0.5281,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100  - Naite (a) for Americas"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~29.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 950 mAh battery (BST-33)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.22 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, May. Released 2009, October"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 13 h 45 min (2G) / Up to 4 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/ HTML (NetFront)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "84 g (2.96 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, RSS"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "100 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h (2G) / Up to 583 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Vapour Silver, Ginger Red"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 47 x 12.6 mm (4.25 x 1.85 x 0.50 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson J105 Naite"
+        },
+        {
+            "id": "101509284202606SECONDARY-COMP",
+            "name": "Samsung L700",
+            "base_score": 0.481,
+            "property": []
+        },
+        {
+            "id": "1001520059683002-PRIMARY-F-B",
+            "name": "More standby time",
+            "base_score": 0.89,
+            "property": []
+        },
+        {
+            "id": "1001599650002915-SECONDARY-F-B",
+            "name": "More standby time",
+            "base_score": 0.7376,
+            "property": []
+        },
+        {
+            "id": "1001598676597715-PRIMARY-F-B",
+            "name": "Higher PPI screen",
+            "base_score": 0.5,
+            "property": []
+        },
+        {
+            "id": "1001553819546910-SECONDARY-F-B",
+            "name": "Higher PPI screen",
+            "base_score": 0.9427,
+            "property": []
+        },
+        {
+            "id": "101516356266142-PRIMARY-F-B",
+            "name": "Lighter",
+            "base_score": 0.8679,
+            "property": []
+        },
+        {
+            "id": "1001519944884177-SECONDARY-F-B",
+            "name": "Lighter",
+            "base_score": 0.5594,
+            "property": []
+        },
+        {
+            "id": "1001556030604631-PRIMARY-F-B",
+            "name": "Slightly more talk time",
+            "base_score": 0.7553,
+            "property": []
+        },
+        {
+            "id": "1001530630658395-SECONDARY-F-B",
+            "name": "Slightly more talk time",
+            "base_score": 0.9465,
+            "property": []
+        },
+        {
+            "id": "1001540923926575-PRIMARY-F-B",
+            "name": "Slightly faster max data speeds",
+            "base_score": 0.7104,
+            "property": []
+        },
+        {
+            "id": "1001547669663621-SECONDARY-F-B",
+            "name": "Slightly faster max data speeds",
+            "base_score": 0.7744,
+            "property": []
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774398-REVIEW",
+            "range": "1506574774398-MAIN"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774398-MAIN",
+            "range": "1001520059683002-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "101509284202606SECONDARY-COMP",
+            "range": "1001599650002915-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001520059683002-PRIMARY-F-B",
+            "range": "1001599650002915-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774398-MAIN",
+            "range": "1001598676597715-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "101509284202606SECONDARY-COMP",
+            "range": "1001553819546910-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001598676597715-PRIMARY-F-B",
+            "range": "1001553819546910-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774398-MAIN",
+            "range": "101516356266142-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "101509284202606SECONDARY-COMP",
+            "range": "1001519944884177-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "101516356266142-PRIMARY-F-B",
+            "range": "1001519944884177-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774398-MAIN",
+            "range": "1001556030604631-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "101509284202606SECONDARY-COMP",
+            "range": "1001530630658395-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001556030604631-PRIMARY-F-B",
+            "range": "1001530630658395-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774398-MAIN",
+            "range": "1001540923926575-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "101509284202606SECONDARY-COMP",
+            "range": "1001547669663621-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001540923926575-PRIMARY-F-B",
+            "range": "1001547669663621-SECONDARY-F-B"
+        }
+    ]
+}

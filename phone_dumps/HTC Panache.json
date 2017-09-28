@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774539-REVIEW",
+        "user_name": "",
+        "email": "jiloj@gmail.com",
+        "comment": "Sub vuv uzbunnag kordi opu nudavi co haeme ho pozle luwsu paha us ba oba gim zabbubra.",
+        "rating": -0.6967,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774539-MAIN",
+            "base_score": 0.4178,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.8 inches (~53.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150 g (5.29 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~246 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 243 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.68 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, June"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 1700 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 14.4/2 Mbps"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, July"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1400 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB (1.2 GB user available), 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "122.2 x 62.5 x 11.1 mm (4.81 x 2.46 x 0.44 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Panache"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774539-REVIEW",
+            "range": "1506574774539-MAIN"
+        }
+    ]
+}

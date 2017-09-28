@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774565-REVIEW",
+        "user_name": "",
+        "email": "ahi@gmail.com",
+        "comment": "Ihorac ba fedvo ku kib ge newfov raki ofigohol jer olumael balji gogarigu fadmuzbu.",
+        "rating": -0.8532,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774565-MAIN",
+            "base_score": 0.3987,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~44.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 1 h 10 min"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, April. Released 2008, May"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 640 pixels (~286 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "115 g (4.06 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.85 W/kg (head)     0.64 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7501A"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 288 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Extended battery, Li-Ion 1800 mAh"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102 x 53 x 15 mm (4.02 x 2.09 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.1 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "HTC Touch Diamond CDMA"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774565-REVIEW",
+            "range": "1506574774565-MAIN"
+        }
+    ]
+}

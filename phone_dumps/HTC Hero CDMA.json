@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774557-REVIEW",
+        "user_name": "",
+        "email": "kebuha@gmail.com",
+        "comment": "Fu zawu ezu zaf fivacu ri murozmo wevun zud hajaod gecahebu obnab hugjazi cofvoban goti racnit gocuw afocuvi.",
+        "rating": 0.0294,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774557-MAIN",
+            "base_score": 0.2658,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~48.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.1 (Eclair)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Weight",
+                    "value": "128 g (4.52 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 360 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.71 W/kg (head)     1.13 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, August. Released 2009, October"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7200A"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113 x 56 x 14 mm (4.45 x 2.20 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "HTC Hero CDMA"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774557-REVIEW",
+            "range": "1506574774557-MAIN"
+        }
+    ]
+}

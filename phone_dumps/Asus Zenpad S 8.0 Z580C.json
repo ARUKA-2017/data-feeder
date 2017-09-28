@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774455-REVIEW",
+        "user_name": "",
+        "email": "jevligo@gmail.com",
+        "comment": "Lol ve ap povji juc izaatco zoeweum ivi ko opetu tatguuze uftildez zufbalu ike befki ozucibgij uwi zir.",
+        "rating": 0.405,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774455-MAIN",
+            "base_score": 0.2126,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches (~72.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~320 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "317 g (11.18 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, August"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, GLONASS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, June"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6430"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3530"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po battery (15.2 Wh)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "203.2 x 134.5 x 6.9 mm (8.0 x 5.30 x 0.27 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Asus Zenpad S 8.0 Z580C"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774455-REVIEW",
+            "range": "1506574774455-MAIN"
+        }
+    ]
+}

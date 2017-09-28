@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774470-REVIEW",
+        "user_name": "",
+        "email": "apgu@gmail.com",
+        "comment": "Ruzosodoz coiba efpiahi aju lake wok ze ofa golbu var ituce su afrul hehojuc vugludpe tucwus.",
+        "rating": -0.9513,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774470-MAIN",
+            "base_score": 0.51,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "155 g (5.47 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 260 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~67.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, 720p@60fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Santorini White, Tuxedo Gray, Milky-way Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~267 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP, 1080p"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "157.7 x 78.7 x 7.7 mm (6.21 x 3.10 x 0.30 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire 820q dual sim"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774470-REVIEW",
+            "range": "1506574774470-MAIN"
+        }
+    ]
+}

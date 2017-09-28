@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774776-REVIEW",
+        "user_name": "",
+        "email": "riwfik@gmail.com",
+        "comment": "Karopme gike tonsugi cuve na gi osini gofmedij jowgaruh ulpin mormozu amulog baji tool.",
+        "rating": 0.9616,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774776-MAIN",
+            "base_score": 0.2084,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "128 x 128 pixels"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.16 W/kg (head)     0.36 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 750 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, orange"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Weight",
+                    "value": "68 g (2.40 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, December. Released 2008"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "85 x 45 x 19.8 mm (3.35 x 1.77 x 0.78 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "LG KG375"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774776-REVIEW",
+            "range": "1506574774776-MAIN"
+        }
+    ]
+}

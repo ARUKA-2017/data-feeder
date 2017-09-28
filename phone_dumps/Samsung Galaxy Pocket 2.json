@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774502-REVIEW",
+        "user_name": "",
+        "email": "fobojtap@gmail.com",
+        "comment": "Javan ze nifwovcaw tah mufulure wu ihepur seto os da kul wufsu de fe zenac.",
+        "rating": -0.0169,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774502-MAIN",
+            "base_score": 0.8222,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.3 inches (~50.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "240p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "107 g (3.77 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.59 W/kg (head)     0.40 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~121 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1200 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 5 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.53 W/kg (head)     1.21 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS, recording"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Spreadtrum SC7715"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109.9 x 60.8 x 11.7 mm (4.33 x 2.39 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                }
+            ],
+            "name": "Samsung Galaxy Pocket 2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774502-REVIEW",
+            "range": "1506574774502-MAIN"
+        }
+    ]
+}

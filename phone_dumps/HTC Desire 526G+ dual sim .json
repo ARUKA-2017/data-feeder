@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774469-REVIEW",
+        "user_name": "",
+        "email": "aminegzet@gmail.com",
+        "comment": "Inbed juemepo ma refhadrar dic wu dulal titu osenidi etousuha rufcugcup kujzeroc.",
+        "rating": -0.4183,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774469-MAIN",
+            "base_score": 0.4919,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~62.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 160 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, 720p"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, f/2.2, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~234 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "154 g (5.43 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, January"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 1.7 GHz - 526G+ model"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 622 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Glacier blue, Stealth black, Lacquer black, Fervor red - 526G+"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "139.8 x 69.8 x 9.9 mm (5.50 x 2.75 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire 526G+ dual sim "
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774469-REVIEW",
+            "range": "1506574774469-MAIN"
+        }
+    ]
+}

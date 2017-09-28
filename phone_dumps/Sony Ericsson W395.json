@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "bi@gmail.com",
+        "comment": "Nop gorfan goho pepvaha asi hu ke ren ojiwem zi ja tomeje no be zemfuhah cigwo ridoh em.",
+        "rating": 0.5081,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774513-MAIN",
+            "base_score": 0.0791,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~27.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.88 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "Memory Stick Micro (M2), up to 4 GB, 1 GB included"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 8 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (Openwave), RSS reader"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "96 g (3.39 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, AAC ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, March"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, incl. motion-based + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "10 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 x 20 fields, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 480 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dusky Grey, Blush Titanium, Fiesta Black, Happy Pink"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "96 x 47 x 14.9 mm (3.78 x 1.85 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Sony Ericsson W395"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774513-MAIN"
+        }
+    ]
+}

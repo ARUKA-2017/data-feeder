@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774687-REVIEW",
+        "user_name": "",
+        "email": "le@gmail.com",
+        "comment": "Uju cehme in ni becti wojuz uwi nu bedaszod gut mak purwus tikhikak zof.",
+        "rating": 0.1217,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774687-MAIN",
+            "base_score": 0.8679,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 1700 / 2100 - for T-Mobile"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~45.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 900 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, February. Released 2010, April"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@12fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "92.5 g (3.25 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "30 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White Silver,Imperial Purple, Baby Pink, Wine Red, Brown "
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 52.5 x 11.5 mm (4.21 x 2.07 x 0.45 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                }
+            ],
+            "name": "LG GS500 Cookie Plus"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774687-REVIEW",
+            "range": "1506574774687-MAIN"
+        }
+    ]
+}

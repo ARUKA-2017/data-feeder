@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774496-REVIEW",
+        "user_name": "",
+        "email": "vuc@gmail.com",
+        "comment": "Ete mudob hir tor oru udolupep loumumar fagipip ahuke zej de mu ip.",
+        "rating": 0.3998,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774496-MAIN",
+            "base_score": 0.3934,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~43.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording (selected markets)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.93 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM)"
+                },
+                {
+                    "key": "Video",
+                    "value": "176x144@10fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2/4 GB included"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 17 h"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1110 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Weight",
+                    "value": "103.7 g (3.63 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, Polyphonic, WAV, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, March"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, February"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "20 MB, 128 MB ROM, 64 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Golden Light"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109.9 x 54 x 13 mm, 67 cc (4.33 x 2.13 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 85.6 kbps"
+                }
+            ],
+            "name": "Nokia Asha 310"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774496-REVIEW",
+            "range": "1506574774496-MAIN"
+        }
+    ]
+}

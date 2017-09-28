@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774783-REVIEW",
+        "user_name": "",
+        "email": "fa@gmail.com",
+        "comment": "Ek vi abujuje ebniat vadcina lumeri tahba zodu enibu lokzos wodezcod sori masmen bo paubki livuruz.",
+        "rating": -0.1553,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774783-MAIN",
+            "base_score": 0.0994,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~45.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps, 320p@120fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 2 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "1.2, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, Schneider-Kreuznach optics, auto/manual focus, strobe flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "112 g (3.95 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, March. Released 2008, April"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "100 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "103.5 x 54.4 x 15.3 mm (4.07 x 2.14 x 0.60 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1800 / 1900 - American version"
+                }
+            ],
+            "name": "LG KE990 Viewty"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774783-REVIEW",
+            "range": "1506574774783-MAIN"
+        }
+    ]
+}

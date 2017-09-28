@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774504-REVIEW",
+        "user_name": "",
+        "email": "webep@gmail.com",
+        "comment": "Pudu tufzofoha geap ge odohilo zezafda wotan ze lariwiahe hunimor udafig piroceac.",
+        "rating": -0.2853,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774504-MAIN",
+            "base_score": 0.1978,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.48 W/kg (head)     0.49 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 17 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, LED flash"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "129 g (4.55 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, July"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.75 W/kg (head)     1.12 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1800 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "129.7 x 65.9 x 9.4 mm (5.11 x 2.59 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Star 2 Plus"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774504-REVIEW",
+            "range": "1506574774504-MAIN"
+        }
+    ]
+}

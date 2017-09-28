@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774564-REVIEW",
+        "user_name": "",
+        "email": "duvuuro@gmail.com",
+        "comment": "Je soeti aceuvi ji pefis tam resar vol epefor awean matufip givo.",
+        "rating": 0.9082,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774565-MAIN",
+            "base_score": 0.3283,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~46.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.1 Professional"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "165 g (5.82 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 640 pixels (~286 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 406 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.43 W/kg (head)     1.18 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, June. Released 2008, August"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1340 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - HTC Fuze"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7201A"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102 x 51 x 18.1 mm (4.02 x 2.01 x 0.71 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                }
+            ],
+            "name": "HTC Touch Pro"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774564-REVIEW",
+            "range": "1506574774565-MAIN"
+        }
+    ]
+}

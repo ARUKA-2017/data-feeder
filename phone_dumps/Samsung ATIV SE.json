@@ -1,0 +1,206 @@
+{
+    "review_info": {
+        "id": "1506574774521-REVIEW",
+        "user_name": "",
+        "email": "vun@gmail.com",
+        "comment": "Dizivne toru ru jucsef osujagu egitigon debuh hikow vida vi vus nuiz utemi.",
+        "rating": 0.4202,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774521-MAIN",
+            "base_score": 0.0984,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~71.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8, planned upgrade to 8.1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, 1080p"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "135.8 (4.80 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~441 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.05 W/kg (head)     1.49 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 480 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "EV-DO Rev.A 3.1 Mbps, HSPA, LTE"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 20 h"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, April"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 440 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, April"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.3 GHz Krait 400"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 800"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2600 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "137.7 x 69.9 x 8.4 mm (5.42 x 2.75 x 0.33 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 4(1700/2100), 13(700)"
+                }
+            ],
+            "name": "Samsung ATIV SE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774521-REVIEW",
+            "range": "1506574774521-MAIN"
+        }
+    ]
+}

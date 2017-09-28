@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774426-REVIEW",
+        "user_name": "",
+        "email": "limsu@gmail.com",
+        "comment": "Suplorve fatcutol pako olusag oho rufi rike dutbedpak ihticu erze las huzsuf ojuhen wiehozaf jirsaefu wa sarjugko nafecho.",
+        "rating": -0.7891,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774426-MAIN",
+            "base_score": 0.5124,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "375 g (Wi-Fi)/ 389 g (4G) (13.23 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion battery"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 310 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (SlimPort)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Size",
+                    "value": "8.9 inches (~62.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4 (KitKat - customized)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS (4G model)"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "2560 x 1600 pixels (~339 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 805"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "720p"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Amazon Silk)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.5 GHz Krait 450"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 420"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "231 x 158 x 7.8 mm (9.09 x 6.22 x 0.31 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Amazon Fire HDX 8.9 (2014)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774426-REVIEW",
+            "range": "1506574774426-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774445-REVIEW",
+        "user_name": "",
+        "email": "abi@gmail.com",
+        "comment": "Numve iwju woig lutab dobregij vowius okopasi gifog kija hodkujna nowjiv taasugus nin kiceb.",
+        "rating": -0.2623,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774445-MAIN",
+            "base_score": 0.1029,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 280 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, February"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~160 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, April"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 20(800)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Yes"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8926 Snapdragon 400"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White/Silver"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "-"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes, hotspot, Wi-Fi Direct, DLNA"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.3 (Jelly Bean)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Archos 80 Helium 4G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774445-REVIEW",
+            "range": "1506574774445-MAIN"
+        }
+    ]
+}

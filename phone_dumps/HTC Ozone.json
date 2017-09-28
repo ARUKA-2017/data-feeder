@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774558-REVIEW",
+        "user_name": "",
+        "email": "wofow@gmail.com",
+        "comment": "Aviko telher hamuntu mif lujiva disi no kudo eza eh ug guhik necu.",
+        "rating": -0.8708,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774558-MAIN",
+            "base_score": 0.9468,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~24.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": " 1x EV-DO 800 / 1900"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, March. Released 2009, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " CDMA2000 800 / 1900"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "105 g (3.70 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; VZ Navigator"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.21 W/kg (head)     1.03 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "192 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 380 h (2G) / 324 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "114.3 x 63.5 x 12.7 mm (4.5 x 2.5 x 0.5 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.1 Standard"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "EVDO Rev. A"
+                }
+            ],
+            "name": "HTC Ozone"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774558-REVIEW",
+            "range": "1506574774558-MAIN"
+        }
+    ]
+}

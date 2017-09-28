@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774559-REVIEW",
+        "user_name": "",
+        "email": "di@gmail.com",
+        "comment": "Li sa pepkineg kon nicnelcit ali tunaldug korkow vapol dipezpa anidat nu iza sidja zu.",
+        "rating": -0.3656,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774559-MAIN",
+            "base_score": 0.5637,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~49.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 1.6 (Donut)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP (headset support only)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "118.5 g (4.16 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 420 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.95 W/kg (head)     1.87 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, May"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 1700 / 2100 - American version"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7200A"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1340 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113 x 55 x 13.7 mm (4.45 x 2.17 x 0.54 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "HTC Magic"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774559-REVIEW",
+            "range": "1506574774559-MAIN"
+        }
+    ]
+}

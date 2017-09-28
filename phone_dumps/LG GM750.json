@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774708-REVIEW",
+        "user_name": "",
+        "email": "simki@gmail.com",
+        "comment": "Hagetkoz vir wuw wo jinsibmem afsig napta uwoamatam ruwreg ojahuazo sop jo naz aduhliv neknewut tah di isga.",
+        "rating": -0.3476,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774708-MAIN",
+            "base_score": 0.5027,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~43.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 290 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/2 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Videocall camera"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.16 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, September. Released 2009, October"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 384 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.36 W/kg (head)     1.06 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7201A"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "200 MB"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109.8 x 53.5 x 12.9 mm (4.32 x 2.11 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 42 kbps"
+                }
+            ],
+            "name": "LG GM750"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774708-REVIEW",
+            "range": "1506574774708-MAIN"
+        }
+    ]
+}

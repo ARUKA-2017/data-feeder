@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774655-REVIEW",
+        "user_name": "",
+        "email": "tibu@gmail.com",
+        "comment": "Dof jorded cubsan go honiaso se geihvik gaacric fas coehufu wikudu on vorza enofi ohpo pev.",
+        "rating": -0.4056,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774655-MAIN",
+            "base_score": 0.7068,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.0, 153.2 Kbps"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.6 inches (~35.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, October. Released 2010, October"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion battery"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~154 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "128 g (4.52 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "A-GPS only"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.77 W/kg (head)     0.55 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 340 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 55 x 16 mm (4.21 x 2.17 x 0.63 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "LG Octane"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774655-REVIEW",
+            "range": "1506574774655-MAIN"
+        }
+    ]
+}

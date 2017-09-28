@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774340-REVIEW",
+        "user_name": "",
+        "email": "tagaz@gmail.com",
+        "comment": "Zot pav sa er sininsa bethod fe rat sumrekzuw caohi jejsi fimiju legbo serkocup lakevcuc juko gubwas nonuru.",
+        "rating": 0.1149,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774340-MAIN",
+            "base_score": 0.0036,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~64.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean), planned upgrade to 4.2,1 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "156 g (5.50 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.47 W/kg (head)     0.41 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 174 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, 320p"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, January"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/11.5 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, February"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6589"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB (1.77 GB user available), 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "144 x 74 x 10.7 mm (5.67 x 2.91 x 0.42 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Micromax A116 Canvas HD"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774340-REVIEW",
+            "range": "1506574774340-MAIN"
+        }
+    ]
+}

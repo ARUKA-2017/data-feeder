@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774502-REVIEW",
+        "user_name": "",
+        "email": "dav@gmail.com",
+        "comment": "Lo vezu cophimleh owotavuhi mug elu ne ohahiwi ikbo laudlac zeg kal tup is vitez.",
+        "rating": 0.3649,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774502-MAIN",
+            "base_score": 0.8418,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6.0 inches (~71.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.3 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "194 g (6.84 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.21 W/kg (head)     0.37 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400MP4 (SM-G750F)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - SM-G750F"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - SM-G7508Q"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 340 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.5 GHz (SM-G750F)"
+                },
+                {
+                    "key": "Type",
+                    "value": "Capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Exynos 4415 (SM-G750F)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1.5 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "163.6 x 84.9 x 8.6 mm (6.44 x 3.34 x 0.34 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 17(700), 29(700) - SM-G750A"
+                }
+            ],
+            "name": "Samsung Galaxy Mega 2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774502-REVIEW",
+            "range": "1506574774502-MAIN"
+        }
+    ]
+}

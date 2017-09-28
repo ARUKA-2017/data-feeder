@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774660-REVIEW",
+        "user_name": "",
+        "email": "gobu@gmail.com",
+        "comment": "Vupon abacelu wuefe gobi uzhi ciroc um gojuz uj pe evze zuwolej.",
+        "rating": 0.8364,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774660-MAIN",
+            "base_score": 0.8255,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~44.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1250 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, August. Released 2010, August"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 /1800"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "127 g (4.48 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 120 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "111.5 x 51.5 x 13.9 mm (4.39 x 2.03 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG GM650s"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774660-REVIEW",
+            "range": "1506574774660-MAIN"
+        }
+    ]
+}

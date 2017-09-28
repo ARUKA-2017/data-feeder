@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774456-REVIEW",
+        "user_name": "",
+        "email": "nacom@gmail.com",
+        "comment": "Ruceduoze hafbo con itavuga buhalmuk ki ojirkal ku bineso vuci lo jej.",
+        "rating": -0.0881,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774456-MAIN",
+            "base_score": 0.7866,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~61.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA, f/2.8"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, f/2.0, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~218 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150 g (5.29 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, February"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544MP2"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z2520"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 5 fingers"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Charcoal Black, Pearl White, Cherry Red"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "136.5 x 67 x 10.9 mm (5.37 x 2.64 x 0.43 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Asus Zenfone C ZC451CG"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774456-REVIEW",
+            "range": "1506574774456-MAIN"
+        }
+    ]
+}

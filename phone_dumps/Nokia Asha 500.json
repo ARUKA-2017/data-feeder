@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774495-REVIEW",
+        "user_name": "",
+        "email": "ivo@gmail.com",
+        "comment": "Cuhsesoh ishonuhu fe dibsaez pizefta wigoj edbojpug os sajaj ca per lubosunag igpehap ictoir ha nahveg evacodbik.",
+        "rating": 0.9266,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774495-MAIN",
+            "base_score": 0.1195,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Nokia Asha software platform 1.1.1, upgradable to 1.4"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~41.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.28 W/kg (head)     0.94 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@13fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 14 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1200 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "101 g (3.56 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, December"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.47 W/kg (head)     1.38 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 840 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Bright Red, Bright Green, Cyan, Yellow, White and Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 4 GB card included"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "100.3 x 58.1 x 12.8 mm, 70.9 cc (3.95 x 2.29 x 0.50 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 42.8 kbps"
+                }
+            ],
+            "name": "Nokia Asha 500"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774495-REVIEW",
+            "range": "1506574774495-MAIN"
+        }
+    ]
+}

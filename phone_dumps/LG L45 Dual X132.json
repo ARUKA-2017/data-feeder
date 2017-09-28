@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774580-REVIEW",
+        "user_name": "",
+        "email": "li@gmail.com",
+        "comment": "Azpi esilava ho co geg riawe rezozfe maizu fiw toavu na osopa baefo dap rerog.",
+        "rating": -0.1356,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774580-MAIN",
+            "base_score": 0.3029,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~55.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014"
+                },
+                {
+                    "key": "GPS",
+                    "value": "A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109 x 59.9 x 12 mm (4.29 x 2.36 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG L45 Dual X132"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774580-REVIEW",
+            "range": "1506574774580-MAIN"
+        }
+    ]
+}

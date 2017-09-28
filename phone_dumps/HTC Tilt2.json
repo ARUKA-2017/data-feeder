@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774559-REVIEW",
+        "user_name": "",
+        "email": "teudakuf@gmail.com",
+        "comment": "Uzabop ez itejitibu pat fifewaki ofceda cej dakuke kajiv gaj neztejlu heuh.",
+        "rating": -0.2154,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774559-MAIN",
+            "base_score": 0.6669,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.6 inches (~53.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Factory locked by default, can be enabled"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, May"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~259 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "178.5 g (6.28 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.16 W/kg (head)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7200A"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h (2G) / Up to 750 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Grey"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116 x 59.2 x 17.3 mm (4.57 x 2.33 x 0.68 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "HTC Tilt2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774559-REVIEW",
+            "range": "1506574774559-MAIN"
+        }
+    ]
+}

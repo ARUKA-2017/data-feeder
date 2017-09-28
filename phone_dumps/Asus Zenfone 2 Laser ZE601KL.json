@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774453-REVIEW",
+        "user_name": "",
+        "email": "na@gmail.com",
+        "comment": "Zin mon minipa vo unufi su nodeew uf dona zunivpi ufkon zor somo mugaj doanoja febmemos sovfowa mat.",
+        "rating": 0.3424,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774453-MAIN",
+            "base_score": 0.1396,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.0, laser autofocus, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 20(800) - WW version"
+                },
+                {
+                    "key": "Weight",
+                    "value": "190 g (6.70 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 6(900), 8(900), 9(1800), 18(800), 19(800), 28(700) - TW version"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, August"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, dual speakers"
+                },
+                {
+                    "key": "Size",
+                    "value": "6.0 inches (~71.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop), planned upgrade to 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, 720p@60fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Glacier Gray, Sheer Gold, Glamour Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, EDR"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~367 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8939v2 Snapdragon 616"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, f/2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 4"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - TW/WW version"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, December"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "164.6 x 84 x 10.6 mm (6.48 x 3.31 x 0.42 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                }
+            ],
+            "name": "Asus Zenfone 2 Laser ZE601KL"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774453-REVIEW",
+            "range": "1506574774453-MAIN"
+        }
+    ]
+}

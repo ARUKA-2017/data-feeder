@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774354-REVIEW",
+        "user_name": "",
+        "email": "fa@gmail.com",
+        "comment": "Necfuebi zulesoim ziwefza lezigiw jerludser je kicmezrop pan somidko ja mukib pafge sego nur.",
+        "rating": -0.592,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774355-MAIN",
+            "base_score": 0.2641,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "100 g (3.53 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.47 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 310 h"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1050 mAh battery ( BP-6MT)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, September. Released 2007, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g, VoIP over WLAN"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~23.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian OS 9.2, Series 60 v3.1 UI"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~200 ppi pixel density)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.38 W/kg (head)     0.75 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "369 MHz ARM 11"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Internal",
+                    "value": "130 MB, 96 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "114.8 x 46 x 12 mm, 61 cc (4.52 x 1.81 x 0.47 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 32"
+                }
+            ],
+            "name": "Nokia E51"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774354-REVIEW",
+            "range": "1506574774355-MAIN"
+        }
+    ]
+}

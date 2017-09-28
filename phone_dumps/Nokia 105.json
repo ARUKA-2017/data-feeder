@@ -1,0 +1,158 @@
+{
+    "review_info": {
+        "id": "1506574774496-REVIEW",
+        "user_name": "",
+        "email": "foj@gmail.com",
+        "comment": "Zari meseruha rawig viukimo ussek jidbi pujeho zerub ri zogzanuzo waznupup joc paepave jo.",
+        "rating": -0.0328,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774496-MAIN",
+            "base_score": 0.6095,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.45 inches (~14.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.48 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 800 mAh battery (BL-5CB)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Cyan"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~125 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "70 g (2.47 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, May"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, February"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes (charging only)"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 MB, 384 kB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 contacts"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 840 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 44.8 x 14.3 mm, 64 cc (4.21 x 1.76 x 0.56 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Nokia 105"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774496-REVIEW",
+            "range": "1506574774496-MAIN"
+        }
+    ]
+}

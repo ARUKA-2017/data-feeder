@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774509-REVIEW",
+        "user_name": "",
+        "email": "ejhitad@gmail.com",
+        "comment": "Lukju sasju dinab ivitofmi ho leac susni se navoslih tofem getzasro ca zacut jigeapa hatom ha ges ra.",
+        "rating": -0.2304,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774509-MAIN",
+            "base_score": 0.056,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~50.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.1 (Eclair)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Azure, Orange, Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "104 g (3.67 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~192 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 446 h (2G) / Up to 476 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 85.6 kbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 4 h 45 min"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, April. Released 2011, May"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7227 Snapdragon S1"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1200 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB, 168 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "99 x 54 x 15 mm (3.90 x 2.13 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson W8"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774509-REVIEW",
+            "range": "1506574774509-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774356-REVIEW",
+        "user_name": "",
+        "email": "dazcoj@gmail.com",
+        "comment": "Kaavi bi nesoret hu set pan jen ikezuka ep hacugif dusiw rek izpu cedzuhmu.",
+        "rating": -0.995,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774356-MAIN",
+            "base_score": 0.4867,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~60.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.2 (Froyo)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "380 g (13.40 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "600 x 1024 pixels (~170 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX540"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po 4000 mAh battery"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 13(700)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, January"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Speed",
+                    "value": "EV-DO Rev.A 3.1 Mbps, LTE"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 240 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, July"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.2 GHz Cortex-A8"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Hummingbird"
+                },
+                {
+                    "key": "Internal",
+                    "value": "2 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "190.1 x 120.5 x 12 mm (7.48 x 4.74 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Samsung Galaxy Tab 4G LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774356-REVIEW",
+            "range": "1506574774356-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774478-REVIEW",
+        "user_name": "",
+        "email": "owuec@gmail.com",
+        "comment": "Rosumuh muj be uge pujohafo un no jehogag madpus poeki sohebid pezed ulululo milato atucum midini kotkugho irrin.",
+        "rating": 0.3899,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774482-MAIN",
+            "base_score": 0.2081,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.2 inches (~73.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Titanium"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, laser autofocus, OIS, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "146.8 g (5.19 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/3\" sensor size, geo-tagging, touch focus, face/smile detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~424 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 532 h (2G) / Up to 628 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE-A"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "Protection",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE-A"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 360 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.26 GHz Krait 400"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 800"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2610 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141 x 71.6 x 9.8 mm (5.55 x 2.82 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG G3 A"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774478-REVIEW",
+            "range": "1506574774482-MAIN"
+        }
+    ]
+}

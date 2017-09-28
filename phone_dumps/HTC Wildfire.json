@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774552-REVIEW",
+        "user_name": "",
+        "email": "coba@gmail.com",
+        "comment": "Ek tofuvu wo der zodeuge warbo ek wuuzfit nazoifu sice wiko upemoki moledo sujzuzeh la fun zelawe pujawapu.",
+        "rating": -0.1784,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774552-MAIN",
+            "base_score": 0.294,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~49.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.1 (Eclair), upgradable to 2.2 (Froyo)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Brown, White, Red, Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "118 g (4.16 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~125 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 480 h (2G) / Up to 690 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.15 W/kg (head)     1.13 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, May. Released 2010, May"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7225 Snapdragon S1"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1300 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "384 MB RAM; 512 MB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106.8 x 60.4 x 12 mm (4.20 x 2.38 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, hotspot (Android 2.2)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC Wildfire"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774552-REVIEW",
+            "range": "1506574774552-MAIN"
+        }
+    ]
+}

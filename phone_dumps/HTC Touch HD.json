@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774563-REVIEW",
+        "user_name": "",
+        "email": "lodpis@gmail.com",
+        "comment": "Asdaz go riaseju wobgivet bu nacwuk di doohomi lefuk su ek verzuf tu veiketaf oweti won fojzo.",
+        "rating": 0.865,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774563-MAIN",
+            "base_score": 0.4953,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/2 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "146 g (5.15 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1350 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 290 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, September. Released 2008, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.8 inches (~56.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.1 Professional"
+                },
+                {
+                    "key": "Video",
+                    "value": "CIF@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~246 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7201A"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.72 W/kg (head)     1.02 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115 x 62.8 x 12 mm (4.53 x 2.47 x 0.47 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC Touch HD"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774563-REVIEW",
+            "range": "1506574774563-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774630-REVIEW",
+        "user_name": "",
+        "email": "ku@gmail.com",
+        "comment": "Hiw desic jehpafen wob nuhgomnib kalekub ze dodsepna un hivni vapub mu objafkap ibewo lekubi te evo afe.",
+        "rating": 0.5138,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774630-MAIN",
+            "base_score": 0.7763,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.9 inches (~61.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 3.0 (Honeycomb)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@24fps (2D), 720@30fps (3D), "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "Dual 5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "621 g (1.37 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Stereoscopic photos & videos; geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1280 pixels (~168 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "ULP GeForce"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 273 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, February. Released 2011, May"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 10.2/2 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 190 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Nvidia Tegra 2 T20"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 6400 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "243.8 x 150 x 12.7 mm (9.60 x 5.91 x 0.5 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG Optimus Pad V900"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774630-REVIEW",
+            "range": "1506574774630-MAIN"
+        }
+    ]
+}

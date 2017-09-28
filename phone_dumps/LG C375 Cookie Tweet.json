@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774625-REVIEW",
+        "user_name": "",
+        "email": "morsuzad@gmail.com",
+        "comment": "Zulnezla fen nesotek lecevre capesuk febgoh om zo gizik jetufugu zocuh pagpefdaj direvsep nuc wukjefu.",
+        "rating": 0.0336,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774625-MAIN",
+            "base_score": 0.5896,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.3 inches (~23.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM Radio"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.25 W/kg (head)     1.28 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~174 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "92.5 g (3.25 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, Q2"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.07 W/kg (head)     0.57 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "50 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113 x 61 x 12 mm (4.45 x 2.40 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 2"
+                }
+            ],
+            "name": "LG C375 Cookie Tweet"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774625-REVIEW",
+            "range": "1506574774625-MAIN"
+        }
+    ]
+}

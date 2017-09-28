@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774517-REVIEW",
+        "user_name": "",
+        "email": "ujma@gmail.com",
+        "comment": "Ew akabo rinin sev pepu hu ke omafibo fabahuf eke vaz cunmocjuc tof.",
+        "rating": 0.929,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774517-MAIN",
+            "base_score": 0.8164,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~65.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1 (Jelly Bean), upgradable to 4.4.4 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, 1080p@30fps"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, 720p@90fps, HDR"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/white, black/blue, black/yellow, black/green, black/pink"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, f/2.2 (16 GB version) or 13 MP, f/2.2 (32 GB version), autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "145 g (5.11 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~342 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 320"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 15 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, April"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 250 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, April"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out), USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.7 GHz Krait 300"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm APQ8064 Snapdragon S4 Pro"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126 x 62 x 10.2 mm (4.96 x 2.44 x 0.40 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Xiaomi Mi 2S"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774517-REVIEW",
+            "range": "1506574774517-MAIN"
+        }
+    ]
+}

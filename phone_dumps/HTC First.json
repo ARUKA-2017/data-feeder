@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774521-REVIEW",
+        "user_name": "",
+        "email": "kar@gmail.com",
+        "comment": "Pipamipa fe mikashe rinalla cudfeek tolara unaldo doot bodbegla uza dorosi ri lo.",
+        "rating": -0.1394,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774521-MAIN",
+            "base_score": 0.9874,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~62.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Red, Pale Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "123.9 g (4.34 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~342 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 432 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.6 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 - AT&T"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, April"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - AT&T"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, April"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.4 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8930 Snapdragon 400"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 2000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126 x 65 x 8.9 mm (4.96 x 2.56 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA"
+                }
+            ],
+            "name": "HTC First"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774521-REVIEW",
+            "range": "1506574774521-MAIN"
+        }
+    ]
+}

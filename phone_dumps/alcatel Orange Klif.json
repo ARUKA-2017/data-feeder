@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774407-REVIEW",
+        "user_name": "",
+        "email": "bererno@gmail.com",
+        "comment": "Rul tetjuf muj ewtic zurli ivucu upceura codnecuce homgoiv sita gejor itu gonutuv rihan ijo.",
+        "rating": -0.3382,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774407-MAIN",
+            "base_score": 0.2211,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~52.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1300 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "512 MB, 256 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "No"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 380 h (2G) / Up to 286 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.2 x 62 x 11.9 mm (4.42 x 2.44 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Firefox 2.0"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel Orange Klif"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774407-REVIEW",
+            "range": "1506574774407-MAIN"
+        }
+    ]
+}

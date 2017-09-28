@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774473-REVIEW",
+        "user_name": "",
+        "email": "vaitric@gmail.com",
+        "comment": "Wifuj jaimiwu gulse doom eje cinekis juv belfaaj jab iggepam mejonco go sizdaeze tidu.",
+        "rating": -0.0286,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774473-MAIN",
+            "base_score": 0.765,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~68.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.4 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, dual-LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "131 g (4.62 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~294 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 549 h (3G)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, 720p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 17(700)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, April"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1700(AWS) / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8939 Snapdragon 615"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 2200 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "143 x 70.6 x 7.7 mm (5.63 x 2.78 x 0.30 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Huawei P8lite ALE-L04"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774473-REVIEW",
+            "range": "1506574774473-MAIN"
+        }
+    ]
+}

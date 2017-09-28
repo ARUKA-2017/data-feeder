@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "askamur@gmail.com",
+        "comment": "Ku jilizac ro anwukvi mapib il canzih nu res ode guzvetuj mi zonlo cov derugi.",
+        "rating": -0.7361,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.6647,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.8 inches (~23.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.87 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "Memory Stick Micro (M2), up to 2 GB"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 9 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (Opera Mini)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~114 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "96 g (3.39 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, March. Released 2009, July"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "5 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 425 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Ambient Black, Sakura Pink, Windy Blue"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "92 x 47 x 16.4 mm (3.62 x 1.85 x 0.65 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1900 -W205a"
+                }
+            ],
+            "name": "Sony Ericsson W205"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

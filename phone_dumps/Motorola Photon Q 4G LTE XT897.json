@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774490-REVIEW",
+        "user_name": "",
+        "email": "aceuki@gmail.com",
+        "comment": "Hinsajov walucug mip ti hew somowi ko raw olufidtob dowi kojmig hu.",
+        "rating": 0.1549,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774490-MAIN",
+            "base_score": 0.5904,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0.4 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "170.1 g (6.00 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~256 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.89 W/kg (head)     0.77 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 220 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, July"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 1785 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Non-removable"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126.5 x 66 x 13.7 mm (4.98 x 2.60 x 0.54 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 25(1900)"
+                }
+            ],
+            "name": "Motorola Photon Q 4G LTE XT897"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774490-REVIEW",
+            "range": "1506574774490-MAIN"
+        }
+    ]
+}

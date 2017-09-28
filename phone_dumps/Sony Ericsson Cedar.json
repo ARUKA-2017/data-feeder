@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774510-REVIEW",
+        "user_name": "",
+        "email": "adhuv@gmail.com",
+        "comment": "Nud ogziwlo midazvev reg ku vocofzo petat wiakuko geuvoj wekcilte cakmu ofmu ca.",
+        "rating": -0.1429,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774510-MAIN",
+            "base_score": 0.6798,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~27.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 50 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1000 mAh battery (BST-43)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.16 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, June. Released 2010, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "84 g (2.96 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.08 W/kg (head)     0.56 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "280 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 420 h (2G) / Up to 475 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Silver, Black/Red"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "111 x 49 x 15.5 mm (4.37 x 1.93 x 0.61 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Cedar"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774510-REVIEW",
+            "range": "1506574774510-MAIN"
+        }
+    ]
+}

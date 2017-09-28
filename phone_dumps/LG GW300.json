@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774709-REVIEW",
+        "user_name": "",
+        "email": "erujine@gmail.com",
+        "comment": "Feruv ri ehogil zuringuc jufadgac doz usse kuv nus siljamtik bukic puniw sapuwu wohonka ji wihunkav.",
+        "rating": 0.1336,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774709-MAIN",
+            "base_score": 0.6866,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~25.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 900 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "100 received, dialed and missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "95 g (3.35 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, August. Released 2009, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.98 W/kg (head)     0.58 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "15 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Blue"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115.5 x 61 x 12.8 mm (4.55 x 2.40 x 0.50 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG GW300"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774709-REVIEW",
+            "range": "1506574774709-MAIN"
+        }
+    ]
+}

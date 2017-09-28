@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774421-REVIEW",
+        "user_name": "",
+        "email": "peli@gmail.com",
+        "comment": "Uziandug cetut ipu kipze evaupe vapsawta bodpilov izbufef ha lecozelo edhoh wagje ahmogce kaumojut nionli jeca miovri.",
+        "rating": -0.6456,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774421-MAIN",
+            "base_score": 0.5584,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6.0 inches (~73.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "2160p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "24 MP, OIS, phase detection autofocus, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "204.4 g (7.20 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/2.3\" sensor size, geo-tagging, touch focus, face/smile detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1440 x 2560 pixels (~490 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 350 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP, autofocus"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 7(2600), 33(1900), 38(2600), 39(1900)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, recording"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, June"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 490 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 2.0 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6795 Helio X10"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 3500 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "164 x 82 x 9.6 mm (6.46 x 3.23 x 0.38 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Allview X2 Xtreme"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774421-REVIEW",
+            "range": "1506574774421-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774573-REVIEW",
+        "user_name": "",
+        "email": "jiga@gmail.com",
+        "comment": "Ugka ihi fih amnucoz efe so zu fivfohon fuav bow ockajov cov zen bewzacta su vad or.",
+        "rating": -0.8052,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774573-MAIN",
+            "base_score": 0.3104,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "Yes, 384 kbps"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches, 34 x 45 mm (~27.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1190 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "UMTS 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Samsung 2442 300 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / UMTS"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM, 128 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 220 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.4 x 49 x 14.8 mm (4.43 x 1.93 x 0.58 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 5.0 Smartphone"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC MTeoR"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774573-REVIEW",
+            "range": "1506574774573-MAIN"
+        }
+    ]
+}

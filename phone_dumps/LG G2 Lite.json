@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774477-REVIEW",
+        "user_name": "",
+        "email": "ba@gmail.com",
+        "comment": "Kilov sobem simu at noj ciftik cimdugag hu ewsah bezef negkosel mas macefu wottuno osomi.",
+        "rating": 0.9106,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774477-MAIN",
+            "base_score": 0.9756,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~66.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1820 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.75 W/kg (head)     0.67 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, November"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~207 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "153.7 g (5.40 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, November"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 345 h (2G) / Up to 345 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Gold"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 4 GB included"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "127.5 x 67.9 x 11.9 mm (5.02 x 2.67 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG G2 Lite"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774477-REVIEW",
+            "range": "1506574774477-MAIN"
+        }
+    ]
+}

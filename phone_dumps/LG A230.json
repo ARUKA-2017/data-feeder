@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774620-REVIEW",
+        "user_name": "",
+        "email": "co@gmail.com",
+        "comment": "Kawewre paganru geopu apvibcun howunahu apu kud puf po jimsolu sodtilpo pe jazov mifu es woz.",
+        "rating": 0.6341,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774620-MAIN",
+            "base_score": 0.5141,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 40 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.77 inches (~19.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, recording"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.43 W/kg (head)     1.44 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD, up to 8 GB"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~116 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "80 g (2.82 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM1"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, October"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, July"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.12 W/kg (head)     0.85 W/kg (body)     "
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "25 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 809 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108.8 x 46.6 x 13.9 mm (4.28 x 1.83 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 2"
+                }
+            ],
+            "name": "LG A230"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774620-REVIEW",
+            "range": "1506574774620-MAIN"
+        }
+    ]
+}

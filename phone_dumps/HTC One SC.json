@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774533-REVIEW",
+        "user_name": "",
+        "email": "dehnez@gmail.com",
+        "comment": "Rorzi va focca im lapu eki mi iktenvu hi ovtegi li bud piz dofo kobefej.",
+        "rating": 0.5788,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774533-MAIN",
+            "base_score": 0.9684,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / EVDO"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, August"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "116 g (4.09 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q4"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Orange"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "128 x 66.9 x 8.9 mm (5.04 x 2.63 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "EV-DO Rev.A 3.1 Mbps"
+                }
+            ],
+            "name": "HTC One SC"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774533-REVIEW",
+            "range": "1506574774533-MAIN"
+        }
+    ]
+}

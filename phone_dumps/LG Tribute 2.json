@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774476-REVIEW",
+        "user_name": "",
+        "email": "abo@gmail.com",
+        "comment": "Tibburwa age dam zawof awahawop odubasoj culpuilu wofroti gojo zokzi am futa.",
+        "rating": -0.0225,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774476-MAIN",
+            "base_score": 0.5875,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Weight",
+                    "value": "138.9 g (4.94 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1900 mAh battery"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, July"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~66.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "BLue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~218 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, July"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "129.9 x 64.9 x 10.9 mm (5.11 x 2.56 x 0.43 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 25(1900), 26(850), 41(2500)"
+                }
+            ],
+            "name": "LG Tribute 2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774476-REVIEW",
+            "range": "1506574774476-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774568-REVIEW",
+        "user_name": "",
+        "email": "narco@gmail.com",
+        "comment": "Hedmi zefeece nufcuhme umu pe catirtaz buv jeplun irpujniz game osogiku jinzuczuc sus im tazabad.",
+        "rating": -0.5722,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774568-MAIN",
+            "base_score": 0.8318,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~25.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1050 mAh battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Samsung SC32442 400 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM, 128 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 200 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "About 330 EUR"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.5 x 62.5 x 13.5 mm (4.43 x 2.46 x 0.53 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.0 Standard Edition"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC S630"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774568-REVIEW",
+            "range": "1506574774568-MAIN"
+        }
+    ]
+}

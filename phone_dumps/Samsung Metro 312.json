@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774503-REVIEW",
+        "user_name": "",
+        "email": "vikket@gmail.com",
+        "comment": "Upojohpi nebuti niljug wecaga lawbu nekider sed nud gi piwmu zevucgib pikcuj pecjore opuab wuri roz.",
+        "rating": -0.0312,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774504-MAIN",
+            "base_score": 0.236,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~24.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.06 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM, (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF@15ps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "0.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~102 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "74 g (2.61 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, June"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, May"
+                },
+                {
+                    "key": "CPU",
+                    "value": "208 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.7 x 46.4 x 13.1 mm (4.44 x 1.83 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Samsung Metro 312"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774503-REVIEW",
+            "range": "1506574774504-MAIN"
+        }
+    ]
+}

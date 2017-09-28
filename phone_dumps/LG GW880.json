@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774689-REVIEW",
+        "user_name": "",
+        "email": "vatec@gmail.com",
+        "comment": "Usurij bak ti orpomihe cup umi ak fowtahid ged mo la po mezmadamu.",
+        "rating": 0.64,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774689-MAIN",
+            "base_score": 0.1,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~48.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "TD-SCDMA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, November. Released 2010, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " TD-SCDMA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~267 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150 g (5.29 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "624 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Push Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.28 W/kg (head)     0.38 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "512 MB, 256 MB RAM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 150 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "121.9 x 59.5 x 12.9 mm (4.80 x 2.34 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android-based OPhone OS"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG GW880"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774689-REVIEW",
+            "range": "1506574774689-MAIN"
+        }
+    ]
+}

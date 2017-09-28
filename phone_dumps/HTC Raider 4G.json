@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774537-REVIEW",
+        "user_name": "",
+        "email": "lidjes@gmail.com",
+        "comment": "Dooj uz kofwizit siw fefiesi tuwugi veivmu ij aje ef gidseva malufpah ir.",
+        "rating": -0.4014,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774537-MAIN",
+            "base_score": 0.2221,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~65.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS / SIRIUS Satellite Radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1620 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, September. Released 2011, October"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 4(1700/2100), 17(700)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, dual-LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "177 g (6.24 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 293 h (2G) / Up to 248 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "128 x 67 x 11.2 mm (5.04 x 2.64 x 0.44 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.4 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 2100 "
+                }
+            ],
+            "name": "HTC Raider 4G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774537-REVIEW",
+            "range": "1506574774537-MAIN"
+        }
+    ]
+}

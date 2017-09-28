@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774455-REVIEW",
+        "user_name": "",
+        "email": "nebponof@gmail.com",
+        "comment": "Hem lad veaga peane mermer ru refob nivso alo ag co bil.",
+        "rating": -0.4323,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774455-MAIN",
+            "base_score": 0.479,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches (~72.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus or 2 MP, fixed focus"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~189 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "350 g (12.35 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, July"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, GLONASS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, June"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-450MP4"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom x3-C3200"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po battery (15.2 Wh)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Aurora Metallic"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "209 x 123 x 8.5 mm (8.23 x 4.84 x 0.33 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Asus Zenpad 8.0 Z380C"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774455-REVIEW",
+            "range": "1506574774455-MAIN"
+        }
+    ]
+}

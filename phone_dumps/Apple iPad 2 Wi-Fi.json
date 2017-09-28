@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774443-REVIEW",
+        "user_name": "",
+        "email": "ja@gmail.com",
+        "comment": "Wi kep nihumu dab odi kobas calmuhupu koj ra okimus no ur.",
+        "rating": 0.1369,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774443-MAIN",
+            "base_score": 0.4462,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~65.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 4, upgradable to iOS 9.3.5"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML (Safari)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 6930 mAh battery (25 Wh)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "0.7 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~132 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "601 g (1.32 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "No"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, March. Released 2011, March"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX543MP2"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A5"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 720 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "241.2 x 185.7 x 8.8 mm (9.50 x 7.31 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Apple iPad 2 Wi-Fi"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774443-REVIEW",
+            "range": "1506574774443-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774518-REVIEW",
+        "user_name": "",
+        "email": "kuvda@gmail.com",
+        "comment": "Bihe bev javvusa ku fezeb tu anovegi mebet ovhem wupvoim di jaini jol ik vepez ucovemu.",
+        "rating": -0.2158,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774518-MAIN",
+            "base_score": 0.8286,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700) - Asia"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, 1080p@30fps"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - EMEA, Asia"
+                },
+                {
+                    "key": "Primary",
+                    "value": "Dual 13 MP + 2 MP, autofocus, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~441 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Cancelled"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 3(1800), 7(2600), 8(900), 20(800) - EMEA"
+                },
+                {
+                    "key": "Announced",
+                    "value": "Not announced yet"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD3 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 4"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8939 Snapdragon 615"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Gunmetal Gray, Glacial Silver, Amber Gold"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "160 g (5.64 oz)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes (market/operator dependent)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0.1 (Lollipop)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                }
+            ],
+            "name": "HTC One (M8i)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774518-REVIEW",
+            "range": "1506574774518-MAIN"
+        }
+    ]
+}

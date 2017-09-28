@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774526-REVIEW",
+        "user_name": "",
+        "email": "mikanu@gmail.com",
+        "comment": "Soega cirbojsub mir ide hedfu wogu ujeadejiv zuw bobeevo ratal vi naksif bimac teztun timamawu selrapula om.",
+        "rating": 0.2898,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774526-MAIN",
+            "base_score": 0.5763,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.2 inches (~60.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "135 g (4.76 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Video-calling, geo-tagging, smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~222 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.18 W/kg (head)     0.42 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "ULP GeForce"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 660 h (2G) / Up to 550 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 33"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, June"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "SC-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Nvidia Tegra 2 AP20H"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1650 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "125 x 66 x 9.5 mm (4.92 x 2.60 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 33"
+                }
+            ],
+            "name": "Samsung I9103 Galaxy R"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774526-REVIEW",
+            "range": "1506574774526-MAIN"
+        }
+    ]
+}

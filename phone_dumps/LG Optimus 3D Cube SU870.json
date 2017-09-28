@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774599-REVIEW",
+        "user_name": "",
+        "email": "vidahogo@gmail.com",
+        "comment": "Kuhomeca nisuk vosrig guvoja pisso judbop bih ceesawa uniekafi pif fenti mowompu gohfobka uszeba lu.",
+        "rating": 0.05,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774599-MAIN",
+            "base_score": 0.0957,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 210 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1520 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, February"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps (2D), 720p@30fps (3D)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "Dual 5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "148 g (4.94 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Stereoscopic photos & videos; geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q3"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "3D IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 333 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126.8 x 67.4 x 9.6 mm (4.99 x 2.65 x 0.38 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread), planned upgrade to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG Optimus 3D Cube SU870"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774599-REVIEW",
+            "range": "1506574774599-MAIN"
+        }
+    ]
+}

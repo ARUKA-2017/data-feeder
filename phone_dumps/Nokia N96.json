@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774354-REVIEW",
+        "user_name": "",
+        "email": "iwa@gmail.com",
+        "comment": "Wupu bu ub ifevapva si ofawa weswamju ga nunzolah joko difabcaf eskiri hedfon gi cukjec oc jiz aju.",
+        "rating": -0.7247,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774354-MAIN",
+            "base_score": 0.4963,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32, 107 / 64.2 kbps"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, Carl Zeiss optics, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - American version"
+                },
+                {
+                    "key": "Weight",
+                    "value": "125 g (4.41 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.82 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 220 h (2G) / 192 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery (BL-5F)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, February. Released 2008, September"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, UPnP technology"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~42.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian OS 9.3, S60 rel. 3.2"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver, Quartz"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Nokia Maps"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 3 h 40 min (2G) / 2 h 36 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML, RSS reader"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.68 W/kg (head)     0.89 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "264 MHz Dual ARM 9"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 128 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "103 x 55 x 18 mm, 92 cc (4.06 x 2.17 x 0.71 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                }
+            ],
+            "name": "Nokia N96"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774354-REVIEW",
+            "range": "1506574774354-MAIN"
+        }
+    ]
+}

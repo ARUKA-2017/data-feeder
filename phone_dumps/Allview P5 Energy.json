@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774418-REVIEW",
+        "user_name": "",
+        "email": "veah@gmail.com",
+        "comment": "Ane wa hi mogniges utfo sisnarab gictumri ep wambok levele tovwu kig hapgomve opa ipumifo du ditovel.",
+        "rating": 0.1607,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774418-MAIN",
+            "base_score": 0.2601,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~62.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "156.5 g (5.54 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.69 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~218 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T720MP2"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 3(1800), 7(2600), 20(800), 38(2600), 40(2300)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, September"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.0 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6735M"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 4000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "134.2 x 66.2 x 11.2 mm (5.28 x 2.61 x 0.44 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Allview P5 Energy"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774418-REVIEW",
+            "range": "1506574774418-MAIN"
+        }
+    ]
+}

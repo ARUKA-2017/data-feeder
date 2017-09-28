@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774755-REVIEW",
+        "user_name": "",
+        "email": "higmenla@gmail.com",
+        "comment": "Dariz bavwov bicvof kitasi saju kuigeto angal nes fude lek fogeuru doesoce ufu bit.",
+        "rating": -0.6843,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774755-MAIN",
+            "base_score": 0.7347,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~42.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, August. Released 2008, November"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps, 320p@120fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 900 / 1800 / 1900 - tri-band version"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, Schneider-Kreuznach optics, auto/manual focus, xenon flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "114 g (4.02 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face, smile and blink detection, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - quad-band version"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.59 W/kg (head)     0.49 W/kg (body)     "
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "100 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 264 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107.8 x 55.9 x 14 mm (4.24 x 2.20 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 - American version"
+                }
+            ],
+            "name": "LG KC910 Renoir"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774755-REVIEW",
+            "range": "1506574774755-MAIN"
+        }
+    ]
+}

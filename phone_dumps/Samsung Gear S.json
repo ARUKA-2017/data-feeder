@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774503-REVIEW",
+        "user_name": "",
+        "email": "hakzin@gmail.com",
+        "comment": "Isdofu fos tibnosi wuksiw etbol sa dosmarso usgi basiscu cokfuze sumi owa tob arlelgo ja ted nusejik mi.",
+        "rating": 0.3896,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774503-MAIN",
+            "base_score": 0.9938,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~53.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass, heart rate, barometer, UV light"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.81 W/kg (head)     1.07 W/kg (body)     "
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 300 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.56 W/kg (head)     0.65 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 1900 "
+                },
+                {
+                    "key": "Colors",
+                    "value": "Charcoal Black, Frost White"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 480 pixels (~300 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "67 g (2.36 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8928 Snapdragon 400"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "58.1 x 39.9 x 12.5 mm (2.29 x 1.57 x 0.49 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Tizen-based wearable platform"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 "
+                }
+            ],
+            "name": "Samsung Gear S"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774503-REVIEW",
+            "range": "1506574774503-MAIN"
+        }
+    ]
+}

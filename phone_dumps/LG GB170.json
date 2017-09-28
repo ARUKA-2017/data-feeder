@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774712-REVIEW",
+        "user_name": "",
+        "email": "ipusub@gmail.com",
+        "comment": "Secbi sedjarzuf ume waama fiuki piretrow voz moowug vejto ruom honwaru ogfolom vesena ugebuni.",
+        "rating": -0.8492,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774713-MAIN",
+            "base_score": 0.3917,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.5 inches (~15.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 8 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Red"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~121 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "76.5 g (2.68 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, August. Released 2009, Q3"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "103 x 46 x 13.9 mm (4.06 x 1.81 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG GB170"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774712-REVIEW",
+            "range": "1506574774713-MAIN"
+        }
+    ]
+}

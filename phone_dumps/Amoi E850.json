@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774431-REVIEW",
+        "user_name": "",
+        "email": "tubem@gmail.com",
+        "comment": "Novjaz litubud agjoco ucrilev bat kegakorot zecfejfa akoacne pinnanpaj zuva lohoduli es abenub cabba.",
+        "rating": 0.542,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774431-MAIN",
+            "base_score": 0.0382,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~30.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "1.2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1100 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP, LED flash"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "204 x 320 pixels (~158 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "108 g (3.81 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "1.1"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, 2Q"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Intel XScale PXA 272 312 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors (65K effective)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM, 128 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 150 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102 x 54 x 20 mm (4.02 x 2.13 x 0.79 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Amoi E850"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774431-REVIEW",
+            "range": "1506574774431-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774520-REVIEW",
+        "user_name": "",
+        "email": "bedcane@gmail.com",
+        "comment": "Pu vim ugeru lo jadcehul pocov mu pid zoz jujgauka bifza jed afsez zuz icec.",
+        "rating": 0.2638,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774520-MAIN",
+            "base_score": 0.5628,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~65.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Purple"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, f/2.6, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "153 g (5.40 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.52 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~220 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.54 W/kg (head)     0.36 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 588 h (2G) / Up to 605 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 237 kbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 14 h (2G) / Up to 12 h 25 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, June"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/11.5 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, July"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6589"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 2390 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 4 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141.5 x 74.2 x 8.9 mm (5.57 x 2.92 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 85.6 kbps"
+                }
+            ],
+            "name": "Sony Xperia C"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774520-REVIEW",
+            "range": "1506574774520-MAIN"
+        }
+    ]
+}

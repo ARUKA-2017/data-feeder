@@ -1,0 +1,154 @@
+{
+    "review_info": {
+        "id": "1506574774779-REVIEW",
+        "user_name": "",
+        "email": "igpiav@gmail.com",
+        "comment": "Ne semfode zuvo tete lo dopo idamo nid nedibu ko mediw zurezduv ro kije wagbis pat rahas pitoz.",
+        "rating": -0.9332,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774779-MAIN",
+            "base_score": 0.8284,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.5 inches (~16.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Primary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~121 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, Polyphonic(32) ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, February. Released 2008"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "0.90 W/kg (head)     0.75 W/kg (body)     "
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "99.8 x 45.3 x 13.4 mm (3.93 x 1.78 x 0.53 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG KP130"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774779-REVIEW",
+            "range": "1506574774779-MAIN"
+        }
+    ]
+}

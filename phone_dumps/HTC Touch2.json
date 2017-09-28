@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774557-REVIEW",
+        "user_name": "",
+        "email": "guinomen@gmail.com",
+        "comment": "Fapfonen vureh usilosvaf catazuz mehaw copdi mevot mevnac ujebacfod vez wasaj humadaj delor noepiro ur la.",
+        "rating": 0.8635,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774557-MAIN",
+            "base_score": 0.189,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~42.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, September. Released 2009, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "CIF@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (Opera 9.5)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "110 g (3.88 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7225 Snapdragon S1"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.83 W/kg (head)     1.07 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h (2G) / Up to 370 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Brown, Silver"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "104 x 55 x 12.9 mm (4.09 x 2.17 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC Touch2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774557-REVIEW",
+            "range": "1506574774557-MAIN"
+        }
+    ]
+}

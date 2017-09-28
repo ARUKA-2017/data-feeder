@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774571-REVIEW",
+        "user_name": "",
+        "email": "wo@gmail.com",
+        "comment": "Sema ako wati weig ji zej ocesolgi cikiran ja pufuva jatopiv uliposdo laostof mimi li.",
+        "rating": -0.492,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774571-MAIN",
+            "base_score": 0.3117,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 370 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - American version"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~38.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, September"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150 g (5.29 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "USB host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Samsung SC3 2442A 400 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM, 128 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver, Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes (newest firmware versions only)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 58.2 x 18.4 mm (4.25 x 2.29 x 0.72 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 5.0 PocketPC"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 1.8 Mbps"
+                }
+            ],
+            "name": "HTC P3600"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774571-REVIEW",
+            "range": "1506574774571-MAIN"
+        }
+    ]
+}

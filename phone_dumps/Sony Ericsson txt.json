@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774509-REVIEW",
+        "user_name": "",
+        "email": "pol@gmail.com",
+        "comment": "Taodi bo kabo minno suljeji mec foha zefa bulevce ocjoji hos ihovu.",
+        "rating": -0.0195,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774509-MAIN",
+            "base_score": 0.9192,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.55 inches (~31.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.92 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 3 h 12 min"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, fixed-focus"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~157 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "95 g (3.35 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, June. Released 2011, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT,  256K colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "120 MB (100 MB user available), 64 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 416 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 177 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Blue, White, Pink"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106 x 60 x 14.5 mm (4.17 x 2.36 x 0.57 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 60 kbps"
+                }
+            ],
+            "name": "Sony Ericsson txt"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774509-REVIEW",
+            "range": "1506574774509-MAIN"
+        }
+    ]
+}

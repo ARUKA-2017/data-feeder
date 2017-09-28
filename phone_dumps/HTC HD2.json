@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774554-REVIEW",
+        "user_name": "",
+        "email": "ofo@gmail.com",
+        "comment": "Hofev vugmaboz lebig mocdi toh zeji guicane uhifev kukafev mavuap rumu dihe.",
+        "rating": 0.3967,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774554-MAIN",
+            "base_score": 0.4936,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~65.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, dual-LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "157 g (5.54 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; NaviPanel"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.63 W/kg (head)     0.72 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 490 h (2G) / Up to 390 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 6 h 20 min (2G) / Up to 5 h 40 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, October. Released 2009, November"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 2100  - Australian Version"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm QSD8250 Snapdragon S1"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1230 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "448 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "120.5 x 67 x 11 mm (4.74 x 2.64 x 0.43 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, Wi-Fi router"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "HTC HD2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774554-REVIEW",
+            "range": "1506574774554-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774730-REVIEW",
+        "user_name": "",
+        "email": "sena@gmail.com",
+        "comment": "Jamhug keb od susgi efnov ki cerujceg mefjepa zo adlo ilukihbi leaja.",
+        "rating": 0.1309,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774731-MAIN",
+            "base_score": 0.1764,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 50 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~24.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS, built-in antenna"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 2 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1100 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "50 dialed, 50 received, 50 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "85 g (3.00 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, March. Released 2009, June"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Sudoku Puzzle, ZooZooClub"
+                },
+                {
+                    "key": "Internal",
+                    "value": "14 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries , Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver, Gold (GM200); Black, Red (GM205)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106 x 48 x 14.4 mm (4.17 x 1.89 x 0.57 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "LG GM200 Brio"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774730-REVIEW",
+            "range": "1506574774731-MAIN"
+        }
+    ]
+}

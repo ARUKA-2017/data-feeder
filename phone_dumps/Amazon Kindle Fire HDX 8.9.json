@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774427-REVIEW",
+        "user_name": "",
+        "email": "zumoza@gmail.com",
+        "comment": "Logbik nada fodbilni fibilha miogoce imurij sow zif bogvinsam isuge vam jik cekrepci.",
+        "rating": 0.3089,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774427-MAIN",
+            "base_score": 0.9794,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Weight",
+                    "value": "374 g (Wi-Fi)/ 384 g (4G) (13.19 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion battery"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 280 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, September"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Size",
+                    "value": "8.9 inches (~62.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android OS (Jelly Bean - customized)"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS (4G model)"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "2560 x 1600 pixels (~339 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 800"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "720p"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Amazon Silk)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " CDMA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, November"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.2 GHz Krait 400"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "231 x 158 x 7.8 mm (9.09 x 6.22 x 0.31 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": " LTE"
+                }
+            ],
+            "name": "Amazon Kindle Fire HDX 8.9"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774427-REVIEW",
+            "range": "1506574774427-MAIN"
+        }
+    ]
+}

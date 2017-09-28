@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774566-REVIEW",
+        "user_name": "",
+        "email": "pulpunme@gmail.com",
+        "comment": "Momvutje du mafwuc safmasmas urudiul vejdagdi efvute jege el iki otaribwo cidofruv zur tav holeed dez kubisgaw sa.",
+        "rating": -0.8388,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774566-MAIN",
+            "base_score": 0.1792,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.0 Professional"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~38.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1100 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 170 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "122 g (4.30 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, February. Released 2008, March"
+                },
+                {
+                    "key": "CPU",
+                    "value": "200 MHz ARM926EJ-S"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "TI OMAP 850"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.37 W/kg (head)     1.18 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 240 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108 x 58.3 x 15.7 mm (4.25 x 2.30 x 0.62 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC P3470"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774566-REVIEW",
+            "range": "1506574774566-MAIN"
+        }
+    ]
+}

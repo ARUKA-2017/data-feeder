@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774493-REVIEW",
+        "user_name": "",
+        "email": "semwas@gmail.com",
+        "comment": "Ovhat we gu rob ji tuiroub sesolep jef ozeef lupreico kufuh satuh.",
+        "rating": -0.9887,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774493-MAIN",
+            "base_score": 0.6484,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.9 inches (~69.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop), upgradable to 5.1.1 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 320 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~324 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "318 g (11.22 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, January"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, November"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.3 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6430"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, Type-C 1.0 reversible connector"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3580"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Natural Aluminum, Lava Gray"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "200.7 x 138.6 x 6.9 mm (7.90 x 5.46 x 0.27 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Nokia N1"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774493-REVIEW",
+            "range": "1506574774493-MAIN"
+        }
+    ]
+}

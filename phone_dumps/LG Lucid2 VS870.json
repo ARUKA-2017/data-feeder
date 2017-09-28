@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774586-REVIEW",
+        "user_name": "",
+        "email": "icugat@gmail.com",
+        "comment": "Upojim posufku bak tifdo uh jobtapzo jomvule meh kuh edujarape awaob orseni ric pinuspij go viciahe ko.",
+        "rating": -0.0621,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774586-MAIN",
+            "base_score": 0.7227,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~66.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "129 g (4.55 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face/smile detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~256 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 225"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 480 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.59 W/kg (head)     1.12 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, April"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "EV-DO Rev.A 3.1 Mbps, LTE"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 270 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, April"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "AH IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8960 Snapdragon S4 Plus"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2460 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "122.5 x 62.8 x 9.8 mm (4.82 x 2.47 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 13(700)"
+                }
+            ],
+            "name": "LG Lucid2 VS870"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774586-REVIEW",
+            "range": "1506574774586-MAIN"
+        }
+    ]
+}

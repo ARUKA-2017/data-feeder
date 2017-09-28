@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774451-REVIEW",
+        "user_name": "",
+        "email": "zal@gmail.com",
+        "comment": "We sujkimniz kup lojepgut pu def jerabzoh wafol nuv fivpajofu jesijo vuldenba daverim jirijpam viwpet visawipi ro osegaape.",
+        "rating": -0.6262,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774451-MAIN",
+            "base_score": 0.174,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~68.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/11.5 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5.3 MP, LED flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.22 W/kg (head)     0.56 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "13.4 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~441 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.5 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544MP2"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out), USB Host"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6589T"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 5 fingers"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "143 x 70.5 x 9.9 mm (5.63 x 2.78 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes, hotspot, Wi-Fi Direct, DLNA"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Archos 50 Oxygen"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774451-REVIEW",
+            "range": "1506574774451-MAIN"
+        }
+    ]
+}

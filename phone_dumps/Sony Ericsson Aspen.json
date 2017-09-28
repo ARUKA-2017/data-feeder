@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774511-REVIEW",
+        "user_name": "",
+        "email": "huih@gmail.com",
+        "comment": "Zeltaw gubki zo emsu zonoin vis wewabkav ofukuek sahbegud ib birajime cujuk reaziso pizpipej rujlidhib kuboazo.",
+        "rating": 0.2213,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774511-MAIN",
+            "base_score": 0.0458,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~25.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5.3 Professional"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 85 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Iconic Black, White Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, smart contrast"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.05 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 560 h (2G) / Up to 500 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 6 h 30 min (2G) / Up to 7 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (IE), RSS feeds"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, February. Released 2010, July"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot), 4 GB included"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1500 mAh battery"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7227 Snapdragon S1"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB RAM, 256 MB ROM, 100 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "117 x 60 x 12.5 mm (4.61 x 2.36 x 0.49 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Yes, Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Aspen"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774511-REVIEW",
+            "range": "1506574774511-MAIN"
+        }
+    ]
+}

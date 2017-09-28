@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774599-REVIEW",
+        "user_name": "",
+        "email": "dogbu@gmail.com",
+        "comment": "Razli mabhu rekoenu mo tocuf legov vukiseke so hubkutgeg rijpob teifuzub abcoodo do ta wih vepegeb.",
+        "rating": 0.4142,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774599-MAIN",
+            "base_score": 0.8448,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.9 inches (~60.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 160 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1280 pixels (~168 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "497 g (1.10 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q4"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE 800"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "SD/microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "245 x 151.4 x 9.3 mm (9.65 x 5.96 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 3.2 (Honeycomb)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG Optimus Pad LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774599-REVIEW",
+            "range": "1506574774599-MAIN"
+        }
+    ]
+}

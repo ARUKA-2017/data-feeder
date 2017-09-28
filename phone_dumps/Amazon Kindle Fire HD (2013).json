@@ -1,0 +1,154 @@
+{
+    "review_info": {
+        "id": "1506574774427-REVIEW",
+        "user_name": "",
+        "email": "dovjupbo@gmail.com",
+        "comment": "Umi riwfo efdip ap ja ow miwluh hadlebu madiwe johaw nuzbubwa van nabsedap alo.",
+        "rating": 0.8118,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774427-MAIN",
+            "base_score": 0.6169,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~58.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android OS (Jelly Bean - customized)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Amazon Silk)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~216 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "345 g (12.17 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, September"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion battery"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "191 x 128 x 10.6 mm (7.52 x 5.04 x 0.42 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Amazon Kindle Fire HD (2013)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774427-REVIEW",
+            "range": "1506574774427-MAIN"
+        }
+    ]
+}

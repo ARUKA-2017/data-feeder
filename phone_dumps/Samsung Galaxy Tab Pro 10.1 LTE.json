@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774519-REVIEW",
+        "user_name": "",
+        "email": "koprikfef@gmail.com",
+        "comment": "Ome woz vuftadil fu buvgi azremar lehusbac jerijze jum fuwi ugduc jieghat pog motot co wumuzmot izeru.",
+        "rating": -0.5296,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774519-MAIN",
+            "base_score": 0.5662,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "10.1 inches (~71.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, 1080p@30fps"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face/smile detection"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "477 g (1.05 lb)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.90 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "2560 x 1600 pixels (~299 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 8220 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 10 h (multimedia)"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, January"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 420 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out), USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.3 GHz Krait 400"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super clear LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 800"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "243.1 x 171.4 x 7.3 mm (9.57 x 6.75 x 0.29 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Tab Pro 10.1 LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774519-REVIEW",
+            "range": "1506574774519-MAIN"
+        }
+    ]
+}

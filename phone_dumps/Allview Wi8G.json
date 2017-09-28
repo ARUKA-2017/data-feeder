@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774425-REVIEW",
+        "user_name": "",
+        "email": "ane@gmail.com",
+        "comment": "Imkaf rowcarev no rotuf vutzu nev juw naf uconuke zi gouj ujhupka gu ici wacuh an ogipafher hirmishat.",
+        "rating": -0.7985,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774425-MAIN",
+            "base_score": 0.1857,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches (~73.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 3800 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, December"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 33"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~189 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "351 g (12.38 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, December"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.33 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3735G"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 140 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "206.5 x 122.8 x 9.1 mm (8.13 x 4.83 x 0.36 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows 10"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 33"
+                }
+            ],
+            "name": "Allview Wi8G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774425-REVIEW",
+            "range": "1506574774425-MAIN"
+        }
+    ]
+}

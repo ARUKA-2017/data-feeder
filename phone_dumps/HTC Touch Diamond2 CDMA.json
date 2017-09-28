@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774560-REVIEW",
+        "user_name": "",
+        "email": "ohcilgu@gmail.com",
+        "comment": "Vaova maho vokzes gezod wozru pob otauka catzu mo gende legnicot wokorta ni genwuh odafad curbin siwcij rabam.",
+        "rating": 0.9794,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774560-MAIN",
+            "base_score": 0.1411,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.6 inches (~50.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, December. Released 2009, December"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 7.2/2 Mbps, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~259 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150.3 g (5.29 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "528 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors (65K effective)"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.34 W/kg (head)     0.47 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 130"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7200A"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO"
+                },
+                {
+                    "key": "Internal",
+                    "value": "288 MB RAM, 512 MB ROM"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 324 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "118.1 x 61.7 x 14 mm (4.65 x 2.43 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.5 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "CDMA2000 1xEV-DO "
+                }
+            ],
+            "name": "HTC Touch Diamond2 CDMA"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774560-REVIEW",
+            "range": "1506574774560-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "review_info": {
+        "id": "1506574774428-REVIEW",
+        "user_name": "",
+        "email": "ubcinit@gmail.com",
+        "comment": "Ufiwam cujju uri idgicol suz vejig tivmab ta jiasneg iliedo picug vav lotebara mones moma.",
+        "rating": 0.5088,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774429-MAIN",
+            "base_score": 0.9095,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 5.0 Phone Edition"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~29.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "MS IE"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Weight",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "1.2, A2DP"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "100 x 51 x 16.8 mm (3.94 x 2.01 x 0.66 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Amoi E76"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774428-REVIEW",
+            "range": "1506574774429-MAIN"
+        }
+    ]
+}

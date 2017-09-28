@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "evoso@gmail.com",
+        "comment": "Hajasa mad vuesop pulughaj jijalu zi wiklo tawma kiuwtog soc ekkije ocihidva gap ti.",
+        "rating": 0.4877,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.2116,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.6 inches (~44.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Videocall camera"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Progressive Black, Cosmic Silver, Energetic Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8.1 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 received, dialed and missed calls"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - W995a"
+                },
+                {
+                    "key": "Weight",
+                    "value": "113 g (3.99 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3, AAC ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Wayfinder navigator"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.18 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~154 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, incl. motion-based + downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 x 20 fields, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 370 h (2G) / Up to 360 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 9 h (2G) / Up to 4 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML (NetFront), RSS reader"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, May"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "Memory Stick Micro (M2), up to 16 GB, 8 GB included"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "369 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 930 mAh battery (BST-38)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "118 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "97 x 49 x 15 mm (3.82 x 1.93 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson W995"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

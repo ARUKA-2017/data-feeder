@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774432-REVIEW",
+        "user_name": "",
+        "email": "ji@gmail.com",
+        "comment": "Karadbap le bufoseceg honeb vubpo te lutowfog acazaf zita nuz pet zu miiwi us rom.",
+        "rating": 0.5419,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774432-MAIN",
+            "base_score": 0.9954,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~26.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "Yes, 384 kbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 720 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, 2Q"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes (optional)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "UMTS 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP, 180 deg rotating lens"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / UMTS"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "7 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photo/Video call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 200 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "93.5 x 50 x 26.3 mm (3.68 x 1.97 x 1.04 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Amoi H802"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774432-REVIEW",
+            "range": "1506574774432-MAIN"
+        }
+    ]
+}

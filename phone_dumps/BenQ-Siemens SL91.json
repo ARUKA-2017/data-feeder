@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774463-REVIEW",
+        "user_name": "",
+        "email": "epibafid@gmail.com",
+        "comment": "Fi lidpac fe kuvwer decliz ance od ara kovicamog mu viwagis uwvogit pipef.",
+        "rating": 0.8627,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774463-MAIN",
+            "base_score": 0.6293,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Speed",
+                    "value": "Yes, 384 kbps"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~29.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, July"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "UMTS 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~200 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "109 g (3.84 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / UMTS"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 310 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Magic Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "89 x 47 x 23 mm (3.50 x 1.85 x 0.91 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "BenQ-Siemens SL91"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774463-REVIEW",
+            "range": "1506574774463-MAIN"
+        }
+    ]
+}

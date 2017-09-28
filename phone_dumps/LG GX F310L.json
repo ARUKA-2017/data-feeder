@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774583-REVIEW",
+        "user_name": "",
+        "email": "forifese@gmail.com",
+        "comment": "Faumejoh talesi dub lokne wawaw ezo jeozu mip opeku sebolu firomelol ved re kare jawpepme helogfoj na anuh.",
+        "rating": 0.4223,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774583-MAIN",
+            "base_score": 0.0964,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~72.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.3 (Jelly Bean)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, dual-video rec., HDR"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "167 g (5.89 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, S-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~401 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 320"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 700 h"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP, 1080p@30fps"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, December"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Speed",
+                    "value": " LTE, VoLTE"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 250 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (SlimPort), USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.7 GHz Krait 300"
+                },
+                {
+                    "key": "Type",
+                    "value": "True Full HD IPS Plus LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 600"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 3140 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "150.6 x 76.1 x 9.2 mm (5.93 x 3.00 x 0.36 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps"
+                }
+            ],
+            "name": "LG GX F310L"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774583-REVIEW",
+            "range": "1506574774583-MAIN"
+        }
+    ]
+}

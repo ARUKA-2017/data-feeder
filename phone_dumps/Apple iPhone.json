@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774444-REVIEW",
+        "user_name": "",
+        "email": "subol@gmail.com",
+        "comment": "Luzteum jizwibo hagovo ronuepu egse vacuz me wodih be ose su olu takmodmo kimhaheg metu.",
+        "rating": 0.2497,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774444-MAIN",
+            "base_score": 0.247,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Weight",
+                    "value": "135 g (4.76 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.97 W/kg (head)     0.69 W/kg (body)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 250 h"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 420 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, January. Released 2007, June"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~52.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS, upgradable to iOS 3.1.3"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0 (headset support only)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, proprietary ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR MBX"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 8 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML (Safari)"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.97 W/kg (head)     0.38 W/kg (body)     "
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass, oleophobic coating"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "412 MHz ARM 11"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4/8/16 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "115 x 61 x 11.6 mm (4.53 x 2.40 x 0.46 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Apple iPhone"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774444-REVIEW",
+            "range": "1506574774444-MAIN"
+        }
+    ]
+}

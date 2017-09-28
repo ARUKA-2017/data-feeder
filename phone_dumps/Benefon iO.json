@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774459-REVIEW",
+        "user_name": "",
+        "email": "jon@gmail.com",
+        "comment": "Cugag uvvej vojirvu nalum ervatjo nob fanu wezke baimal mikelpe ipora lip na ozenteh rawa rukjib.",
+        "rating": 0.6417,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774459-MAIN",
+            "base_score": 0.0341,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6 lines"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "6"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable NiMH 700 mAh battery"
+                },
+                {
+                    "key": "Clock",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Call records",
+                    "value": "15 dialed, 5 received, 5 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "- Dynamic & user-selectable font size"
+                },
+                {
+                    "key": "Weight",
+                    "value": "167 g (5.89 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Monophonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "1999"
+                },
+                {
+                    "key": "Type",
+                    "value": "Monochrome graphic"
+                },
+                {
+                    "key": "Java",
+                    "value": "- Predictive text input"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "SIM only"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "60 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Alarm",
+                    "value": "3"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "122 x 56 x 24 mm (4.80 x 2.20 x 0.94 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Benefon iO"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774459-REVIEW",
+            "range": "1506574774459-MAIN"
+        }
+    ]
+}

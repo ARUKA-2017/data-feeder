@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774400-REVIEW",
+        "user_name": "",
+        "email": "secopu@gmail.com",
+        "comment": "Bakovas zal vibpa vedzehu mosdekiki ba jiz gicpab hu wiewico tettu gukgurewi rekminwow ruuhe su wipvori.",
+        "rating": -0.459,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774401-MAIN",
+            "base_score": 0.3006,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches (~67.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~189 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "355 g (12.52 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, April"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.33 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3735G"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 4550 mAh battery (17.2 Wh)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Various"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "213.9 x 127.7 x 9.5 mm (8.42 x 5.03 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Acer Iconia One 8 B1-820"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774400-REVIEW",
+            "range": "1506574774401-MAIN"
+        }
+    ]
+}

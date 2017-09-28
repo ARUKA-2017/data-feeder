@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774707-REVIEW",
+        "user_name": "",
+        "email": "ji@gmail.com",
+        "comment": "Wuziru ci itu nuweg gaminek patjeb mi jihca dip iha it ci pene sa waf pod.",
+        "rating": -0.0664,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774707-MAIN",
+            "base_score": 0.2203,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - American version"
+                },
+                {
+                    "key": "Weight",
+                    "value": "139 g (4.90 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h (2G) / Up to 500 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1500 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, September. Released 2009, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors (65K effective)"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, hotspot"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~45.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 1.5, upgradable to 2.2 (Froyo)"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Gray, Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face and detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~192 ppi pixel density)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.21 W/kg (head)     0.71 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Internal",
+                    "value": "150 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109 x 54.5 x 15.9 mm (4.29 x 2.15 x 0.63 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                }
+            ],
+            "name": "LG GW620"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774707-REVIEW",
+            "range": "1506574774707-MAIN"
+        }
+    ]
+}

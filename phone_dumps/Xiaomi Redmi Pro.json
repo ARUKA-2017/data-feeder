@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774349-REVIEW",
+        "user_name": "",
+        "email": "ri@gmail.com",
+        "comment": "Wagu ho oh ujewi hevici perwi aj uh lata fi jefbu emmi.",
+        "rating": -0.321,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774349-MAIN",
+            "base_score": 0.0175,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~72.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, 720p@120fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver, Gold, Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.2, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "Dual 13 MP + 5MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "174 g (6.14 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~401 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T880 MP4"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, f/2.0, 1080p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio; recording"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2016, July"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 190 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2016, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "Type-C 1.0 reversible connector"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Deca-core 2.5 GHz - Exclusive edition"
+                },
+                {
+                    "key": "Type",
+                    "value": "LTPS-AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6797T Helio X25 - High & Exclusive editions"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 GB, 4 GB RAM - Exclusive edition"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "151.5 x 76.2 x 8.2 mm (5.96 x 3.00 x 0.32 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": " TD-SCDMA"
+                }
+            ],
+            "name": "Xiaomi Redmi Pro"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774349-REVIEW",
+            "range": "1506574774349-MAIN"
+        }
+    ]
+}

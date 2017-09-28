@@ -1,0 +1,158 @@
+{
+    "review_info": {
+        "id": "1506574774568-REVIEW",
+        "user_name": "",
+        "email": "vu@gmail.com",
+        "comment": "Numofjoh fufudiz eta nuwe co huvalwuc lijsivu kera jim epu wekid vekewuvi.",
+        "rating": 0.7464,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774568-MAIN",
+            "base_score": 0.6911,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 5.0 PocketPC"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~41.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (PocketIE)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~114 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "200 g (7.05 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, May"
+                },
+                {
+                    "key": "CPU",
+                    "value": "32-bit Samsung SC3 2442 400 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "SD"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "130 x 70 x 18.8 mm (5.12 x 2.76 x 0.74 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11b/g"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "HTC P6300"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774568-REVIEW",
+            "range": "1506574774568-MAIN"
+        }
+    ]
+}

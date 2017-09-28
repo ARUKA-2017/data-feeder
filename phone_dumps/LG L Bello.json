@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774478-REVIEW",
+        "user_name": "",
+        "email": "datasza@gmail.com",
+        "comment": "Zofare far araja keta go dolciki bo vewnob elmev dedwek pedrep tud.",
+        "rating": -0.0236,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774478-MAIN",
+            "base_score": 0.2802,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~70.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "137 g (4.83 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.59 W/kg (head)     0.76 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~196 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.58 W/kg (head)     1.28 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400MP2"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h (2G) / Up to 600 h (3G)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 2100 - D335"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 - D331"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.3 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6582"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2540 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "138.1 x 70.6 x 10.7 mm (5.44 x 2.78 x 0.42 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                }
+            ],
+            "name": "LG L Bello"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774478-REVIEW",
+            "range": "1506574774478-MAIN"
+        }
+    ]
+}

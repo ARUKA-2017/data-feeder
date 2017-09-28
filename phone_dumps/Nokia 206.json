@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774497-REVIEW",
+        "user_name": "",
+        "email": "benpehmoz@gmail.com",
+        "comment": "Sow pecow nuselsih ufzeko bef cejjazef ce zeham sitvum pori fe tiv ehote.",
+        "rating": -0.3322,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774497-MAIN",
+            "base_score": 0.1122,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~31.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.93 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF@10fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 20 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, EDR"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1110 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "91 g (3.21 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 1900 - RM-873"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, Q4"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 680 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 85.6 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Cyan , Magenta, Yellow, Black, White"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116 x 49.4 x 12.4 mm, 64 cc (4.57 x 1.94 x 0.49 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 900 / 1800 - RM-873"
+                }
+            ],
+            "name": "Nokia 206"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774497-REVIEW",
+            "range": "1506574774497-MAIN"
+        }
+    ]
+}

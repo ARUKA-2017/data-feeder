@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774501-REVIEW",
+        "user_name": "",
+        "email": "ut@gmail.com",
+        "comment": "Runnih kujifab ofnohir cemewjor lirziw voilu hutgatam ibikal inecacoc voomu ejoulpal gu zo niladmu risbenes pig nip.",
+        "rating": 0.2973,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774501-MAIN",
+            "base_score": 0.2186,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~59.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Tizen 2.3"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Wine Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "112 g (3.95 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.71 W/kg (head)     0.67 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 1500 mAh battery"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.54 W/kg (head)     0.90 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "PLS TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Spreadtrum SC7727S"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "120.4 x 63.2 x 9.7 mm (4.74 x 2.49 x 0.38 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Z1"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774501-REVIEW",
+            "range": "1506574774501-MAIN"
+        }
+    ]
+}

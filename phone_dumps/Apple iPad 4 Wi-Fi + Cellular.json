@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774440-REVIEW",
+        "user_name": "",
+        "email": "pokraha@gmail.com",
+        "comment": "Uc sulgaon goutu saw miz defju uk ibnamok asihezoc laf rac damgo de bumup fus.",
+        "rating": 0.4833,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774440-MAIN",
+            "base_score": 0.8766,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~65.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 6, upgradable to iOS 10.3"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "662 g (1.46 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - A1459/ A1460"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~264 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX554MP4 (quad-core graphics)"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 720 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": " LTE 700 / 850 / 1800 / 1900 / 2100 - A1460"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - A1459/ A1460"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 / 2100 - A1460"
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO - A1460"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 500 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, reversible connector"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.4 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A6X"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64/128 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 4(1700/2100), 17(700) - A1459"
+                }
+            ],
+            "name": "Apple iPad 4 Wi-Fi + Cellular"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774440-REVIEW",
+            "range": "1506574774440-MAIN"
+        }
+    ]
+}

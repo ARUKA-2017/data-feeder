@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774485-REVIEW",
+        "user_name": "",
+        "email": "wijpoze@gmail.com",
+        "comment": "Wuti rivob fi pas zid gup ibwib konweefu wo lebezip vuzoge puppis temdij jerto malali ju lam tegfemu.",
+        "rating": -0.054,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774485-MAIN",
+            "base_score": 0.1249,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~64.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows 10"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP, f/2.8, 480p"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, f/2.4, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "141.9 (5.01 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/4\" sensor size, geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~315 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 304"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 672 h (2G) / Up to 672 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 16 h (2G) / Up to 14 h (3G)"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, October"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, December"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.1 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8909 Snapdragon 210"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2100 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "136.1 x 67.8 x 9.9 mm (5.36 x 2.67 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Microsoft Lumia 550"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774485-REVIEW",
+            "range": "1506574774485-MAIN"
+        }
+    ]
+}

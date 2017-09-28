@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774505-REVIEW",
+        "user_name": "",
+        "email": "av@gmail.com",
+        "comment": "Ogtiz kima peagi par ow ikuhe ki cujfici gevozjed oc ewote tal ugdak nu.",
+        "rating": 0.9658,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774505-MAIN",
+            "base_score": 0.2145,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.4 inches (~76.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dazzling White, Titanium Bronze"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "294 g (10.37 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, GLONASS, BDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.18 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1600 x 2560 pixels (~359 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T628 MP6"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 4900 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 11 h (multimedia)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.06 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, July"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL), USB Host"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, June"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7)"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Exynos 5420 Octa"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "212.8 x 125.6 x 6.6 mm (8.38 x 4.94 x 0.26 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Samsung Galaxy Tab S 8.4"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774505-REVIEW",
+            "range": "1506574774505-MAIN"
+        }
+    ]
+}

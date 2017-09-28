@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774500-REVIEW",
+        "user_name": "",
+        "email": "ho@gmail.com",
+        "comment": "Zuevipel wi muwi ejivizcup co temlu cuazo iskav odo gined zopiggu sakigdo safaja evu almupeb riri.",
+        "rating": 0.0596,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774500-MAIN",
+            "base_score": 0.4689,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~72.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "490 g (1.08 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Yes"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.83 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~132 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Mail, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 6000 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 14 h 30 min (multimedia) (2G) / Up to 40 h (3G)"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 28(700), 40(2300)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.47 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, July"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 340 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, July"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "242.5 x 166.8 x 7.5 mm (9.55 x 6.57 x 0.30 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, dual speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Tab A & S Pen"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774500-REVIEW",
+            "range": "1506574774500-MAIN"
+        }
+    ]
+}

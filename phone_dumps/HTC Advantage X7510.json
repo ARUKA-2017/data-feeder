@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774565-REVIEW",
+        "user_name": "",
+        "email": "asa@gmail.com",
+        "comment": "Fukvofu loorapet folmujvi majop fotfoub guve koruk kewzo to zu ro ruw ru vuudin zu wenveg apoz hihuv.",
+        "rating": 0.6808,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774565-MAIN",
+            "base_score": 0.2178,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~59.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 640 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "UMTS 850 / 1900 - American version"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.48 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, February. Released 2008, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML ( Opera 9)"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 2100 mAh battery"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "640 x 480 pixels (~160 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "375 g (13.23 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Marvell PXA270 624 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors (65K effective)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / UMTS / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 128 MB RAM, 256 MB ROM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "133 x 98 x 16 mm (5.24 x 3.86 x 0.63 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Mobile 6.0 Professional"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 1.8 Mbps"
+                }
+            ],
+            "name": "HTC Advantage X7510"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774565-REVIEW",
+            "range": "1506574774565-MAIN"
+        }
+    ]
+}

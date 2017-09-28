@@ -1,0 +1,210 @@
+{
+    "review_info": {
+        "id": "1506574774497-REVIEW",
+        "user_name": "",
+        "email": "ne@gmail.com",
+        "comment": "Mop do ce con ebboda ruper poshutkar ba kiimo zok la bupumes ogucujwo uwcam.",
+        "rating": -0.6948,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774497-MAIN",
+            "base_score": 0.9257,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~60.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8, upgradeable to 8.1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Cyan"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE/ aptX after WP8 Denim update"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, Carl Zeiss optics, autofocus, dual-LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "145 g (5.11 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.83 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.30 W/kg (head)     0.85 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 225"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h (2G) / Up to 360 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 10 h 20 min (2G) / Up to 10 h 10 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 2"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 1700 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1700 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 250 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz Krait"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8960 Snapdragon S4 Plus"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1800 mAh battery (BP-4W)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "127.8 x 68.4 x 10.9 mm, 95 cc (5.03 x 2.69 x 0.43 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                }
+            ],
+            "name": "Nokia Lumia 810"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774497-REVIEW",
+            "range": "1506574774497-MAIN"
+        }
+    ]
+}

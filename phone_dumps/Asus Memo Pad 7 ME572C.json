@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774457-REVIEW",
+        "user_name": "",
+        "email": "root@gmail.com",
+        "comment": "Nucgeef vo nudav dorzu zaf lewek zaolu romcuh ebfaev nehhagpet rewvobmid leboh.",
+        "rating": -0.1474,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774457-MAIN",
+            "base_score": 0.0088,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~62.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes, "
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 240 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1200 x 1920 pixels (~323 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "269 g (9.49 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.83 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6430"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3560"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n,  hotspot"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Burgundy Red, Champagne Gold,Gentle Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "200 x 114.4 x 8.3 mm (7.87 x 4.50 x 0.33 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Asus Memo Pad 7 ME572C"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774457-REVIEW",
+            "range": "1506574774457-MAIN"
+        }
+    ]
+}

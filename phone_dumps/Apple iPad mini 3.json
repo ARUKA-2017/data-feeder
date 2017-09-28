@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774439-REVIEW",
+        "user_name": "",
+        "email": "vekhoj@gmail.com",
+        "comment": "Birecfi rasbep zorhal lunu amon jiv osito pera ilica mojuul to ki afofep panbo.",
+        "rating": 0.8992,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774439-MAIN",
+            "base_score": 0.2788,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.9 inches (~71.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 8.1, upgradable to iOS 11"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Space Gray/Black, Silver/White, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, f/2.4, 32mm, autofocus, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "331 g (Wi-Fi) / 341 g (3G/LTE) (11.68 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, HDR photo"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~324 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6430 (quad-core graphics)"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po 6470 mAh battery (24.3 Wh)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 18(800), 19(800), 20(800), 38(2600), 39(1900), 40(2300) - A1601"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1700 / 1900 / 2100 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 400 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, reversible connector"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM/ Electronic SIM card (Apple e-SIM)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.3 GHz Cyclone (ARM v8-based)"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A7"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/64/128 GB, 1 GB RAM DDR3"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "200 x 134.7 x 7.5 mm (7.87 x 5.30 x 0.30 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850) - A1600"
+                }
+            ],
+            "name": "Apple iPad mini 3"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774439-REVIEW",
+            "range": "1506574774439-MAIN"
+        }
+    ]
+}

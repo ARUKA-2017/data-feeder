@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774533-REVIEW",
+        "user_name": "",
+        "email": "edga@gmail.com",
+        "comment": "Jufuje narnucfof up bofere go fun guco soglul dug owuebcug bobaz liltuvna di adru meccu ko hemaazo imne.",
+        "rating": -0.6376,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774533-MAIN",
+            "base_score": 0.9319,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~58.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "California Blue, Graphite Black, Flame Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "132.1 g (4.66 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~342 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.69 W/kg (head)     0.85 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP, 1080p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, November"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 2"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.5 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "S-LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 1800 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "132.4 x 66.2 x 10.1 mm (5.21 x 2.61 x 0.40 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 13(700)"
+                }
+            ],
+            "name": "HTC Windows Phone 8X CDMA"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774533-REVIEW",
+            "range": "1506574774533-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774487-REVIEW",
+        "user_name": "",
+        "email": "bazremmul@gmail.com",
+        "comment": "Imiliz bo cuwnocci tohacke ila dapzigat porin puj oc nikaeve nec me.",
+        "rating": -0.0438,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774487-MAIN",
+            "base_score": 0.5573,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "10.6 inches (~65.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows RT"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "3.5 MP, 1080p@30fps"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 330 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1920 x 1080 pixels (~208 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "675.9 g (1.49 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, October"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.7 GHz Cortex-A15"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "ULP GeForce (72 cores)"
+                },
+                {
+                    "key": "USB",
+                    "value": "USB 3.0, USB Host support"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Nvidia Tegra 4 T40"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32/64 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 5 fingers"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dark Titanium"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "274.6 x 172.5 x 8.9 mm (10.81 x 6.79 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Microsoft Surface 2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774487-REVIEW",
+            "range": "1506574774487-MAIN"
+        }
+    ]
+}

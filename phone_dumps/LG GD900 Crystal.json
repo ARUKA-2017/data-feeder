@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774724-REVIEW",
+        "user_name": "",
+        "email": "lirec@gmail.com",
+        "comment": "Ira pon uk pi tadef baso ku nartot kecsawusi zelubim li domtonas dosbi wiwmuhjot vohoroz bisamwah.",
+        "rating": 0.0577,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774724-MAIN",
+            "base_score": 0.8984,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~46.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "1.12 W/kg (head)     0.47 W/kg (body)     "
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 2100 "
+                },
+                {
+                    "key": "Weight",
+                    "value": "127 g (4.48 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~311 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, EMail, Instant Messaging"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, 2"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.60 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, April. Released 2009, July"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1.5 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "105 x 52.5 x 13.5 mm (4.13 x 2.07 x 0.53 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                }
+            ],
+            "name": "LG GD900 Crystal"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774724-REVIEW",
+            "range": "1506574774724-MAIN"
+        }
+    ]
+}

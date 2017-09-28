@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774413-REVIEW",
+        "user_name": "",
+        "email": "dov@gmail.com",
+        "comment": "Wiwofoha virup ecalu vo mo zog dev vugkioz rerebi si sonofcu umol zuw.",
+        "rating": 0.606,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774413-MAIN",
+            "base_score": 0.4078,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP or 8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EMEA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "-"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Li-Ion 2000 mAh battery (4G model)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 11 h (2G) / Up to 9 h (3G)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - LATAM"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~68.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat) / Android 5.0 (Lollipop) - 4G model"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Various"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, panorana. HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~196 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6570 (3G model)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP / VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, August"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.3 GHz Cortex-A7 (3G model)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141 x 71.5 x 10 mm (5.55 x 2.81 x 0.39 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600), 28(700) - LATAM"
+                }
+            ],
+            "name": "alcatel Pixi 3 (5)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774413-REVIEW",
+            "range": "1506574774413-MAIN"
+        }
+    ]
+}

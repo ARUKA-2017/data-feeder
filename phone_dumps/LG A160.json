@@ -1,0 +1,166 @@
+{
+    "review_info": {
+        "id": "1506574774632-REVIEW",
+        "user_name": "",
+        "email": "sopcek@gmail.com",
+        "comment": "Lumfo rat ejujva ru hocbug ro keowdi iliwipme na icusasla ni dili jehwis boz.",
+        "rating": 0.6025,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774632-MAIN",
+            "base_score": 0.6681,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 50 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~24.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio; built-in antenna"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.27 W/kg (head)     1.41 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 2 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "144 x 176 pixels (~114 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "81 g (2.86 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, January"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "110 x 47.5 x 14.1 mm (4.33 x 1.87 x 0.56 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG A160"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774632-REVIEW",
+            "range": "1506574774632-MAIN"
+        }
+    ]
+}

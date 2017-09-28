@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774508-REVIEW",
+        "user_name": "",
+        "email": "ba@gmail.com",
+        "comment": "Alaguwa hi zonbu ahvo mopovod idu ahaf limebume jak visogeli kor tefne rouwiki dovto uhtu nockezi so wibwaoh.",
+        "rating": -0.1329,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774508-MAIN",
+            "base_score": 0.4711,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~50.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "115 g (4.06 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.00 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 350 h (2G) / Up to 400 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 80 kbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 14 h 15 min (2G) / Up to 6 h 42 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, August. Released 2011, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - WT19i"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - WT19a"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1200 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "320 MB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 4 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106 x 56.5 x 14.2 mm (4.17 x 2.22 x 0.56 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Live with Walkman"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774508-REVIEW",
+            "range": "1506574774508-MAIN"
+        }
+    ]
+}

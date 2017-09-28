@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774539-REVIEW",
+        "user_name": "",
+        "email": "ogomifeh@gmail.com",
+        "comment": "Rik uzuobiak zen fa fesojotu cesu zonwalgu hun pug datvav fa ga ramvuhbo.",
+        "rating": 0.6445,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774539-MAIN",
+            "base_score": 0.0235,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, stereo sound rec."
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, dual-LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "148 g (5.22 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~256 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 220"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 400 h (2G) / Up to 350 h (3G)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.61 W/kg (head)     1.29 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, April. Released 2011, June 8th"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 114 kbps"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1700 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900  - For Bell (Canada)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 210 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "S-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8260 Snapdragon S3"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1520 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "126.1 x 65.4 x 11.3 mm (4.96 x 2.57 x 0.44 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                }
+            ],
+            "name": "HTC Sensation 4G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774539-REVIEW",
+            "range": "1506574774539-MAIN"
+        }
+    ]
+}

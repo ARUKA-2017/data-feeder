@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774472-REVIEW",
+        "user_name": "",
+        "email": "efti@gmail.com",
+        "comment": "Ehadibet kat vicluwros etelu bo vever jam nituda jidhu idzir zazser ge zuf jub ica ne ifu ja.",
+        "rating": 0.718,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774472-MAIN",
+            "base_score": 0.2308,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, dual-LED (dual tone) flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "160 g (5.64 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 310 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, August"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "5.2 inches (~73.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1.1 (Lollipop), planned upgrade to 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, LE"
+                },
+                {
+                    "key": "Features",
+                    "value": "Rotating lens, geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS/ BDS (market dependant)"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~424 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 616"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, August"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM - ATH-AL00 model"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "141.6 x 71.2 x 7.8 mm (5.57 x 2.80 x 0.31 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Huawei Honor 7i"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774472-REVIEW",
+            "range": "1506574774472-MAIN"
+        }
+    ]
+}

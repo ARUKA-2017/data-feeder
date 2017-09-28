@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774497-REVIEW",
+        "user_name": "",
+        "email": "bupdispeg@gmail.com",
+        "comment": "Bun def paw oti likelbe hewcizhu lew cav oti afa diube adohekek jipugvi.",
+        "rating": 0.3606,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774497-MAIN",
+            "base_score": 0.3392,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.8 inches (~20.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 40 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.30 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 7 h 40 min"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 800 mAh battery (BL-5CB)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Cyan"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~114 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "77 g (2.72 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, December"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, November"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB ROM, 16 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 790 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "110 x 46 x 14.8 mm, 63 cc (4.33 x 1.81 x 0.58 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1900 "
+                }
+            ],
+            "name": "Nokia 109"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774497-REVIEW",
+            "range": "1506574774497-MAIN"
+        }
+    ]
+}

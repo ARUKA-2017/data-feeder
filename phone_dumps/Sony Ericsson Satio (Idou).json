@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774512-REVIEW",
+        "user_name": "",
+        "email": "fo@gmail.com",
+        "comment": "Limu cuas genos mozuwhi do ejebzu wimu fitowka uzpuh hisa icu fabgedvom lopfeb pozjiw uz hos zomru wodasdoh.",
+        "rating": 0.8704,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774512-MAIN",
+            "base_score": 0.2787,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~54.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian 9.4, Series 60 rel. 5"
+                },
+                {
+                    "key": "Video",
+                    "value": "w480p@30fps (via SW update)"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Silver, Bordeaux"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "12 MP, autofocus, xenon flash, video LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "126 g (4.44 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3, AAC ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.58 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 640 pixels (~210 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view),  MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 360 h (2G) / Up to 340 h (3G)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/HTML, RSS reader"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, February. Released 2009, October"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - Satio(a) for the Americas"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz Cortex-A8"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "128 MB; 256 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112 x 55 x 13 mm (4.41 x 2.17 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/3.6 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Satio (Idou)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774512-REVIEW",
+            "range": "1506574774512-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774527-REVIEW",
+        "user_name": "",
+        "email": "tuoleha@gmail.com",
+        "comment": "Kojnumreh oktiz tusep igmuvu pe hipwif ki go al ka pakisaj zafuono umebed.",
+        "rating": -0.577,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774527-MAIN",
+            "base_score": 0.1866,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~52.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@25fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, f/2.7, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120.6 g (4.23 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - S6810"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.83 W/kg (head)     0.35 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.46 W/kg (head)     0.94 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 420 h (2G) / Up to 380 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes (S6810P model only)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, February"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - S6812"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Broadcom VideoCore IV"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1300 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113.2 x 61.6 x 11.6 mm (4.46 x 2.43 x 0.46 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                }
+            ],
+            "name": "Samsung Galaxy Fame S6810"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774527-REVIEW",
+            "range": "1506574774527-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774469-REVIEW",
+        "user_name": "",
+        "email": "wev@gmail.com",
+        "comment": "We moegeme puribu lis fi dujrozba codda fi enveczi mehkid ala ofla lumona mebwu sal cuip.",
+        "rating": -0.726,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774469-MAIN",
+            "base_score": 0.6074,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~69.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop), planned upgrade to 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "Video",
+                    "value": "2160p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Meteor Gray, Classic Rose Gold, Gold Sepia"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "20 MP, f/2.2, 28mm, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "150 g (5.29 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1440 x 2560 pixels (~534 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 590 h (2G) / Up to 617 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "13 MP, f/2.0, 27mm, 1080p@30fps"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 4"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 320 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 2.0 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "Capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6795M Helio X10"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 2800 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "156.5 x 76.5 x 7.5 mm (6.16 x 3.01 x 0.30 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC One E9+"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774469-REVIEW",
+            "range": "1506574774469-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774494-REVIEW",
+        "user_name": "",
+        "email": "osgof@gmail.com",
+        "comment": "Icet hujkibcol ijopo liceze ge gaksam muvepa racer sojuuw onumati regussi uwar din iwnaag ora zaiziaz.",
+        "rating": -0.5549,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774494-MAIN",
+            "base_score": 0.2235,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~59.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8, upgradeable to 8.1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Yellow, Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE/ aptX after WP8 Denim update"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "124 g (4.37 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/4\" sensor size, geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - RM-998"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.72 W/kg (head)     0.79 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 336 h (2G) / Up to 336 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 17 h (2G) / Up to 10 h 40 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM Radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, November"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - RM-998"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, January"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8227"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1430 mAh battery (BL-5J)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "119.9 x 64 x 9.9 mm, 75.7 cc (4.72 x 2.52 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class B"
+                }
+            ],
+            "name": "Nokia Lumia 525"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774494-REVIEW",
+            "range": "1506574774494-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774618-REVIEW",
+        "user_name": "",
+        "email": "ro@gmail.com",
+        "comment": "Kiefta voeka morib donorver risefo jawak homizik tikolu wijsepi orzi us fa ute ba uripun bo umdimpif.",
+        "rating": 0.0888,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774618-MAIN",
+            "base_score": 0.089,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 - SIM 1 only"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~24.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.55 W/kg (head)     1.29 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, July"
+                },
+                {
+                    "key": "Video",
+                    "value": "QCIF"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD, up to 32 GB"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~128 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "91.5 g (3.21 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, Q3"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM)"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "59 MB, 128 MB RAM, 256 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 328 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116 x 53.3 x 12.9 mm (4.57 x 2.10 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 3.6/0.384 Mbps"
+                }
+            ],
+            "name": "LG A350"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774618-REVIEW",
+            "range": "1506574774618-MAIN"
+        }
+    ]
+}

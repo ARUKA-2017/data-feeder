@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774522-REVIEW",
+        "user_name": "",
+        "email": "pacgek@gmail.com",
+        "comment": "Ulzehrow ujzadji soset ojke tu ujvig rabotfeg ohiwad pihpa li bazgisoci hewdiw dupow.",
+        "rating": 0.8087,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774522-MAIN",
+            "base_score": 0.411,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~61.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@24fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 64 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "130 g (4.59 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/3.2\" sensor size, 1.4µm pixel size, geo-tagging, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.30 W/kg (head)     0.48 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 203"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 539 h (2G) / Up to 577 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes (Market dependent)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.6 MP"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, May"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 290 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, June"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by, dual active)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A5"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8625Q Snapdragon 200"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1860 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "134.8 x 67 x 9.3 mm (5.31 x 2.64 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire 600 dual sim"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774522-REVIEW",
+            "range": "1506574774522-MAIN"
+        }
+    ]
+}

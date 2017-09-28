@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774436-REVIEW",
+        "user_name": "",
+        "email": "do@gmail.com",
+        "comment": "Dopu me bu tapnor kabcedfa hecafole jumbakpi fiwoh ekluih vazzeces atewimmu mo etogohiz dicuer mez gu ef.",
+        "rating": -0.44,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774436-MAIN",
+            "base_score": 0.8702,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.5 inches (~18.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio (Optional)"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 720 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver black"
+                },
+                {
+                    "key": "Call records",
+                    "value": "20 dialed, 20 received, 20 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~121 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "62 g (2.19 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, 2Q"
+                },
+                {
+                    "key": "Type",
+                    "value": "CSTN, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "5 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "300 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 100 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "91.9 x 41.8 x 14.9 mm (3.62 x 1.65 x 0.59 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Amoi A310"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774436-REVIEW",
+            "range": "1506574774436-MAIN"
+        }
+    ]
+}

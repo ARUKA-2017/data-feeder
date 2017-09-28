@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774357-REVIEW",
+        "user_name": "",
+        "email": "wage@gmail.com",
+        "comment": "Taureko iki zej emimuijo jujel vulsi jekno alo le ibume vuhob je.",
+        "rating": -0.8182,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774357-MAIN",
+            "base_score": 0.6658,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.36 inches (~25.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian OS 9.2, Series 60 v3.1 UI"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Keyboard",
+                    "value": "QWERTY"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Ultramarine Blue, Ruby Red, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / UMTS"
+                },
+                {
+                    "key": "Weight",
+                    "value": "126 g (4.44 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.03 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 240 pixels (~169 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 432 h (2G) / 480 h (3G)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 11 h (2G) / 4 h 40 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.06 W/kg (head)     0.62 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, November. Released 2008, December"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32, 100 kbps"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1500 mAh battery (BP-4L)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "UMTS 850 / 1900 - American version"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "ARM 11 369 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "UMTS 900 / 2100 "
+                },
+                {
+                    "key": "Internal",
+                    "value": "120 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113 x 59 x 13 mm, 87 cc (4.45 x 2.32 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Nokia E63"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774357-REVIEW",
+            "range": "1506574774357-MAIN"
+        }
+    ]
+}

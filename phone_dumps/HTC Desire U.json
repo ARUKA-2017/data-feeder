@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774531-REVIEW",
+        "user_name": "",
+        "email": "kaserju@gmail.com",
+        "comment": "Pamu lihfe cirhabrig supub allo mehuzfus ib ama togpe fih gip vufwapagi soma hep giz dirozfum josivnih.",
+        "rating": -0.5175,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774531-MAIN",
+            "base_score": 0.8132,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~61.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, January"
+                },
+                {
+                    "key": "Video",
+                    "value": "w480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "114 g (4.02 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, June"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.31 W/kg (head)     0.96 W/kg (body)     "
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Orange"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "118.5 x 62.3 x 9.3 mm (4.67 x 2.45 x 0.37 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Optional"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.0 (Ice Cream Sandwich)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "HTC Desire U"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774531-REVIEW",
+            "range": "1506574774531-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774523-REVIEW",
+        "user_name": "",
+        "email": "damres@gmail.com",
+        "comment": "Iwbis papecir japfi ja wos efdaniw dipnuj ami pimtumut amute gi son gujna zawega.",
+        "rating": -0.9021,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774523-MAIN",
+            "base_score": 0.068,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~70.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot) - single-SIM model"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Pink"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, f/2.0, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / EVDO"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, HDR, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - international version"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.64 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~312 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Vivante GC4000"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 416 h (2G) / Up to 315 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 21.1/5.76 Mbps, EV-DO Rev. A 3.1 Mbps (version for China)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, 720p"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass, temperature"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, June"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 900 / 1800 / 1900  - SIM 1 - for China"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - international version"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, June"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.5 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS+ LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Huawei K3V2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 2000 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8/16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "132.7 x 65.5 x 6.2 mm (5.22 x 2.58 x 0.24 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "CDMA2000 1xEV-DO - for China"
+                }
+            ],
+            "name": "Huawei Ascend P6"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774523-REVIEW",
+            "range": "1506574774523-MAIN"
+        }
+    ]
+}

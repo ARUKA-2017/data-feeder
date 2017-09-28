@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774360-REVIEW",
+        "user_name": "",
+        "email": "cahnugug@gmail.com",
+        "comment": "Gimvowjuz kaossol ki vohoni jo busza cu pa mokura mul zufubur ekoce.",
+        "rating": -0.1114,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774360-MAIN",
+            "base_score": 0.8053,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~72.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android, 5.1.1 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Gold, Gray, Blue, Pink"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.2, autofocus, dual-LED (dual tone) flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "162g (5.71 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~403 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR G6200"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, f/2.0, 1080p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " TD-SCDMA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Dinorex T2X-1 scratch/shock resistant glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 170 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core 2.0 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "LTPS IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6795 Helio X10"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "150.7 x 75.3 x 8.2 mm (5.93 x 2.96 x 0.32 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                }
+            ],
+            "name": "Meizu M1 Metal"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774360-REVIEW",
+            "range": "1506574774360-MAIN"
+        }
+    ]
+}

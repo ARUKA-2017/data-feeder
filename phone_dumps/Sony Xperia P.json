@@ -1,0 +1,206 @@
+{
+    "review_info": {
+        "id": "1506574774528-REVIEW",
+        "user_name": "",
+        "email": "fufezrat@gmail.com",
+        "comment": "Ki it ugu lun imu piskow ugoig aptun rocni tu gubu vol neh.",
+        "rating": -0.1157,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774529-MAIN",
+            "base_score": 0.3378,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~60.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 2.3 (Gingerbread), upgradable to 4.1 (Jelly Bean)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Silver, Black, Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "120 g (4.23 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.78 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~275 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.18 W/kg (head)     0.84 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 470 h (2G) / Up to 475 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 296 kbps"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 6 h (2G) / Up to 5 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, February"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - LT22i"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 210 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, May"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0, USB Host"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "NovaThor U8500"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 1305 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB (13 GB user available), 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 4 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "122 x 59.5 x 10.5 mm (4.80 x 2.34 x 0.41 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 100 kbps"
+                }
+            ],
+            "name": "Sony Xperia P"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774528-REVIEW",
+            "range": "1506574774529-MAIN"
+        }
+    ]
+}

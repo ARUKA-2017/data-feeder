@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774404-REVIEW",
+        "user_name": "",
+        "email": "biodecep@gmail.com",
+        "comment": "Dorgow lioj repzibi okelu lohi tirnaz uwaoten waz ihevegsef tozu pojmitpe zokogbu huparinaf hiakoino mujasol oc vapoki.",
+        "rating": -0.4061,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774404-MAIN",
+            "base_score": 0.4671,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.9 inches (~68.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~162 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "380 g (13.40 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, March"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, January"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.6 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX544MP2"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z2560"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 4000 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "203 x 138.4 x 8.2 mm (7.99 x 5.45 x 0.32 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Acer Iconia A1-830"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774404-REVIEW",
+            "range": "1506574774404-MAIN"
+        }
+    ]
+}

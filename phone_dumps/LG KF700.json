@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774768-REVIEW",
+        "user_name": "",
+        "email": "la@gmail.com",
+        "comment": "Wamo ja awe eniha oznocpo cuco lur lawan tegi evjoj saw fesrevi lipnisu zi colife pod.",
+        "rating": 0.2578,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774768-MAIN",
+            "base_score": 0.0036,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "Videocall camera"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 130 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~44.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 900 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.50 W/kg (head)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2008, February. Released 2008, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 4 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "1.2, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - Brazilian version"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "40 dialed, 40 received, 40 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 480 pixels (~179 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "107 g (3.77 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.21 W/kg (head)     0.27 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "90 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 contacts, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 340 h (2G) / Up to 280 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 7.2/0.384 Mbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102 x 51 x 14.5 mm (4.02 x 2.01 x 0.57 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 2100 - American version"
+                }
+            ],
+            "name": "LG KF700"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774768-REVIEW",
+            "range": "1506574774768-MAIN"
+        }
+    ]
+}

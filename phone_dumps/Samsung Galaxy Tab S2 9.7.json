@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774499-REVIEW",
+        "user_name": "",
+        "email": "hehe@gmail.com",
+        "comment": "Namoz ew luhko rew ifivumem ku enabava livgizuf regco ruto haguju zazek haog mampi tasanvu zoginjus hez.",
+        "rating": 0.2439,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774499-MAIN",
+            "base_score": 0.9539,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~72.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0.2 (Lollipop), upgradable to 6.0.1 (Marshmallow) - T810, T815"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "Video",
+                    "value": "1440p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, black, gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "389g (Wi-Fi) / 392g (LTE) (10.51 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.86 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~264 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T760 MP6 - T810, T815"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Ion 5870 mAh battery"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 12 h (multimedia) (2G) / Up to 30 h (3G)"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (front-mounted), accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, July"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 520 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.9 GHz & 4x1.3 GHz) - T810, T815"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Exynos 5433 - T810, T815"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32/64 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "237.3 x 169 x 5.6 mm (9.34 x 6.65 x 0.22 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Galaxy Tab S2 9.7"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774499-REVIEW",
+            "range": "1506574774499-MAIN"
+        }
+    ]
+}

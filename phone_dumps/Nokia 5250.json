@@ -1,0 +1,170 @@
+{
+    "review_info": {
+        "id": "1506574774357-REVIEW",
+        "user_name": "",
+        "email": "wefmi@gmail.com",
+        "comment": "Sirwu tizwak asfij vokok ku navafowog be edavinon ref uhpijcu has jedi cerca secgan.",
+        "rating": 0.1047,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774357-MAIN",
+            "base_score": 0.1862,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian, S60 rel. 5"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~42.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.06 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 7 h 40 min"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML, Adobe Flash Lite"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 640 pixels (~262 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "107g (3.77 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, August. Released 2010, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "434 MHz ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Push Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.04 W/kg (head)     0.79 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "51 MB"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 450 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dark Grey, Blue, Red, Purple, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "104 x 49 x 14 mm, 69 cc (4.09 x 1.93 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 32"
+                }
+            ],
+            "name": "Nokia 5250"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774357-REVIEW",
+            "range": "1506574774357-MAIN"
+        }
+    ]
+}

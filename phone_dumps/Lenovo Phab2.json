@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774330-REVIEW",
+        "user_name": "",
+        "email": "bigfa@gmail.com",
+        "comment": "Na nugogrid egjurnif eni takupos lumfikpe utu le zaogloz jewbitig doonigi rabup zehrechi ta.",
+        "rating": -0.5697,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774331-MAIN",
+            "base_score": 0.9963,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "6.4 inches (~72.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300), 41(2500) - EMEA"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2016, June"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.0, phase detection autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~229 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "225 g (7.94 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2016, June"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.3 GHz Cortex-A53"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T720MP2"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT8735"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Gunmetal Grey, Champagne Gold"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256GB (uses SIM2 slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "175 x 89.5 x 9.6 mm (6.89 x 3.52 x 0.38 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 13(700), 17(700) - USA"
+                }
+            ],
+            "name": "Lenovo Phab2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774330-REVIEW",
+            "range": "1506574774331-MAIN"
+        }
+    ]
+}

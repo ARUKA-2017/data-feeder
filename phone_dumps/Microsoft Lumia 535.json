@@ -1,0 +1,206 @@
+{
+    "review_info": {
+        "id": "1506574774487-REVIEW",
+        "user_name": "",
+        "email": "suk@gmail.com",
+        "comment": "Opuije ad evvebce wuusu majug bavtifuw uwdamumu mapnutuw cemuvit zuka ewoetomaw atanap mad hofkevut kojona fomome.",
+        "rating": 0.9182,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774487-MAIN",
+            "base_score": 0.8475,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~67.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 8.1, upgradable to Microsoft Windows 10"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Orange, green, white, black, gray, blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, f/2.4, 28mm, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "146 g (5.15 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/4\" sensor size, geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.62 W/kg (head)     0.57 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~220 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.46 W/kg (head)     0.38 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 302"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 552 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 11 h (2G) / Up to 13 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, November"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, December"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 200"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1905 mAh battery (BL-L4A)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "140.2 x 72.4 x 8.8 mm (5.52 x 2.85 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Microsoft Lumia 535"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774487-REVIEW",
+            "range": "1506574774487-MAIN"
+        }
+    ]
+}

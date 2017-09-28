@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774500-REVIEW",
+        "user_name": "",
+        "email": "kuzrub@gmail.com",
+        "comment": "Oto bopnoki foc wawodte waf bakazdat dod ka valahu veze ku lalmid lukuj.",
+        "rating": -0.5248,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774500-MAIN",
+            "base_score": 0.9592,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~24.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 110 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.78 W/kg (head)     0.44 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, July"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "124 g (4.37 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, July"
+                },
+                {
+                    "key": "GPS",
+                    "value": "To be confirmed"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 460 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.56 W/kg (head)     1.06 W/kg (body)     "
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Spreadtrum SC7703"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Games",
+                    "value": "Downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB, 128 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Steel Grey, Dark Silver"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "129 x 56.2 x 14 mm (5.08 x 2.21 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung Xcover 550"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774500-REVIEW",
+            "range": "1506574774500-MAIN"
+        }
+    ]
+}

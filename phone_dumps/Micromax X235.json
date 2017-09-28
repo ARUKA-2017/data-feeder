@@ -1,0 +1,585 @@
+{
+    "review_info": {
+        "id": "1506574774397-REVIEW",
+        "user_name": "",
+        "email": "ellefek@gmail.com",
+        "comment": "Din zoscircu ize lugsem asku lijojap lehew pi rabeko evpo zen ov.",
+        "rating": 0.8761,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774397-MAIN",
+            "base_score": 0.459,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~24.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM)"
+                },
+                {
+                    "key": "Video",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 4 GB (dedicated slot)"
+                },
+                {
+                    "key": "Java",
+                    "value": "- Remote Control for TV/DVD/AC"
+                },
+                {
+                    "key": "Browser",
+                    "value": "Downloadable"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1050 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "176 x 220 pixels (~141 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "85 g (3.00 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, Polyphonic"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, March. Released 2010, March"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 240 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "111.5 x 47 x 13.8 mm (4.39 x 1.85 x 0.54 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 900 / 1800 - SIM 2"
+                }
+            ],
+            "name": "Micromax X235"
+        },
+        {
+            "id": "1001541810020067SECONDARY-COMP",
+            "name": "X1-01",
+            "base_score": 0.3836,
+            "property": []
+        },
+        {
+            "id": "101513344810654-PRIMARY-F-B",
+            "name": "Thinner",
+            "base_score": 0.8096,
+            "property": []
+        },
+        {
+            "id": "1001587103590028-SECONDARY-F-B",
+            "name": "Thinner",
+            "base_score": 0.7143,
+            "property": []
+        },
+        {
+            "id": "1001521013253562-PRIMARY-F-B",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.8201,
+            "property": []
+        },
+        {
+            "id": "1001551609250352-SECONDARY-F-B",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.961,
+            "property": []
+        },
+        {
+            "id": "1001561218263170-PRIMARY-F-B",
+            "name": "Slightly smaller",
+            "base_score": 0.6275,
+            "property": []
+        },
+        {
+            "id": "1001606319847106-SECONDARY-F-B",
+            "name": "Slightly smaller",
+            "base_score": 0.9001,
+            "property": []
+        },
+        {
+            "id": "1001524817881414-PRIMARY-F-W",
+            "name": "Much more standby time",
+            "base_score": 0.7674,
+            "property": []
+        },
+        {
+            "id": "1001599881290210-SECONDARY-F-W",
+            "name": "Much more standby time",
+            "base_score": 0.8777,
+            "property": []
+        },
+        {
+            "id": "101515664221516-PRIMARY-F-W",
+            "name": "More talk time",
+            "base_score": 0.8502,
+            "property": []
+        },
+        {
+            "id": "1001604357932400-SECONDARY-F-W",
+            "name": "More talk time",
+            "base_score": 0.7646,
+            "property": []
+        },
+        {
+            "id": "1001593373760286SECONDARY-COMP",
+            "name": "Nokia X1-01",
+            "base_score": 0.6449,
+            "property": []
+        },
+        {
+            "id": "1001568869308483-PRIMARY-F-B",
+            "name": "Thinner",
+            "base_score": 0.8653,
+            "property": []
+        },
+        {
+            "id": "101514575845802-SECONDARY-F-B",
+            "name": "Thinner",
+            "base_score": 0.5539,
+            "property": []
+        },
+        {
+            "id": "1001530599653286-PRIMARY-F-B",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.9891,
+            "property": []
+        },
+        {
+            "id": "1001523553064077-SECONDARY-F-B",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.6485,
+            "property": []
+        },
+        {
+            "id": "101510741707899-PRIMARY-F-B",
+            "name": "Slightly smaller",
+            "base_score": 0.9917,
+            "property": []
+        },
+        {
+            "id": "1001519323414851-SECONDARY-F-B",
+            "name": "Slightly smaller",
+            "base_score": 0.7492,
+            "property": []
+        },
+        {
+            "id": "1001520245263756-PRIMARY-F-W",
+            "name": "Much more standby time",
+            "base_score": 0.9374,
+            "property": []
+        },
+        {
+            "id": "1001555211527932-SECONDARY-F-W",
+            "name": "Much more standby time",
+            "base_score": 0.9659,
+            "property": []
+        },
+        {
+            "id": "1001541017698690-PRIMARY-F-W",
+            "name": "More talk time",
+            "base_score": 0.6879,
+            "property": []
+        },
+        {
+            "id": "1001606019344678-SECONDARY-F-W",
+            "name": "More talk time",
+            "base_score": 0.5262,
+            "property": []
+        },
+        {
+            "id": "1001571653980487SECONDARY-COMP",
+            "name": "Micromax X235",
+            "base_score": 0.9373,
+            "property": []
+        },
+        {
+            "id": "1001569677246459-PRIMARY-F-B",
+            "name": "Much more standby time",
+            "base_score": 0.5023,
+            "property": []
+        },
+        {
+            "id": "11506965396557-SECONDARY-F-B",
+            "name": "Much more standby time",
+            "base_score": 0.9609,
+            "property": []
+        },
+        {
+            "id": "1001532805311195-PRIMARY-F-B",
+            "name": "More talk time",
+            "base_score": 0.6496,
+            "property": []
+        },
+        {
+            "id": "1001602197721954-SECONDARY-F-B",
+            "name": "More talk time",
+            "base_score": 0.8161,
+            "property": []
+        },
+        {
+            "id": "1001545055709271-PRIMARY-F-W",
+            "name": "Thinner",
+            "base_score": 0.8762,
+            "property": []
+        },
+        {
+            "id": "1001540147187402-SECONDARY-F-W",
+            "name": "Thinner",
+            "base_score": 0.7436,
+            "property": []
+        },
+        {
+            "id": "1001566157162194-PRIMARY-F-W",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.8647,
+            "property": []
+        },
+        {
+            "id": "1001539244148977-SECONDARY-F-W",
+            "name": "Slightly higher PPI screen",
+            "base_score": 0.5915,
+            "property": []
+        },
+        {
+            "id": "1001516889209653-PRIMARY-F-W",
+            "name": "Slightly smaller",
+            "base_score": 0.9267,
+            "property": []
+        },
+        {
+            "id": "1001559921070448-SECONDARY-F-W",
+            "name": "Slightly smaller",
+            "base_score": 0.8685,
+            "property": []
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774397-REVIEW",
+            "range": "1506574774397-MAIN"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "101513344810654-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001541810020067SECONDARY-COMP",
+            "range": "1001587103590028-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "101513344810654-PRIMARY-F-B",
+            "range": "1001587103590028-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001521013253562-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001541810020067SECONDARY-COMP",
+            "range": "1001551609250352-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001521013253562-PRIMARY-F-B",
+            "range": "1001551609250352-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001561218263170-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001541810020067SECONDARY-COMP",
+            "range": "1001606319847106-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001561218263170-PRIMARY-F-B",
+            "range": "1001606319847106-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001524817881414-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001541810020067SECONDARY-COMP",
+            "range": "1001599881290210-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001599881290210-SECONDARY-F-W",
+            "range": "1001524817881414-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "101515664221516-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001541810020067SECONDARY-COMP",
+            "range": "1001604357932400-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001604357932400-SECONDARY-F-W",
+            "range": "101515664221516-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001568869308483-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001593373760286SECONDARY-COMP",
+            "range": "101514575845802-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001568869308483-PRIMARY-F-B",
+            "range": "101514575845802-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001530599653286-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001593373760286SECONDARY-COMP",
+            "range": "1001523553064077-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001530599653286-PRIMARY-F-B",
+            "range": "1001523553064077-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "101510741707899-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001593373760286SECONDARY-COMP",
+            "range": "1001519323414851-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "101510741707899-PRIMARY-F-B",
+            "range": "1001519323414851-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001520245263756-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001593373760286SECONDARY-COMP",
+            "range": "1001555211527932-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001555211527932-SECONDARY-F-W",
+            "range": "1001520245263756-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001541017698690-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001593373760286SECONDARY-COMP",
+            "range": "1001606019344678-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001606019344678-SECONDARY-F-W",
+            "range": "1001541017698690-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001569677246459-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001571653980487SECONDARY-COMP",
+            "range": "11506965396557-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001569677246459-PRIMARY-F-B",
+            "range": "11506965396557-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001532805311195-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001571653980487SECONDARY-COMP",
+            "range": "1001602197721954-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001532805311195-PRIMARY-F-B",
+            "range": "1001602197721954-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001545055709271-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001571653980487SECONDARY-COMP",
+            "range": "1001540147187402-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001540147187402-SECONDARY-F-W",
+            "range": "1001545055709271-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001566157162194-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001571653980487SECONDARY-COMP",
+            "range": "1001539244148977-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001539244148977-SECONDARY-F-W",
+            "range": "1001566157162194-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774397-MAIN",
+            "range": "1001516889209653-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001571653980487SECONDARY-COMP",
+            "range": "1001559921070448-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001559921070448-SECONDARY-F-W",
+            "range": "1001516889209653-PRIMARY-F-W"
+        }
+    ]
+}

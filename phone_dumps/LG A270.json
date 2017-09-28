@@ -1,0 +1,154 @@
+{
+    "review_info": {
+        "id": "1506574774620-REVIEW",
+        "user_name": "",
+        "email": "aj@gmail.com",
+        "comment": "Ene zunuavu lozofo viunpu envaptil ci sewo ag cop ajesa omiro culnaj gottukgow lultut jahugbo.",
+        "rating": -0.9217,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774620-MAIN",
+            "base_score": 0.6775,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.45 inches (~14.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.28 W/kg (head)     0.42 W/kg (body)     "
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.49 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "miniSD, up to 2 GB"
+                },
+                {
+                    "key": "Java",
+                    "value": "- MP3 player"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~125 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "65.8 g (2.29 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107.2 x 44.9 x 14.6 mm (4.22 x 1.77 x 0.57 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG A270"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774620-REVIEW",
+            "range": "1506574774620-MAIN"
+        }
+    ]
+}

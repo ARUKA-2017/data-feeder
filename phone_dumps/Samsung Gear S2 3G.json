@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774498-REVIEW",
+        "user_name": "",
+        "email": "pud@gmail.com",
+        "comment": "Uwfez je owi rih sahonvaj mibwa ujedalo heniw zowjanbi batuito gona tide ub ogopes maos.",
+        "rating": 0.499,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774498-MAIN",
+            "base_score": 0.3349,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.2 inches (~40.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, heart rate, barometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 300 mAh battery"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.05 W/kg (head)     0.30 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, August"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "GSM 850 / 1900 "
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dark Gray, Silver"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 360 pixels (~302 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "51 g (1.80 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Electronic SIM card (e-SIM)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8x26"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Build",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "51.8 x 44 x 13.4 mm (2.04 x 1.73 x 0.53 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Tizen-based wearable platform"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 "
+                }
+            ],
+            "name": "Samsung Gear S2 3G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774498-REVIEW",
+            "range": "1506574774498-MAIN"
+        }
+    ]
+}

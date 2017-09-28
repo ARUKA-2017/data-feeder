@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774584-REVIEW",
+        "user_name": "",
+        "email": "winziho@gmail.com",
+        "comment": "Bu ajahi fo sepiw onser kog gatuwol burcotih evugogoja dahi ru ole we ehireb.",
+        "rating": 0.4704,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774584-MAIN",
+            "base_score": 0.9591,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "122.5 g (4.30 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 744 h (2G) / Up to 744 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1540 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 150 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~63.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Firefox OS 1.1"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~144 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM7227A Snapdragon S1"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " HSDPA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, October"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Cortex-A5"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Internal",
+                    "value": "2 GB"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "113.8 x 66.5 x 9 mm (4.48 x 2.62 x 0.35 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG Fireweb"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774584-REVIEW",
+            "range": "1506574774584-MAIN"
+        }
+    ]
+}

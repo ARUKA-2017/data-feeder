@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774511-REVIEW",
+        "user_name": "",
+        "email": "bipabtah@gmail.com",
+        "comment": "Pouf wiscoz sutoc ze ba zaf zor bacimwuz rodifzuf ufude fuce gusropem cil capkegpa.",
+        "rating": 0.0025,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774511-MAIN",
+            "base_score": 0.0899,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~58.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 1.6 (Donut), upgradable to 2.3 (Gingerbread)"
+                },
+                {
+                    "key": "Video",
+                    "value": "w480p@30fps, 720p@30fps (via SW update), "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Sensous Black, Luster White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "135 g (4.76 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.25 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~245 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.87 W/kg (head)     0.81 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 200"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 415 h (2G) / Up to 425 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML, Adobe Flash"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, November. Released 2010, March"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1700 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100  / 800 - X10a for Americas"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 120 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm QSD8250 Snapdragon S1"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1500 mAh battery (BST-41)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 GB, 384 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "119 x 63 x 13 mm (4.69 x 2.48 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Xperia X10"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774511-REVIEW",
+            "range": "1506574774511-MAIN"
+        }
+    ]
+}

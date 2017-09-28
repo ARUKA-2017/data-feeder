@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774526-REVIEW",
+        "user_name": "",
+        "email": "zev@gmail.com",
+        "comment": "Hu gek zogeweb go ukirar huhuz du ombih idiafje wes gukwatcep wowefupu.",
+        "rating": 0.4272,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774526-MAIN",
+            "base_score": 0.8504,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.7 inches (~54.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 7.5 Mango, upgradable to 7.8"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Cyan, Magenta, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, Carl Zeiss optics, autofocus, dual-LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "142 g (5.01 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.94 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~252 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.27 W/kg (head)     1.08 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 265 h (2G) / Up to 335 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 13 h (2G) / Up to 9 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML5, RSS feeds"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - RM-819"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 900 / 1900 / 2100 - RM-801 CV"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.4 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8255 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 1450 mAh battery (BV-5JW)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "116.5 x 61.2 x 12.1 mm, 76.1 cc (4.59 x 2.41 x 0.48 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 / 2100 - for Canada"
+                }
+            ],
+            "name": "Nokia Lumia 800"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774526-REVIEW",
+            "range": "1506574774526-MAIN"
+        }
+    ]
+}

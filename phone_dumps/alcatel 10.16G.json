@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774351-REVIEW",
+        "user_name": "",
+        "email": "ec@gmail.com",
+        "comment": "Zejozam onipufusa gufna nahi imi awool wa ta sojal useefovab ig iv nopi.",
+        "rating": -0.4817,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774351-MAIN",
+            "base_score": 0.9643,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.8 inches"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 400 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "-"
+                },
+                {
+                    "key": "Weight",
+                    "value": "63 g (2.22 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "No"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 160 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108.5 x 45 x 12.6 mm (4.27 x 1.77 x 0.50 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel 10.16G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774351-REVIEW",
+            "range": "1506574774351-MAIN"
+        }
+    ]
+}

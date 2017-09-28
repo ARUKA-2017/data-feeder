@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774518-REVIEW",
+        "user_name": "",
+        "email": "kidtu@gmail.com",
+        "comment": "Vagizbal vin zewcujahe veno wen kofijine amcogwe iz dojmedje bunpeco himude obi bazbipaw minasu.",
+        "rating": 0.4449,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774518-MAIN",
+            "base_score": 0.7329,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.5 inches (~72.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black, Gold"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.0, 28mm, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "158 g (5.57 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~401 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 405"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP, f/2.4, 22mm"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, October"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 180 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.2 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8939v2 Snapdragon 616"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM - GR5W H1621, KIW-CL00, KIW-TL00, KIW-TL00H, KII-L21, KII-L22, KII-L23"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "151.3 x 76.3 x 8.2 mm (5.96 x 3.00 x 0.32 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 / 2100 - Canada"
+                }
+            ],
+            "name": "Huawei Honor 5X"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774518-REVIEW",
+            "range": "1506574774518-MAIN"
+        }
+    ]
+}

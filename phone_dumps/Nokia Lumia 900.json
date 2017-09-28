@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774525-REVIEW",
+        "user_name": "",
+        "email": "dijovazon@gmail.com",
+        "comment": "Ocdak si visan irailicun runulca banfow cavcap re fo dotuad wimdugop di caenameh kumutdu.",
+        "rating": -0.8477,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774525-MAIN",
+            "base_score": 0.9253,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~60.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows Phone 7.5 Mango"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1 MP, VGA@15fps"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, cyan, white, magenta"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, Carl Zeiss optics, autofocus, dual-LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "160 g (5.64 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.33 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~217 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.29 W/kg (head)     0.95 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 205"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h (2G) / Up to 300 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 33"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 7 h (2G) / Up to 7 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, February"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 160 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, May"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.4 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm APQ8055 Snapdragon S2"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 1830 mAh battery (BP-6EW)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "127.8 x 68.5 x 11.5 mm, 90 cc (5.03 x 2.70 x 0.45 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 33"
+                }
+            ],
+            "name": "Nokia Lumia 900"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774525-REVIEW",
+            "range": "1506574774525-MAIN"
+        }
+    ]
+}

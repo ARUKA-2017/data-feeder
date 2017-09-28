@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774478-REVIEW",
+        "user_name": "",
+        "email": "mi@gmail.com",
+        "comment": "Majilaka nelus gobegu ujoubo cajeudu rotajvos iv gopan edu figaruz ekta dodawfi poru fa ne ruc jail kosu.",
+        "rating": -0.6611,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774478-MAIN",
+            "base_score": 0.2244,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "8.0 inches (~71.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat), upgradable to 5.0.2 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White, Luminous Orange, Luminous Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "344 g (12.13 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "800 x 1280 pixels (~188 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP, 720p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 3(1800), 4(1700/2100), 7(2600), 20(800)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 240 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8926 Snapdragon 400"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 4200 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "210.8 x 124.2 x 10 mm (8.30 x 4.89 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, Wi-Fi Direct, DLNA"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 3(1800), 7(2600), 8(900), 20(800)"
+                }
+            ],
+            "name": "LG G Pad 8.0 LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774478-REVIEW",
+            "range": "1506574774478-MAIN"
+        }
+    ]
+}

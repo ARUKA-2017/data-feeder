@@ -1,0 +1,162 @@
+{
+    "review_info": {
+        "id": "1506574774462-REVIEW",
+        "user_name": "",
+        "email": "gudo@gmail.com",
+        "comment": "Bazdaho fe vurfosa dicur puz uwku ahedimbap tugof not asti tenic tebmek tosa war mav ulla fi lenmepza.",
+        "rating": -0.4782,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774462-MAIN",
+            "base_score": 0.3791,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.9 inches, 30 x 37 mm (~30.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 700 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Call records",
+                    "value": "30 dialed, 30 received, 30 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~108 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "98 g (3.46 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic ringtones, composer"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2004, 4Q"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "Games",
+                    "value": "3 + 2 pre-loaded Java games + downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "20 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 x 8 fields, Photo call"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 180 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "3 - Electric Blue, Cool Pink, Funky Gold"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "83.5 x 45 x 23.1 mm (3.29 x 1.77 x 0.91 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "BenQ A500"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774462-REVIEW",
+            "range": "1506574774462-MAIN"
+        }
+    ]
+}

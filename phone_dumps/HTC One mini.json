@@ -1,0 +1,198 @@
+{
+    "review_info": {
+        "id": "1506574774524-REVIEW",
+        "user_name": "",
+        "email": "rulef@gmail.com",
+        "comment": "Kawvin ifi ez teorab bo leh taeju zeun kit ogdo ma loalbo.",
+        "rating": -0.8298,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774524-MAIN",
+            "base_score": 0.9585,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches (~61.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat), planned upgrade to 5.0 (Lollipop)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, HDR, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Glacial Silver, Stealth Black, Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "4 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "122 g (4.30 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/3\" sensor size, 2µm pixel size, geo-tagging, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~342 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.90 W/kg (head)     0.49 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 500 h (2G) / Up to 692 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900) - Asia"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.6 MP, 720p"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - Asia"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, July"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - AT&T version"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 240 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, August"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.4 GHz Krait 200"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 400"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 1800 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "132 x 63.2 x 9.3 mm (5.20 x 2.49 x 0.37 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual band, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 3(1800), 7(2600), 20(800) - EMEA"
+                }
+            ],
+            "name": "HTC One mini"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774524-REVIEW",
+            "range": "1506574774524-MAIN"
+        }
+    ]
+}

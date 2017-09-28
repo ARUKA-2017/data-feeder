@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774510-REVIEW",
+        "user_name": "",
+        "email": "pisogaf@gmail.com",
+        "comment": "Amo cegbewa saejup dugwu sojlonej roujawaz camaf von lo ko abi to memuskoj tizhuzvuw itewokeg uje sogoho.",
+        "rating": -0.9719,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774510-MAIN",
+            "base_score": 0.075,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.6 inches (~39.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@24fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Jazz Black, Chacha Silver, Swing Pink, Energetic Black, Meteorite White, Nebula Red"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP, "
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Weight",
+                    "value": "115 g (4.06 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, video-calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.88 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~154 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes, incl. motion-based + downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "2000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 340 h (2G) / Up to 400 h (3G)"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML (NetFront), RSS reader"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, April. Released 2010, July"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "USB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "260 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "103 x 52 x 16 mm (4.06 x 2.05 x 0.63 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 7.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Zylo"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774510-REVIEW",
+            "range": "1506574774510-MAIN"
+        }
+    ]
+}

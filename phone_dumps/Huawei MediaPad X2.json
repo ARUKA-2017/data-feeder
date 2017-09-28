@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774473-REVIEW",
+        "user_name": "",
+        "email": "ladafe@gmail.com",
+        "comment": "Lockacuc zaje daakoj hit junar gardeprep ofiekusil tob hehipo aflov lec onuzivij zeprupapu awwah jov favolun jaguaju avo.",
+        "rating": -0.8627,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774473-MAIN",
+            "base_score": 0.2196,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.0 inches (~74.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 370 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - GEM-703L"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR, LE"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 5000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1200 x 1920 pixels (~323 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "239 g (8.43 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A53)"
+                },
+                {
+                    "key": "Type",
+                    "value": "LTPS IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-T628 MP4"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Hisilicon Kirin 930"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM/ 32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Moonlight silver, Amber gold"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "183.5 x 103.9 x 7.2 mm (7.22 x 4.09 x 0.28 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop), planned upgrade to 6.0 (Marshmallow)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700), 38(2600), 39(1900), 40(2300), 41(2500) - GEM-702L"
+                }
+            ],
+            "name": "Huawei MediaPad X2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774473-REVIEW",
+            "range": "1506574774473-MAIN"
+        }
+    ]
+}

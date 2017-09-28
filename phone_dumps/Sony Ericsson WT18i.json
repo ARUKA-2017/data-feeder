@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774509-REVIEW",
+        "user_name": "",
+        "email": "kedzil@gmail.com",
+        "comment": "Ja dopva hibeveja ezzo kerso licjuh is jez gahu wivav rawedid wiowzir ci tutabfis.",
+        "rating": -0.2751,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774509-MAIN",
+            "base_score": 0.0955,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~50.9% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 2.8/2 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1200 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, May. Released 2011, Q3"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@24fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 237 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": " TD-SCDMA"
+                },
+                {
+                    "key": "Primary",
+                    "value": "3.15 MP"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~180 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "110 g (3.88 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "806 MHz, Marvell PXA 920"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "150 MB"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 200 h (2G) / Up to 200 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106 x 56.5 x 14.3 mm (4.17 x 2.22 x 0.56 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android-based, OMS 2.5"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 80 kbps"
+                }
+            ],
+            "name": "Sony Ericsson WT18i"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774509-REVIEW",
+            "range": "1506574774509-MAIN"
+        }
+    ]
+}

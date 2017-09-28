@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774354-REVIEW",
+        "user_name": "",
+        "email": "pun@gmail.com",
+        "comment": "Uzuhuj ot non rugruvis lacal gugukdo lis recbocwej cirab nenarper jehu zom cupcuv du.",
+        "rating": 0.8689,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774354-MAIN",
+            "base_score": 0.184,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~46.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian OS 9.2, S60 rel. 3.1"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, Carl Zeiss optics, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "128 g (4.52 oz)"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Nokia Maps"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.79 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, Instant Messaging"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 280 h"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "QVGA videocall camera"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.05 W/kg (head)     0.76 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2007, August. Released 2007, October"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32, 107 / 64.2 kbps"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - American version"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 230 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "miniUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "332 MHz Dual ARM 11"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "GPU",
+                    "value": "3D Graphics HW Accelerator"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1200 mAh battery (BL-6F)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 128 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "99 x 53 x 21 mm, 96 cc (3.90 x 2.09 x 0.83 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, UPnP technology"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA"
+                }
+            ],
+            "name": "Nokia N95 8GB"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774354-REVIEW",
+            "range": "1506574774354-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774494-REVIEW",
+        "user_name": "",
+        "email": "natespec@gmail.com",
+        "comment": "Sepso dep fujutna fapve mafuco cof jo rofamu ujopu naw nagka selsomfu upevan umi.",
+        "rating": 0.0048,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774494-MAIN",
+            "base_score": 0.3835,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "OS",
+                    "value": "Nokia Asha software platform 1.1.1, upgradable to 1.4"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.8 inches (~41.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.67 W/kg (head)     0.59 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@25fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 42.8 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 11 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 42 h"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~143 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "89.3 g (3.14 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - RM-987"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, February"
+                },
+                {
+                    "key": "GPS",
+                    "value": "A-GPS only"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, February"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.07 W/kg (head)     0.77 W/kg (body)     "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "64 MB RAM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Li-Ion 1020 mAh battery (BL-5C) - Dual SIM"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Bright Red, Yellow, Bright Green, White, Cyan, Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "99.5 x 58.6 x 13.2 mm, 66.1 cc (3.92 x 2.31 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - RM-986"
+                }
+            ],
+            "name": "Nokia Asha 230"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774494-REVIEW",
+            "range": "1506574774494-MAIN"
+        }
+    ]
+}

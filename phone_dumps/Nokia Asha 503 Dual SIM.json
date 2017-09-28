@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774495-REVIEW",
+        "user_name": "",
+        "email": "solnazlo@gmail.com",
+        "comment": "Idomoode raleckob dim zasubew aj tewsukir id wu ci cubizulo igiwetes vebuwob.",
+        "rating": -0.3944,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774495-MAIN",
+            "base_score": 0.2016,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~44.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 100 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1200 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.43 W/kg (head)     0.64 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, October"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@19fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 12 h (2G) / Up to 4 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~133 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "111.4 g (3.92 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, November"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 480 h (2G) / Up to 480 h (3G)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Yellow, black, green, red, blue, white"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 4 GB card included"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102.6 x 60.6 x 12.7 mm (4.04 x 2.39 x 0.5 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "OS",
+                    "value": "Nokia Asha software platform 1.2, upgradable to 1.4"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 85.6 kbps"
+                }
+            ],
+            "name": "Nokia Asha 503 Dual SIM"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774495-REVIEW",
+            "range": "1506574774495-MAIN"
+        }
+    ]
+}

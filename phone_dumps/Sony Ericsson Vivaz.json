@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774511-REVIEW",
+        "user_name": "",
+        "email": "eshub@gmail.com",
+        "comment": "Jukuz run vezad ilpavgof fussom urgodfi jacukier bit vej jihipkam bizhan dojokotun dag berji acogo wenhafcu ahumetid.",
+        "rating": -0.8394,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774511-MAIN",
+            "base_score": 0.4906,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 10"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 "
+                },
+                {
+                    "key": "Weight",
+                    "value": "97 g (3.42 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.04 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 430 h (2G) / Up to 440 h (3G)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 1200 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 80 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2010, January. Released 2010, March"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT resistive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g, DLNA"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.2 inches (~51.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian Series 60, 5th edition"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@24fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 8 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Pink, Silver Moon, Cosmic Black, Galaxy Blue, Venus Ruby"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, video calling"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS; Wisepilot navigation"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 640 pixels (~229 ppi pixel density)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0 / xHTML (NetFront)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "720 MHz, PowerVR SGX GPU"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Internal",
+                    "value": "75 MB"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "107 x 51.7 x 12.5 mm (4.21 x 2.04 x 0.49 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 10.2/2 Mbps"
+                }
+            ],
+            "name": "Sony Ericsson Vivaz"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774511-REVIEW",
+            "range": "1506574774511-MAIN"
+        }
+    ]
+}

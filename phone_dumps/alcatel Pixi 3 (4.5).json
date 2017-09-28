@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774413-REVIEW",
+        "user_name": "",
+        "email": "sinudto@gmail.com",
+        "comment": "Isupilni umune rajefu horlin tafofim wa sesuc jej simkisme sacvacun japob faz.",
+        "rating": 0.7202,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774413-MAIN",
+            "base_score": 0.4385,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.5 inches (~64.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps (3G), 720p@30fps (4G)"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Various"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP or 8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "125 g (4.41 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, panorana. HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~218 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Li-Ion 1780 mAh battery (4G model)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 - LATAM"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600), 28(700) - LATAM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 900 / 2100 - LATAM"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 60 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM or Dual SIM (dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A7 (3G model)"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6572M (3G model)"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 10 h (2G) / Up to 9 h 30 min (3G)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 2 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "132.2 x 65.1 x 10 mm (5.20 x 2.56 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EMEA"
+                }
+            ],
+            "name": "alcatel Pixi 3 (4.5)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774413-REVIEW",
+            "range": "1506574774413-MAIN"
+        }
+    ]
+}

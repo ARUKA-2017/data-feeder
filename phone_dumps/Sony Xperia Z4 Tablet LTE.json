@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774507-REVIEW",
+        "user_name": "",
+        "email": "red@gmail.com",
+        "comment": "Cobenok rop cahruzmah hagibed bukwup wa dah kurjak viiwe zuovu dulsag vicawmet remli fek atefu livalito ji.",
+        "rating": -0.9312,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774507-MAIN",
+            "base_score": 0.9943,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "10.1 inches (~69.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.0 (Lollipop), 6.0 (Marshmallow), upgradable to 7.0 (Nougat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, HDR"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8.1 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "393 g (13.86 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "2560 x 1600 pixels (~299 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 430"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 296 kbps"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "5.1 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 40(2300)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, March"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE-A Cat6 300/50 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 500 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, June"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL 3.0 TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8994 Snapdragon 810"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes, up to 10 fingers"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "254 x 167 x 6.1 mm (10.0 x 6.57 x 0.24 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, WiFi Direct, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Up to 107 kbps"
+                }
+            ],
+            "name": "Sony Xperia Z4 Tablet LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774507-REVIEW",
+            "range": "1506574774507-MAIN"
+        }
+    ]
+}

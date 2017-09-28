@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774475-REVIEW",
+        "user_name": "",
+        "email": "we@gmail.com",
+        "comment": "Ciz nuhrip bucu mewaz zug mo honwe tuwazdih vatramrib ke bor beuredi.",
+        "rating": 0.8749,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774475-MAIN",
+            "base_score": 0.3022,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.38 inches (~62.0% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 270 EUR"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, heart rate, barometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 570 mAh battery"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, October"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, LE"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 - AT&T"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Space Black, Opal Blue, Opal Blue, Signature Brown"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 480 pixels (~348 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "92.7 g (3.28 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2016, March"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "LTE band 2(1900), 5(850) - AT&T"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "P-OLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 400"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 305"
+                },
+                {
+                    "key": "Build",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 768 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "44.5 x 44.5 x 14.2 mm (1.75 x 1.75 x 0.56 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android Wear, upgradable to 2.0"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "LG Watch Urbane 2nd Edition LTE"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774475-REVIEW",
+            "range": "1506574774475-MAIN"
+        }
+    ]
+}

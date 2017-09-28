@@ -1,0 +1,146 @@
+{
+    "review_info": {
+        "id": "1506574774463-REVIEW",
+        "user_name": "",
+        "email": "pefafiwag@gmail.com",
+        "comment": "Aloget bu vetja guzgouco onrinzu li wozit posnoz jon upe wof obu oweuc polguta aki jet sul.",
+        "rating": -0.9859,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774463-MAIN",
+            "base_score": 0.1264,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "128 x 128 pixels"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 820 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Mercury Silver, Carbon Black"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Weight",
+                    "value": "85 g (3.00 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic(32), MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Cancelled"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, May"
+                },
+                {
+                    "key": "Type",
+                    "value": "CSTN, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS, Email"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + Java downloadable"
+                },
+                {
+                    "key": "Internal",
+                    "value": "6.5 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "102 x 46 x 17.6 mm, 75 cc (4.02 x 1.81 x 0.69 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 8"
+                }
+            ],
+            "name": "BenQ-Siemens A58"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774463-REVIEW",
+            "range": "1506574774463-MAIN"
+        }
+    ]
+}

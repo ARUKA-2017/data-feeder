@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774440-REVIEW",
+        "user_name": "",
+        "email": "hintep@gmail.com",
+        "comment": "Huetza duj munzicrez larlidpid tose ra niib sifiv edto jadjeimi hototiowa ubo itarip.",
+        "rating": 0.4611,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774440-MAIN",
+            "base_score": 0.393,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "7.9 inches (~71.7% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 6, upgradable to iOS 9.3.5"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black/Slate, White/Silver"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "312 g (11.01 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900  - A1454; A1455"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "768 x 1024 pixels (~162 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX543MP2"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Non-removable Li-Po 4490 mAh battery (16.7 Wh)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100  - A1454; A1455"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October. Released 2012, November"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Oleophobic coating"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 1900 / 2100  - A1455"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 4(1700/2100), 17(700) - A1454"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 300 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, reversible connector"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Nano-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A5"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "200 x 134.7 x 7.2 mm (7.87 x 5.30 x 0.28 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "GPRS",
+                    "value": " LTE 700 / 850 / 1800 / 1900 / 2100  - A1455"
+                }
+            ],
+            "name": "Apple iPad mini Wi-Fi + Cellular"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774440-REVIEW",
+            "range": "1506574774440-MAIN"
+        }
+    ]
+}

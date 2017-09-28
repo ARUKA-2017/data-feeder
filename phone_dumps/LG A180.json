@@ -1,0 +1,158 @@
+{
+    "review_info": {
+        "id": "1506574774631-REVIEW",
+        "user_name": "",
+        "email": "ibiles@gmail.com",
+        "comment": "Hu udupi jozuf as mekwakzok neos cof podin tilu gijvot zol ivi vumwuleha fi ceisewa inevo ed roho.",
+        "rating": -0.3223,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774631-MAIN",
+            "base_score": 0.4347,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.52 inches (~15.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.77 W/kg (head)     "
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.97 W/kg (head)     0.65 W/kg (body)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 950 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Graphite"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~119 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "66.3 g (2.33 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 1900  - A180a"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2011, Q2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2011, February"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes (charging only)"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "300 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 950 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "106.3 x 44.9 x 14 mm (4.19 x 1.77 x 0.55 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 900 / 1800 - A180b"
+                }
+            ],
+            "name": "LG A180"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774631-REVIEW",
+            "range": "1506574774631-MAIN"
+        }
+    ]
+}

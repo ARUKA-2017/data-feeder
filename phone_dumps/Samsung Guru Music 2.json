@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774503-REVIEW",
+        "user_name": "",
+        "email": "emisme@gmail.com",
+        "comment": "Lof hekur nadmujvow ig nobifab re muf ojihek uwi zaneko koipro ucu fuccesro fifa unawu ba vupufaj.",
+        "rating": 0.6613,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774503-MAIN",
+            "base_score": 0.6749,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.0 inches (~24.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "Yes"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.87 W/kg (head)     "
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM, (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 160 pixels (~102 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "75 g (2.65 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, June"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, May"
+                },
+                {
+                    "key": "CPU",
+                    "value": "208 MHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Games",
+                    "value": "- MP3//AAC/WAV player"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Removable Li-Ion 800 mAh battery"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.7 x 46.4 x 13.1 mm (4.44 x 1.83 x 0.52 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Samsung Guru Music 2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774503-REVIEW",
+            "range": "1506574774503-MAIN"
+        }
+    ]
+}

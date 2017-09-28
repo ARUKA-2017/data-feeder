@@ -1,0 +1,206 @@
+{
+    "review_info": {
+        "id": "1506574774584-REVIEW",
+        "user_name": "",
+        "email": "ibaomhu@gmail.com",
+        "comment": "Woc elufo aj poptis ik bezfuzval febejuf rob nebkuf pazad reweogu heip sotda websajuv linrumimi hecuzdo lobabma ut.",
+        "rating": 0.5896,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774584-MAIN",
+            "base_score": 0.689,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.2 inches"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.2.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@60fps, HDR, stereo sound rec."
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, LE"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, face detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.41 W/kg (head)     0.47 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "960 x 1280 pixels (~308 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.50 W/kg (head)     0.69 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 775 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 12"
+                },
+                {
+                    "key": "Infrared port",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "2.1 MP"
+                },
+                {
+                    "key": "4G bands",
+                    "value": " LTE 800"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 2"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (SlimPort), USB Host"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, September"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.26 GHz Krait 400"
+                },
+                {
+                    "key": "Type",
+                    "value": "True HD-IPS + LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8974 Snapdragon 800"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 2610 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "-"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "LG Vu 3 F300L"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774584-REVIEW",
+            "range": "1506574774584-MAIN"
+        }
+    ]
+}

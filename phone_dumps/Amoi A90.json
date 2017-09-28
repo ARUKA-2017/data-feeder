@@ -1,0 +1,138 @@
+{
+    "review_info": {
+        "id": "1506574774438-REVIEW",
+        "user_name": "",
+        "email": "nagup@gmail.com",
+        "comment": "Itmebe vuha leljacwal geto elsuj owobejwar zakdoh ictazok rafsavome enkedom luhavi wihfin retligpis.",
+        "rating": -0.4594,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774438-MAIN",
+            "base_score": 0.399,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "128 x 160 pixels"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 1.2.1"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 550 mAh battery"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "- Second external mono OLED display (80 x 48 pixels) "
+                },
+                {
+                    "key": "Weight",
+                    "value": "83 g (2.93 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2004"
+                },
+                {
+                    "key": "Type",
+                    "value": "Color graphics, 4K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "Games",
+                    "value": "5 + downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "500 x 8 fields"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 90 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "86 x 44 x 21 mm (3.39 x 1.73 x 0.83 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 10"
+                }
+            ],
+            "name": "Amoi A90"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774438-REVIEW",
+            "range": "1506574774438-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,555 @@
+{
+    "review_info": {
+        "id": "1506574774390-REVIEW",
+        "user_name": "",
+        "email": "zuisa@gmail.com",
+        "comment": "Ofuzasa liv gudo huszil mi cezezpi jupip wecop tekab to pohsihuke ingi em gov norco zavbi vuvtofag.",
+        "rating": -0.5314,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774391-MAIN",
+            "base_score": 0.84,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.0 inches (~51.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.2 (Jelly Bean)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "720p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Weight",
+                    "value": "148.5 g (5.22 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face/smile detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.50 W/kg (head)     0.51 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 800 pixels (~233 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Mail, IM"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.61 W/kg (head)     1.03 W/kg (body)     "
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 570 h (2G) / Up to 370 h (3G)"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 15 h (2G) / Up to 9 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, January"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 14.4/5.76 Mbps"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 190 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, March"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A9"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1700 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "130.5 x 67.7 x 12 mm (5.14 x 2.67 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "Samsung S7710 Galaxy Xcover 2"
+        },
+        {
+            "id": "1001540878799599SECONDARY-COMP",
+            "name": "Samsung Galaxy Xcover 4",
+            "base_score": 0.5001,
+            "property": []
+        },
+        {
+            "id": "1001593092981232-PRIMARY-F-B",
+            "name": "Much newer bluetooth support",
+            "base_score": 0.617,
+            "property": []
+        },
+        {
+            "id": "1001579877981631-SECONDARY-F-B",
+            "name": "Much newer bluetooth support",
+            "base_score": 0.624,
+            "property": []
+        },
+        {
+            "id": "1001583076957515-PRIMARY-F-B",
+            "name": "Integrated compass",
+            "base_score": 0.7813,
+            "property": []
+        },
+        {
+            "id": "101514467262005-SECONDARY-F-B",
+            "name": "Integrated compass",
+            "base_score": 0.7518,
+            "property": []
+        },
+        {
+            "id": "1001535844034999-PRIMARY-F-B",
+            "name": "Built-in FM radio",
+            "base_score": 0.943,
+            "property": []
+        },
+        {
+            "id": "1001578726821061-SECONDARY-F-B",
+            "name": "Built-in FM radio",
+            "base_score": 0.8082,
+            "property": []
+        },
+        {
+            "id": "1001601998694352-PRIMARY-F-B",
+            "name": "Has an assisted GPS",
+            "base_score": 0.518,
+            "property": []
+        },
+        {
+            "id": "1001586778174871-SECONDARY-F-B",
+            "name": "Has an assisted GPS",
+            "base_score": 0.8657,
+            "property": []
+        },
+        {
+            "id": "1001552288003773-PRIMARY-F-B",
+            "name": "Lighter",
+            "base_score": 0.8171,
+            "property": []
+        },
+        {
+            "id": "1001583336433507-SECONDARY-F-B",
+            "name": "Lighter",
+            "base_score": 0.735,
+            "property": []
+        },
+        {
+            "id": "1001577686639590-PRIMARY-F-W",
+            "name": "Significantly higher resolution camera",
+            "base_score": 0.9405,
+            "property": []
+        },
+        {
+            "id": "1001600459280465-SECONDARY-F-W",
+            "name": "Significantly higher resolution camera",
+            "base_score": 0.5817,
+            "property": []
+        },
+        {
+            "id": "1001605618229317-PRIMARY-F-W",
+            "name": "Higher resolution screen",
+            "base_score": 0.8553,
+            "property": []
+        },
+        {
+            "id": "1001559684321302-SECONDARY-F-W",
+            "name": "Higher resolution screen",
+            "base_score": 0.9876,
+            "property": []
+        },
+        {
+            "id": "1001577286533098-PRIMARY-F-W",
+            "name": "Faster processor",
+            "base_score": 0.687,
+            "property": []
+        },
+        {
+            "id": "1001581237632473-SECONDARY-F-W",
+            "name": "Faster processor",
+            "base_score": 0.8674,
+            "property": []
+        },
+        {
+            "id": "1001519360347342-PRIMARY-F-W",
+            "name": "Higher PPI screen",
+            "base_score": 0.5913,
+            "property": []
+        },
+        {
+            "id": "1001533858282509-SECONDARY-F-W",
+            "name": "Higher PPI screen",
+            "base_score": 0.7656,
+            "property": []
+        },
+        {
+            "id": "1001567576274806-PRIMARY-F-W",
+            "name": "Larger screen",
+            "base_score": 0.8833,
+            "property": []
+        },
+        {
+            "id": "1001548114793695-SECONDARY-F-W",
+            "name": "Larger screen",
+            "base_score": 0.9148,
+            "property": []
+        },
+        {
+            "id": "1001524112705415-PRIMARY-F-W",
+            "name": "More internal storage",
+            "base_score": 0.759,
+            "property": []
+        },
+        {
+            "id": "1001596343716369-SECONDARY-F-W",
+            "name": "More internal storage",
+            "base_score": 0.5693,
+            "property": []
+        },
+        {
+            "id": "1001529770411126-PRIMARY-F-W",
+            "name": "Higher resolution movies",
+            "base_score": 0.8042,
+            "property": []
+        },
+        {
+            "id": "1001584839679156-SECONDARY-F-W",
+            "name": "Higher resolution movies",
+            "base_score": 0.8558,
+            "property": []
+        },
+        {
+            "id": "101509354446496-PRIMARY-F-W",
+            "name": "Thinner",
+            "base_score": 0.7707,
+            "property": []
+        },
+        {
+            "id": "1001566580389574-SECONDARY-F-W",
+            "name": "Thinner",
+            "base_score": 0.5118,
+            "property": []
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774390-REVIEW",
+            "range": "1506574774391-MAIN"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001593092981232-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001579877981631-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001593092981232-PRIMARY-F-B",
+            "range": "1001579877981631-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001583076957515-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "101514467262005-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001583076957515-PRIMARY-F-B",
+            "range": "101514467262005-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001535844034999-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001578726821061-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001535844034999-PRIMARY-F-B",
+            "range": "1001578726821061-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001601998694352-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001586778174871-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001601998694352-PRIMARY-F-B",
+            "range": "1001586778174871-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001552288003773-PRIMARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001583336433507-SECONDARY-F-B"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001552288003773-PRIMARY-F-B",
+            "range": "1001583336433507-SECONDARY-F-B"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001577686639590-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001600459280465-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001600459280465-SECONDARY-F-W",
+            "range": "1001577686639590-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001605618229317-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001559684321302-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001559684321302-SECONDARY-F-W",
+            "range": "1001605618229317-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001577286533098-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001581237632473-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001581237632473-SECONDARY-F-W",
+            "range": "1001577286533098-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001519360347342-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001533858282509-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001533858282509-SECONDARY-F-W",
+            "range": "1001519360347342-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001567576274806-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001548114793695-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001548114793695-SECONDARY-F-W",
+            "range": "1001567576274806-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001524112705415-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001596343716369-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001596343716369-SECONDARY-F-W",
+            "range": "1001524112705415-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "1001529770411126-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001584839679156-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001584839679156-SECONDARY-F-W",
+            "range": "1001529770411126-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1506574774391-MAIN",
+            "range": "101509354446496-PRIMARY-F-W"
+        },
+        {
+            "type": "Feature",
+            "domain": "1001540878799599SECONDARY-COMP",
+            "range": "1001566580389574-SECONDARY-F-W"
+        },
+        {
+            "type": "BetterThan",
+            "domain": "1001566580389574-SECONDARY-F-W",
+            "range": "101509354446496-PRIMARY-F-W"
+        }
+    ]
+}

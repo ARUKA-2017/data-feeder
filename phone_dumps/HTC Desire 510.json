@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774471-REVIEW",
+        "user_name": "",
+        "email": "hoho@gmail.com",
+        "comment": "Kubin ledaluhag sid uh junudo awe la sas hi cin ol nu untiim jozre.",
+        "rating": -0.5767,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774471-MAIN",
+            "base_score": 0.8159,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~62.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.4.2 (KitKat)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Vanilla White, Jet Black, Dark Grey, Deep Navy Blue"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / CDMA / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "158 g (5.57 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - all versions"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "480 x 854 pixels (~208 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, Push Email"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 306 - EU model"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 646 h (3G)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes (market/operator dependent)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA/ 1.3 MP (Sprint)"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, August"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 17(700) - Cricket"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA 800 / 850 / 1900 - US"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1700 / 1900 / 2100  - US"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 200 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.2 GHz Cortex-A53 - EU model"
+                },
+                {
+                    "key": "Type",
+                    "value": "IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8916 Snapdragon 410 - EU model"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Po 2100 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "8 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "139.9 x 69.8 x 10 mm (5.51 x 2.75 x 0.39 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 3(1800), 7(2600), 20(800)"
+                }
+            ],
+            "name": "HTC Desire 510"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774471-REVIEW",
+            "range": "1506574774471-MAIN"
+        }
+    ]
+}

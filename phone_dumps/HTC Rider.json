@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774553-REVIEW",
+        "user_name": "",
+        "email": "ramzumir@gmail.com",
+        "comment": "Nefiz wijgu woken ce tozu benom atuba cipoz wazsa rom sorofnas bef lozo udita fa ob.",
+        "rating": -0.5865,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774553-MAIN",
+            "base_score": 0.8406,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.3 inches"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 1700 / 2100 / 1900"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Announced",
+                    "value": "Not officially announced yet"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0, A2DP, EDR"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "540 x 960 pixels (~256 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Stereoscopic photos & videos; geo-tagging"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.2 GHz Scorpion"
+                },
+                {
+                    "key": "Type",
+                    "value": "3D S-LCD capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 220"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm MSM8660 Snapdragon S3"
+                },
+                {
+                    "key": "Technology",
+                    "value": "CDMA / HSPA / EVDO"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, Push Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "-"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, WiMAX 802.16 e, DLNA, hotspot"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android OS"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "EV-DO Rev.A 3.1 Mbps, HSPA"
+                }
+            ],
+            "name": "HTC Rider"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774553-REVIEW",
+            "range": "1506574774553-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "review_info": {
+        "id": "1506574774492-REVIEW",
+        "user_name": "",
+        "email": "cat@gmail.com",
+        "comment": "Fa ni lovdi nanucuda roj cosinak kuli mupwa bif rowasjo ophali goji gockonow.",
+        "rating": 0.674,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774492-MAIN",
+            "base_score": 0.2184,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "1.4 inches (~12.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 20 EUR"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 800 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Cyan, White"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "128 x 128 pixels (~129 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "69.8 g (2.47 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Polyphonic"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, June"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, June"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (charging only)"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 MB RAM"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "2000 contacts"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 840 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "108.5 x 45.5 x 14.1 mm (4.27 x 1.79 x 0.56 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Nokia 105 (2015)"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774492-REVIEW",
+            "range": "1506574774492-MAIN"
+        }
+    ]
+}

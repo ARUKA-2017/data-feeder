@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774415-REVIEW",
+        "user_name": "",
+        "email": "jecha@gmail.com",
+        "comment": "Rol faro cumani jaslepo naktosup obaaki fopvuk mavud uzuvooro deba du ocur evizaim lufagopih nagnofu jujkimi.",
+        "rating": -0.321,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774415-MAIN",
+            "base_score": 0.8829,
+            "property": [
+                {
+                    "key": "Secondary",
+                    "value": "VGA (optional/operator dependent)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Firefox OS 1.3"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~52.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (dual stand-by)"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.1, A2DP"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "1.3 MP"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 30 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "93 g (3.28 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, October"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, October"
+                },
+                {
+                    "key": "CPU",
+                    "value": "1.0 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Spreadtrum 6821"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB ROM, 128 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "No"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 160 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Bluish Black, Dark Chocolate"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.2 x 62 x 12 mm (4.42 x 2.44 x 0.47 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Yes"
+                }
+            ],
+            "name": "alcatel Fire C 2G"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774415-REVIEW",
+            "range": "1506574774415-MAIN"
+        }
+    ]
+}

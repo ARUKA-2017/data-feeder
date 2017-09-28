@@ -1,0 +1,194 @@
+{
+    "review_info": {
+        "id": "1506574774517-REVIEW",
+        "user_name": "",
+        "email": "egmojib@gmail.com",
+        "comment": "Bajobeda fojit zov po guf razme jocekje ibibiebu ju uzenapwis kapaj vep nim pijmulkag jojev.",
+        "rating": 0.5374,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774517-MAIN",
+            "base_score": 0.222,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "5.0 inches (~71.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, 720p@120fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 256 GB (uses SIM 2 slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Onyx, Ceramic, Champagne"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Primary",
+                    "value": "13 MP, f/2.2, phase detection autofocus, LED flash"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "138 g / 160 g (4.87 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "1/3\" sensor size, 1.14 µm pixel size, geo-tagging, touch focus, face detection, panorama, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS, BDS"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.32 W/kg (head)     0.42 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1080 x 1920 pixels (~441 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.11 W/kg (head)     1.11 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "Adreno 330"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA, LTE"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "8 MP, f/2.4"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 - Europe"
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - Europe"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 270 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 2.3 GHz Krait 400"
+                },
+                {
+                    "key": "Type",
+                    "value": "AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Qualcomm Snapdragon 801"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16 GB, 3 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "140 x 69 x 6.9 mm (5.51 x 2.72 x 0.27 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 8(900) - USA"
+                }
+            ],
+            "name": "OnePlus X"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774517-REVIEW",
+            "range": "1506574774517-MAIN"
+        }
+    ]
+}

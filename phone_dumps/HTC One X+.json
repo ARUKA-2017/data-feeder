@@ -1,0 +1,202 @@
+{
+    "review_info": {
+        "id": "1506574774523-REVIEW",
+        "user_name": "",
+        "email": "ogu@gmail.com",
+        "comment": "Kodib piw vi adma cuzo dej jarpot remonve kili wehre ke mutak bik gumkepe pockuran lehwop fe padebado.",
+        "rating": 0.9076,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774523-MAIN",
+            "base_score": 0.8222,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "4.7 inches (~64.8% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Android 4.1.1 (Jelly Bean)"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@28ps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Stealth Black, Polar White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, aptX"
+                },
+                {
+                    "key": "Primary",
+                    "value": "8 MP, autofocus, LED flash, "
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA / LTE"
+                },
+                {
+                    "key": "Weight",
+                    "value": "135 g (4.76 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection, HDR"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS, GLONASS"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "720 x 1280 pixels (~312 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS (threaded view), MMS, Email, IM, Push Email"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.86 W/kg (head)     0.72 W/kg (body)     "
+                },
+                {
+                    "key": "GPU",
+                    "value": "ULP GeForce 2"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 360 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Yes"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.6 MP, 720p@30fps"
+                },
+                {
+                    "key": "4G bands",
+                    "value": "HSDPA 850 / 1900 / 2100 - for AT&T"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, proximity, compass"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5, Adobe Flash"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Speed",
+                    "value": "LTE band 4(1700/2100), 17(700) - AT&T"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0 (MHL TV-out)"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Micro-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.7 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super LCD2 capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "NVIDIA Tegra 3 AP37"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 2100 mAh battery"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32/64 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "134.4 x 69.9 x 8.9 mm (5.29 x 2.75 x 0.35 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 21.1/5.76 Mbps - Global version"
+                }
+            ],
+            "name": "HTC One X+"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774523-REVIEW",
+            "range": "1506574774523-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "review_info": {
+        "id": "1506574774355-REVIEW",
+        "user_name": "",
+        "email": "moz@gmail.com",
+        "comment": "Tezigaloh zatusov imomour hitdi veasno suwojin wut lutcas vidsap ni jaeta zu em cu apusa fekilmet darsa.",
+        "rating": -0.5879,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774355-MAIN",
+            "base_score": 0.6774,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 32"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, Carl Zeiss optics, autofocus, LED flash, "
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 / 2100 - American version"
+                },
+                {
+                    "key": "Weight",
+                    "value": "110 g (3.88 oz)"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.91 W/kg (head)     "
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 300 h (2G) / Up to 250 h (3G)"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 860 mAh battery"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 90 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2009, November. Released 2010, April"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Size",
+                    "value": "2.2 inches (~34.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Symbian 9.3, S60 rel. 3.2"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "480p@15fps"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 16 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Aluminum, Pink, Petrol-blue, Red, Lime, Purple"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "2.0, A2DP"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~182 ppi pixel density)"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 4 h (2G) / Up to 3 h (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML, Adobe Flash Lite"
+                },
+                {
+                    "key": "SAR",
+                    "value": "1.02 W/kg (head)     0.73 W/kg (body)     "
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 1900 / 2100 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Discontinued"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "CPU",
+                    "value": "600 MHz ARM 11"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Internal",
+                    "value": "45 MB, 128 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "95.2 x 46.1 x 15.9 mm, 52 cc (3.75 x 1.81 x 0.63 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSPA 10.2/2 Mbps"
+                }
+            ],
+            "name": "Nokia 6700 slide"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774355-REVIEW",
+            "range": "1506574774355-MAIN"
+        }
+    ]
+}

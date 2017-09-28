@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774497-REVIEW",
+        "user_name": "",
+        "email": "li@gmail.com",
+        "comment": "Le ejeboen emcab ahifunoz vozmefhiv kifdib ej jowmi zaacwe li kicbi ako zekumfe.",
+        "rating": 0.308,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774498-MAIN",
+            "base_score": 0.6855,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "OS",
+                    "value": "Tizen-based wearable platform"
+                },
+                {
+                    "key": "Size",
+                    "value": "1.2 inches (~43.5% screen-to-body ratio)"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, heart rate, barometer"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "No"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.1, A2DP, LE"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Ion 250 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Dark Gray, Silver"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 220 EUR"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "360 x 360 pixels (~302 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "47 g (1.66 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, August"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A7"
+                },
+                {
+                    "key": "Type",
+                    "value": "Super AMOLED capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 3"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400MP2"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Exynos 3250 Dual"
+                },
+                {
+                    "key": "Build",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Internal",
+                    "value": "4 GB, 512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "49.8 x 42.3 x 11.4 mm (1.96 x 1.67 x 0.45 in)"
+                },
+                {
+                    "key": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Samsung Gear S2"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774497-REVIEW",
+            "range": "1506574774498-MAIN"
+        }
+    ]
+}

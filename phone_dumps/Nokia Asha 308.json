@@ -1,0 +1,182 @@
+{
+    "review_info": {
+        "id": "1506574774497-REVIEW",
+        "user_name": "",
+        "email": "tuw@gmail.com",
+        "comment": "Jesfa jewfik tisimafe he vugseputu itoko awzig nanit jusisu fawok tiigo ohiabu lehci jin.",
+        "rating": -0.2103,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774497-MAIN",
+            "base_score": 0.0559,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "3.0 inches (~43.2% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "176x144@13fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 85.6 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, Golden light"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Weight",
+                    "value": "104 g (3.67 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, Polyphonic(64), WAV, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 - SIM 1 & SIM 2"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "0.93 W/kg (head)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 400 pixels (~155 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, MMS, Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "1000 entries, Photocall"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 600 h"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot), 2 GB included"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 17 h"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1110 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 70 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, October"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, September"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 65K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Internal",
+                    "value": "20 MB, 128 MB ROM, 64 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "109.9 x 54 x 13 mm, 67 cc (4.33 x 2.13 x 0.51 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1900 - SIM 1 & SIM 2"
+                }
+            ],
+            "name": "Nokia Asha 308"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774497-REVIEW",
+            "range": "1506574774497-MAIN"
+        }
+    ]
+}

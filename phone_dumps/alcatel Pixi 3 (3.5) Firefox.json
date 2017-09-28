@@ -1,0 +1,190 @@
+{
+    "review_info": {
+        "id": "1506574774414-REVIEW",
+        "user_name": "",
+        "email": "wiruaz@gmail.com",
+        "comment": "Beinoge hu adigimo kulcogi ebfuw hunra wud vurcu ubecouca wiboghi jem ziptav jitpos madikih iluhumi.",
+        "rating": 0.9355,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774414-MAIN",
+            "base_score": 0.8693,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Radio",
+                    "value": "FM radio"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "HSPA 21.1/5.76 Mbps"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP /LED flash (optional)"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSDPA 850 / 1900 - LATAM"
+                },
+                {
+                    "key": "Weight",
+                    "value": "98 g (3.46 oz)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Li-Ion 1150 mAh battery"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Up to 40 h"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 40 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2015, January"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT capacitive touchscreen, 256K colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n, hotspot"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "3.5 inches (~52.4% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Firefox 2.0"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Various"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "Yes, with A-GPS (optional)"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "320 x 480 pixels (~165 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Mediatek MT6572M"
+                },
+                {
+                    "key": "Music play",
+                    "value": "Up to 7 h (2G) / Up to 6 h 30 min (3G)"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - EMEA"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2015, May"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.0 GHz Cortex-A7"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, via Java MIDP emulator"
+                },
+                {
+                    "key": "GPU",
+                    "value": "Mali-400"
+                },
+                {
+                    "key": "Internal",
+                    "value": "512 MB, 256/512 MB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "112.2 x 62 x 11.9 mm (4.42 x 2.44 x 0.47 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "HSDPA 850 / 1900 / 2100 - LATAM"
+                }
+            ],
+            "name": "alcatel Pixi 3 (3.5) Firefox"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774414-REVIEW",
+            "range": "1506574774414-MAIN"
+        }
+    ]
+}

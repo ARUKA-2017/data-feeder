@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774440-REVIEW",
+        "user_name": "",
+        "email": "kifac@gmail.com",
+        "comment": "Zizbuhij deenevum jun sas ni se gecimhij ferumkuf iwesefez ut jazumhup kusez.",
+        "rating": -0.7211,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774440-MAIN",
+            "base_score": 0.5974,
+            "property": [
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, autofocus, "
+                },
+                {
+                    "key": "Weight",
+                    "value": "652 g (1.44 lb)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "iMessage, Email, Push Email, IM"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 720 h"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer, gyro, compass"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 350 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2012, October"
+                },
+                {
+                    "key": "Type",
+                    "value": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0, reversible connector"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n, dual-band"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Size",
+                    "value": "9.7 inches (~65.1% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "iOS 6, upgradable to iOS 10.3"
+                },
+                {
+                    "key": "Video",
+                    "value": "1080p@30fps, "
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black, White"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP"
+                },
+                {
+                    "key": "Features",
+                    "value": "Geo-tagging, touch focus, face detection"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "N/A"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1536 x 2048 pixels (~264 ppi pixel density)"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Apple A6X"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5 (Safari)"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Scratch-resistant glass, oleophobic coating"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2012, November"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Dual-core 1.4 GHz"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "GPU",
+                    "value": "PowerVR SGX554MP4 (quad-core graphics)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "16/32/64/128 GB, 1 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Apple iPad 4 Wi-Fi"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774440-REVIEW",
+            "range": "1506574774440-MAIN"
+        }
+    ]
+}

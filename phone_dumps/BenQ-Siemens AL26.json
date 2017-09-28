@@ -1,0 +1,150 @@
+{
+    "review_info": {
+        "id": "1506574774463-REVIEW",
+        "user_name": "",
+        "email": "pe@gmail.com",
+        "comment": "Kovzu mi zajutuz botbebi birup tepos ihosopa akrutsuv fun ovito upjupvan kar rav bopju lojhirek hunji suv li.",
+        "rating": 0.8145,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774463-MAIN",
+            "base_score": 0.1804,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "130 x 130 pixels"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 1.2.1"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Mini-SIM"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 1.0"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "No"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 600 mAh battery"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Pink"
+                },
+                {
+                    "key": "Call records",
+                    "value": "10 dialed, 10 received, 10 missed calls"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "- Special Hello Kitty wallpapers and ringtones"
+                },
+                {
+                    "key": "Weight",
+                    "value": "80 g (2.82 oz)"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; Downloadable polyphonic ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 900 / 1800 / 1900 "
+                },
+                {
+                    "key": "Status",
+                    "value": "Cancelled"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2006, August"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 65K colors"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS, EMS, MMS"
+                },
+                {
+                    "key": "USB",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Internal",
+                    "value": "1.5 MB"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 220 h"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Class 8"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "No"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "86.8 x 45.8 x 19.2 mm (3.42 x 1.80 x 0.76 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "GSM 850 / 1800 / 1900 - US version"
+                }
+            ],
+            "name": "BenQ-Siemens AL26"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774463-REVIEW",
+            "range": "1506574774463-MAIN"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "review_info": {
+        "id": "1506574774425-REVIEW",
+        "user_name": "",
+        "email": "daz@gmail.com",
+        "comment": "Safatu woz zur luf bifoc se ago taseg erafbi wadomom episivwi nete etpu mossa wi vak.",
+        "rating": 0.1439,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774425-MAIN",
+            "base_score": 0.7052,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "10.1 inches (~66.3% screen-to-body ratio)"
+                },
+                {
+                    "key": "OS",
+                    "value": "Microsoft Windows 10"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "VGA"
+                },
+                {
+                    "key": "Sensors",
+                    "value": "Accelerometer"
+                },
+                {
+                    "key": "Radio",
+                    "value": "No"
+                },
+                {
+                    "key": "SIM",
+                    "value": "No"
+                },
+                {
+                    "key": "Video",
+                    "value": "Yes"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "No"
+                },
+                {
+                    "key": "Java",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "HTML5"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "4.0, A2DP, EDR"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Non-removable Li-Po 6000 mAh battery"
+                },
+                {
+                    "key": "Primary",
+                    "value": "2 MP"
+                },
+                {
+                    "key": "Resolution",
+                    "value": "1280 x 800 pixels (~149 ppi pixel density)"
+                },
+                {
+                    "key": "Weight",
+                    "value": "625.7 g (1.38 lb)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration; MP3, WAV ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": " N/A"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2014, November"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "Announced",
+                    "value": "2014, November"
+                },
+                {
+                    "key": "CPU",
+                    "value": "Quad-core 1.33 GHz"
+                },
+                {
+                    "key": "Type",
+                    "value": "Capacitive touchscreen"
+                },
+                {
+                    "key": "Chipset",
+                    "value": "Intel Atom Z3735F"
+                },
+                {
+                    "key": "USB",
+                    "value": "2.0"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "Email, Push Email, IM"
+                },
+                {
+                    "key": "Technology",
+                    "value": "No cellular connectivity"
+                },
+                {
+                    "key": "Internal",
+                    "value": "32 GB, 2 GB RAM"
+                },
+                {
+                    "key": "Multitouch",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 150 h"
+                },
+                {
+                    "key": "Colors",
+                    "value": "Black"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "258 x 173 x 10.3 mm (10.16 x 6.81 x 0.41 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "Wi-Fi 802.11 b/g/n"
+                },
+                {
+                    "key": "Loudspeaker",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "No"
+                }
+            ],
+            "name": "Allview Wi10N PRO"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774425-REVIEW",
+            "range": "1506574774425-MAIN"
+        }
+    ]
+}

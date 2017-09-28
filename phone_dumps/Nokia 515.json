@@ -1,0 +1,186 @@
+{
+    "review_info": {
+        "id": "1506574774495-REVIEW",
+        "user_name": "",
+        "email": "fu@gmail.com",
+        "comment": "Rorzev tiri liuh jezkicvi no goboic ap umolotud jukone kegcom ositepor so guji ru zezuwa advom pafoasa.",
+        "rating": -0.3781,
+        "property": []
+    },
+    "entities": [
+        {
+            "id": "1506574774495-MAIN",
+            "base_score": 0.5369,
+            "property": [
+                {
+                    "key": "Size",
+                    "value": "2.4 inches (~32.6% screen-to-body ratio)"
+                },
+                {
+                    "key": "Technology",
+                    "value": "GSM / HSPA"
+                },
+                {
+                    "key": "Video",
+                    "value": "320p@30fps"
+                },
+                {
+                    "key": "EDGE",
+                    "value": "Up to 236.8 kbps"
+                },
+                {
+                    "key": "Colors",
+                    "value": "White, Black"
+                },
+                {
+                    "key": "Bluetooth",
+                    "value": "3.0/ 3.0, A2DP (single SIM only)"
+                },
+                {
+                    "key": "Primary",
+                    "value": "5 MP, LED flash"
+                },
+                {
+                    "key": "Call records",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Speed",
+                    "value": "HSPA 7.2/5.76 Mbps"
+                },
+                {
+                    "key": "Weight",
+                    "value": "101.1 g (3.56 oz)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Face detection, panorama"
+                },
+                {
+                    "key": "Alert types",
+                    "value": "Vibration, MP3 ringtones"
+                },
+                {
+                    "key": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)"
+                },
+                {
+                    "key": "GPS",
+                    "value": "No"
+                },
+                {
+                    "key": "SAR EU",
+                    "value": "1.15 W/kg (head)     1.14 W/kg (body)     "
+                },
+                {
+                    "key": "Resolution",
+                    "value": "240 x 320 pixels (~167 ppi pixel density)"
+                },
+                {
+                    "key": "Messaging",
+                    "value": "SMS(threaded view), MMS, Email, IM"
+                },
+                {
+                    "key": "Games",
+                    "value": "Yes + Downloadable"
+                },
+                {
+                    "key": "Phonebook",
+                    "value": "Yes, 1000 entries"
+                },
+                {
+                    "key": "Talk time",
+                    "value": "Up to 912 h (2G) / Up to 912 h (3G)"
+                },
+                {
+                    "key": "Card slot",
+                    "value": "microSD, up to 32 GB (dedicated slot)"
+                },
+                {
+                    "key": "Secondary",
+                    "value": "No"
+                },
+                {
+                    "key": "Browser",
+                    "value": "WAP 2.0/xHTML, HTML"
+                },
+                {
+                    "key": "SAR",
+                    "value": "0.92 W/kg (head)     1.03 W/kg (body)     "
+                },
+                {
+                    "key": "Announced",
+                    "value": "2013, August"
+                },
+                {
+                    "key": "Protection",
+                    "value": "Corning Gorilla Glass 2"
+                },
+                {
+                    "key": "3G bands",
+                    "value": "HSDPA 900 / 2100 - SIM 1"
+                },
+                {
+                    "key": "Radio",
+                    "value": "Stereo FM radio, RDS, recording"
+                },
+                {
+                    "key": "Price",
+                    "value": "About 140 EUR"
+                },
+                {
+                    "key": "3.5mm jack",
+                    "value": "Yes"
+                },
+                {
+                    "key": "Status",
+                    "value": "Available. Released 2013, September"
+                },
+                {
+                    "key": "USB",
+                    "value": "microUSB 2.0"
+                },
+                {
+                    "key": "SIM",
+                    "value": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+                },
+                {
+                    "key": "Type",
+                    "value": "TFT, 256K colors"
+                },
+                {
+                    "key": "Java",
+                    "value": "Yes, MIDP 2.1"
+                },
+                {
+                    "key": "Stand-by",
+                    "value": "Removable Li-Ion 1200 mAh battery (BL-4U)"
+                },
+                {
+                    "key": "Internal",
+                    "value": "256 MB, 64 MB RAM"
+                },
+                {
+                    "key": "Dimensions",
+                    "value": "114 x 48 x 11 mm, 56.7 cc (4.49 x 1.89 x 0.43 in)"
+                },
+                {
+                    "key": "WLAN",
+                    "value": "No"
+                },
+                {
+                    "key": "GPRS",
+                    "value": "Class 12"
+                }
+            ],
+            "name": "Nokia 515"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "MainEntity",
+            "domain": "1506574774495-REVIEW",
+            "range": "1506574774495-MAIN"
+        }
+    ]
+}
