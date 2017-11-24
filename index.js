@@ -210,7 +210,7 @@ app.get("/phone/:name", (req, res) => {
 });
 
 
-app.listen(3000, function () {
+app.listen(3002, function () {
 
     // PhoneComparison.find({ compareModel: "iPhone 5" }, function (err, result) {
     //     if (err) {
