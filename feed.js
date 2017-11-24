@@ -47,7 +47,7 @@ function getPhoneDetails(ph) {
         },
         "entities": [],
         "relationships": []
-    }
+    };
 
 
     // setting main entity

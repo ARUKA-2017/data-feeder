@@ -19,7 +19,7 @@ mongoose.connect('mongodb://nilesh:akura@ds147544.mlab.com:47544/akura');
 
 function getPhoneDetails(model, res) {
 
-    request.get('http://0.0.0.0:5000/phone/' + model, function (error, response, body) {
+    request.get('http://35.202.18.187:5000/phone/' + model, function (error, response, body) {
         if (!error) {
             var ph = JSON.parse(JSON.parse(body).data);
 
@@ -90,8 +90,8 @@ function getPhoneDetails(model, res) {
                                 secondaryName = data.compareModel;
                             }
                             // TODO compare model name get the correct name
-                            console.log(data.compareModel)
-                            if(!data.compareModel){
+                            console.log(data.compareModel);
+                            if (!data.compareModel) {
                                 return;
                             }
                             var secondary = {
@@ -148,7 +148,7 @@ function getPhoneDetails(model, res) {
 
                             data.worseThanFeatures.map((worse) => {
 
-                                var primaryFeatureId = Date.now() + chance.fbid() + "-PRIMARY-F-W";;
+                                var primaryFeatureId = Date.now() + chance.fbid() + "-PRIMARY-F-W";
                                 var feature = {
                                     "id": primaryFeatureId,
                                     "name": worse,
@@ -180,7 +180,6 @@ function getPhoneDetails(model, res) {
                                     range: feature2.id
                                 });
 
-
                                 // add worse than
                                 json.relationships.push({
                                     type: "BetterThan",
@@ -189,21 +188,16 @@ function getPhoneDetails(model, res) {
                                 });
                             });
                         });
-                        // FINAL OUT PUT
+                        // FINAL OUTPUT
                         if (end) {
-                            res.json(json)
+                            res.json(json);
                         } else {
                             comparisonFunc(true, "compareModel");
                         }
-
                     }
                 });
             }
-
         }
-
-
-
     });
 }
 
@@ -226,5 +220,5 @@ app.listen(3000, function () {
     //     }
     // });
 
-    console.log('Example app listening on port 3000!')
-})
+    console.log('Example app listening on port 3000!');
+});
