@@ -202,12 +202,30 @@ function getPhoneDetails(model, res) {
 }
 
 
+function getPhoneName(model, res) {
+    request.get('http://35.202.18.187:5000/phone/' + model, function (error, response, body) {
+        if (!error) {
+            try{
+            var ph = JSON.parse(JSON.parse(body).data);
+            res.send(ph.Model);
+            }catch(e){
+              res.status(404).json({message:"Not found"});  
+            }
+        }
+    });
+}
 
 
 app.get("/phone/:name", (req, res) => {
     var model = req.params.name;
     getPhoneDetails(model, res);
 });
+
+app.get("/phone_name/:name", (req, res) => {
+    var model = req.params.name;
+    getPhoneName(model, res);
+});
+
 
 
 app.listen(3002, function () {
@@ -220,5 +238,5 @@ app.listen(3002, function () {
     //     }
     // });
 
-    console.log('Example app listening on port 3000!');
+    console.log('Example app listening on port 3002!');
 });
