@@ -23,6 +23,7 @@ mongoose.connect('mongodb://nilesh:akura@ds147544.mlab.com:47544/akura');
 
 
 function getPhoneDetails(model, res) {
+    console.log("came to  getPhoneDetails");
     var nameResolverPromises = [];
     request.get('http://35.202.18.187:5000/phone/' + model, function (error, response, body) {
         if (!error) {
@@ -309,7 +310,7 @@ function extractEntity(name) {
         if (feature_registry[name]) {
             resolve(feature_registry[name]);
         } else if (rejected_features.indexOf(name) > -1) {
-            
+            console.log("rejected by cache: "+ name);
             reject(404);
         } else {
             request.get('http://35.198.251.53:4568/get-entity?entity=' + name, function (error, response, body) {
