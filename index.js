@@ -12,6 +12,8 @@ var Chance = require('chance');
 var chance = new Chance();
 var phone_registry = {};
 var pending_phones = [];
+var feature_registry = {};
+var rejected_features = [];
 var app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -102,7 +104,7 @@ function getPhoneDetails(model, res) {
                             }
 
                             if (pending_phones.indexOf(model) === -1) {
-                                nameResolverPromises.push(resolvePhoneName(data.compareModel).then());
+                                nameResolverPromises.push(resolvePhoneName(data.compareModel).then(() => { }, () => { }));
                             }
 
                             var secondary = {
@@ -302,24 +304,36 @@ function resolvePhoneName(model) {
 }
 
 function extractEntity(name) {
+
     return new Promise((resolve, reject) => {
-        request.get('http://35.198.251.53:4568/get-entity?entity=' + name, function (error, response, body) {
-            if (!error) {
-                try {
-                    var data = JSON.parse(body).data;
-                    if (data) {
-                        resolve(data);
-                    } else {
-                        reject(404);
+        if (feature_registry[name]) {
+            resolve(feature_registry[name]);
+        } else if (feature_registry.indexOf(name) > -1) {
+            reject(404);
+        } else {
+            request.get('http://35.198.251.53:4568/get-entity?entity=' + name, function (error, response, body) {
+                if (!error) {
+                    try {
+                        var data = JSON.parse(body).data;
+                        if (data) {
+                            feature_registry[name] = data;
+                            resolve(data);
+                        } else {
+                            rejected_features.push(name);
+                            reject(404);
+                        }
+                    } catch (e) {
+                        rejected_features.push(name);
+                        reject("Exception for " + name);
                     }
-                } catch (e) {
-                    reject("Exception for " + name);
+
+                } else {
+                    rejected_features.push(name);
+                    reject(500);
                 }
 
-            } else {
-                reject(500);
-            }
-        });
+            });
+        }
     });
 }
 
