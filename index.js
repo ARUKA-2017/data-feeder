@@ -10,7 +10,42 @@ var Chance = require('chance');
 
 // Instantiate Chance so it can be used
 var chance = new Chance();
-var phone_registry = {};
+var phone_registry = {
+    'Grand X Max 2': 'ZTE Grand X Max 2',
+    'Xperia X Compact': 'Sony Xperia X Compact',
+    'Moto X Play': 'Motorola Moto X Play',
+    'Moto X Style': 'Motorola Moto X Style',
+    'Galaxy J7 Prime': 'Samsung Galaxy J7 Prime',
+    'Galaxy S II X': 'Samsung Galaxy S II X T989D',
+    'X Power': 'LG X power',
+    'HTC One (M8)': 'HTC One (M8)',
+    'Samsung Galaxy S II X T989D': 'Samsung Galaxy S II X T989D',
+    'Apple iPhone X': 'Apple iPhone X',
+    '8 Lite': 'Huawei P8 Lite (2017)',
+    'Apple iPhone 8': 'Apple iPhone 8',
+    'Galaxy S7 edge': 'Samsung Galaxy S7 edge',
+    'Galaxy A7 (2017)': 'Samsung Galaxy A7 (2017)',
+    'Galaxy S8+': 'Samsung Galaxy S8+',
+    'DROID Turbo 2': 'Motorola Droid Turbo 2',
+    'Galaxy S7': 'Samsung Galaxy S7',
+    'Stylo 2 V': 'LG Stylo 2',
+    'Redmi Note 4': 'Xiaomi Redmi Note 4',
+    'Xperia XZ': 'Sony Xperia XZ',
+    'F3 Plus': 'Oppo F3 Plus',
+    'Xperia XZ Premium': 'Sony Xperia XZ Premium',
+    'BlackBerry Keyone': 'BlackBerry Keyone',
+    'Samsung I9300 Galaxy S III': 'Samsung I9300 Galaxy S III',
+    'Samsung Galaxy S7': 'Samsung Galaxy S7',
+    'Sony Xperia T3': 'Sony Xperia T3',
+    'Sony Xperia L1': 'Sony Xperia L1',
+    'Sony Xperia XZs': 'Sony Xperia XZs',
+    'Nokia Lumia 930': 'Nokia Lumia 930',
+    'Motorola Moto Z Force': 'Motorola Moto Z Force',
+    'Sony Xperia Z1 Compact': 'Sony Xperia Z1 Compact',
+    'HTC Desire Eye': 'HTC Desire Eye',
+    'LG Stylo 2': 'LG Stylo 2',
+    'Apple iPhone 7': 'Apple iPhone 7'
+};
 var pending_phones = [];
 var feature_registry = {};
 var rejected_features = [];
@@ -308,11 +343,13 @@ function extractEntity(name) {
 
     return new Promise((resolve, reject) => {
         if (feature_registry[name]) {
+            console.log("Feature resolved by cache: " + name);
             resolve(feature_registry[name]);
         } else if (rejected_features.indexOf(name) > -1) {
-            console.log("rejected by cache: "+ name);
+            console.log("Feature rejected by cache: " + name);
             reject(404);
         } else {
+            console.log("Feature resolved by HTTP: " + name);
             request.get('http://35.198.251.53:4568/get-entity?entity=' + name, function (error, response, body) {
                 if (!error) {
                     try {
