@@ -308,7 +308,8 @@ function extractEntity(name) {
     return new Promise((resolve, reject) => {
         if (feature_registry[name]) {
             resolve(feature_registry[name]);
-        } else if (feature_registry.indexOf(name) > -1) {
+        } else if (rejected_features.indexOf(name) > -1) {
+            
             reject(404);
         } else {
             request.get('http://35.198.251.53:4568/get-entity?entity=' + name, function (error, response, body) {
